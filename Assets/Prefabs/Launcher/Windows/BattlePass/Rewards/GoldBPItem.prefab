@@ -160,10 +160,10 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 5234832270673390285, guid: 846a012e348569645856cf51f25eccff, type: 3}
-      insertIndex: 2
+      insertIndex: -1
       addedObject: {fileID: 6696965700690192346}
     - targetCorrespondingSourceObject: {fileID: 5234832270673390285, guid: 846a012e348569645856cf51f25eccff, type: 3}
-      insertIndex: 3
+      insertIndex: -1
       addedObject: {fileID: 260322097318650610}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 846a012e348569645856cf51f25eccff, type: 3}
@@ -200,6 +200,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BPReward
       objectReference: {fileID: 0}
+    - target: {fileID: 4595069597136069969, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1
@@ -209,16 +213,12 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 400
-      objectReference: {fileID: 0}
-    - target: {fileID: 7303323765923722888, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -200
+      value: -162.5
       objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -269,10 +269,6 @@ PrefabInstance:
     - target: {fileID: 1296963292050150282, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
       propertyPath: m_Name
       value: GoldReward
-      objectReference: {fileID: 0}
-    - target: {fileID: 4595069597136069969, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5214311514250900198, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
       propertyPath: m_AnchoredPosition.y

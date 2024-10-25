@@ -28,10 +28,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: GemReward
       objectReference: {fileID: 0}
-    - target: {fileID: 4595069597136069969, guid: fd0f805e34e88414a87c24062213aba3, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: fd0f805e34e88414a87c24062213aba3, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1

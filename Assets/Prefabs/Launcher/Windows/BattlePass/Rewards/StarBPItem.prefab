@@ -28,6 +28,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BPReward
       objectReference: {fileID: 0}
+    - target: {fileID: 4595069597136069969, guid: 0598770cb6a81f34d96d3386eab0bfb6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: 0598770cb6a81f34d96d3386eab0bfb6, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1
@@ -37,12 +41,8 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: 0598770cb6a81f34d96d3386eab0bfb6, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 400
-      objectReference: {fileID: 0}
-    - target: {fileID: 7303323765923722888, guid: 0598770cb6a81f34d96d3386eab0bfb6, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -200
+      value: -162.5
       objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: 0598770cb6a81f34d96d3386eab0bfb6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -93,10 +93,6 @@ PrefabInstance:
     - target: {fileID: 1296963292050150282, guid: 0598770cb6a81f34d96d3386eab0bfb6, type: 3}
       propertyPath: m_Name
       value: FreeReward
-      objectReference: {fileID: 0}
-    - target: {fileID: 4595069597136069969, guid: 0598770cb6a81f34d96d3386eab0bfb6, type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: 0598770cb6a81f34d96d3386eab0bfb6, type: 3}
       propertyPath: m_AnchorMax.y
@@ -272,10 +268,10 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 5234832270673390285, guid: 846a012e348569645856cf51f25eccff, type: 3}
-      insertIndex: 2
+      insertIndex: -1
       addedObject: {fileID: 5540935463934359458}
     - targetCorrespondingSourceObject: {fileID: 5234832270673390285, guid: 846a012e348569645856cf51f25eccff, type: 3}
-      insertIndex: 3
+      insertIndex: -1
       addedObject: {fileID: 4314962757251394028}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 846a012e348569645856cf51f25eccff, type: 3}

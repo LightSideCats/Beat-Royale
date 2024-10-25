@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1b850315f6fcb2d4fa84967430e2a4a5
+guid: 5cef3ec4e777e284d86f6a89c06300cd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8892405759094935928
-    second: arrow-button-yellow_0
+      213: -9052184299016637759
+    second: league-4_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 700
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
@@ -126,23 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: arrow-button-yellow_0
+      name: league-4_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 35
-        width: 1000
-        height: 446
+        x: 98
+        y: 3
+        width: 1874
+        height: 2039
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88e228a7314d79480800000000000000
-      internalID: -8892405759094935928
+      spriteID: 1c2bebf275e206280800000000000000
+      internalID: -9052184299016637759
       vertices: []
       indices: 
       edges: []
@@ -152,7 +152,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      arrow-button-yellow_0: -8892405759094935928
+      league-4_0: -9052184299016637759
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

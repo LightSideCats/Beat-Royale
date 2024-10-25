@@ -28,10 +28,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: StarReward
       objectReference: {fileID: 0}
-    - target: {fileID: 4595069597136069969, guid: 0598770cb6a81f34d96d3386eab0bfb6, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: 0598770cb6a81f34d96d3386eab0bfb6, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1

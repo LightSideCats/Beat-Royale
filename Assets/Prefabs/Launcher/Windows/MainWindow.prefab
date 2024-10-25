@@ -204,14 +204,7 @@ MonoBehaviour:
   onHiding: []
   onShowed: []
   onHidden: []
-  buttonActions:
-  - rid: 3882657562812481539
-  - rid: 3882657562812481542
-  - rid: 3882657562812481544
-  - rid: 3882657562812481546
-  - rid: 4216534958489993377
-  - rid: 3882657562812481548
-  - rid: 4216535028436041893
+  buttonActions: []
   references:
     version: 2
     RefIds:
@@ -220,89 +213,6 @@ MonoBehaviour:
       data:
         canvasGroup: {fileID: 1011038207463600823}
         duration: 0.2
-    - rid: 3882657562812481539
-      type: {class: LSButtonAction, ns: , asm: LSCore.UIModule}
-      data:
-        action:
-          rid: 3882657562812481541
-        button: {fileID: 8228244390387330106}
-    - rid: 3882657562812481541
-      type: {class: ShowWindow, ns: LSCore, asm: LSCore.WindowModule}
-      data:
-        window: StarSavers.Windows.ClanWindow
-        option: 0
-    - rid: 3882657562812481542
-      type: {class: LSButtonAction, ns: , asm: LSCore.UIModule}
-      data:
-        action:
-          rid: 6272343463963656593
-        button: {fileID: 521321269465168873}
-    - rid: 3882657562812481544
-      type: {class: LSButtonAction, ns: , asm: LSCore.UIModule}
-      data:
-        action:
-          rid: 4216535011450945688
-        button: {fileID: 5001944826898807684}
-    - rid: 3882657562812481546
-      type: {class: LSButtonAction, ns: , asm: LSCore.UIModule}
-      data:
-        action:
-          rid: 6272343463963656594
-        button: {fileID: 7839198690191043440}
-    - rid: 3882657562812481548
-      type: {class: LSButtonAction, ns: , asm: LSCore.UIModule}
-      data:
-        action:
-          rid: 3882657562812481550
-        button: {fileID: 3746617687188705072}
-    - rid: 3882657562812481550
-      type: {class: LoadScene, ns: , asm: LSCore.LSDelegates}
-      data:
-        sceneToLoad: Battle
-        useAddressables: 1
-        async: 1
-    - rid: 4216534958489993377
-      type: {class: LSButtonAction, ns: , asm: LSCore.UIModule}
-      data:
-        action:
-          rid: 4216534958489993378
-        button: {fileID: 1681840132900058067}
-    - rid: 4216534958489993378
-      type: {class: CreateOrShowCanvasView, ns: LSCore, asm: LSCore.WindowModule}
-      data:
-        prefab: {fileID: 7360943859682042979, guid: 05be05a7ca7b8854ab1bb650a2ad9994, type: 3}
-        transformActions: []
-        option: 2
-    - rid: 4216535011450945688
-      type: {class: CreateOrShowCanvasView, ns: LSCore, asm: LSCore.WindowModule}
-      data:
-        prefab: {fileID: 4609436186739142513, guid: fec1cfcadf4ac5145a10aa2a8db57fb5, type: 3}
-        transformActions: []
-        option: 2
-    - rid: 4216535028436041893
-      type: {class: LSButtonAction, ns: , asm: LSCore.UIModule}
-      data:
-        action:
-          rid: 4216535028436041894
-        button: {fileID: 6710089405771887120}
-    - rid: 4216535028436041894
-      type: {class: CreateOrShowCanvasView, ns: LSCore, asm: LSCore.WindowModule}
-      data:
-        prefab: {fileID: 1291975273355917798, guid: 3cf17520694b5ef429b635c58418ea9f, type: 3}
-        transformActions: []
-        option: 2
-    - rid: 6272343463963656593
-      type: {class: CreateOrShowCanvasView, ns: LSCore, asm: LSCore.WindowModule}
-      data:
-        prefab: {fileID: 8901135552760020856, guid: 686b9546d5005fb4ea918a31b0023537, type: 3}
-        transformActions: []
-        option: 2
-    - rid: 6272343463963656594
-      type: {class: CreateOrShowCanvasView, ns: LSCore, asm: LSCore.WindowModule}
-      data:
-        prefab: {fileID: 7360943859682042979, guid: 05be05a7ca7b8854ab1bb650a2ad9994, type: 3}
-        transformActions: []
-        option: 2
 --- !u!223 &1011038207463600821
 Canvas:
   m_ObjectHideFlags: 0
@@ -1078,10 +988,38 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7167806617022089378}
     m_Modifications:
+    - target: {fileID: 2215425475524200363, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: m_fontSize
+      value: 33
+      objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 2100000, guid: dfa109612dacd244093a8aaf26717b37, type: 2}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3573401271353475113
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'managedReferences[3573401271353475113]'
+      value: LSCore.WindowModule LSCore.CreateOrShowUIView
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475113].option
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475113].prefab
+      value: 
+      objectReference: {fileID: 8597463068776198526, guid: 6db93279efa4bed438ec0383b3ce9fd8, type: 3}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475113].transformActions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3745625830729780216, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_Material
       value: 
@@ -1092,11 +1030,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3775053046519076843, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4375003156964568240, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_text
       value: News
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375003156964568240, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: m_fontSize
+      value: 25.95
       objectReference: {fileID: 0}
     - target: {fileID: 4492575460975001665, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_Material
@@ -1132,7 +1074,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4667573943359861481, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -80
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4667573943359861481, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1178,6 +1120,18 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 2100000, guid: dfa109612dacd244093a8aaf26717b37, type: 2}
+    - target: {fileID: 7115080405580884393, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: m_fontSize
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 7837257885161043158, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: m_fontSize
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344726639550478684, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: m_fontSize
+      value: 33
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1334,6 +1288,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4765683294441224365, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 115.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 4765683294441224365, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 115.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 7531662732153391685, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -48.2
+      objectReference: {fileID: 0}
     - target: {fileID: 7751162778349590393, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
       propertyPath: m_Name
       value: TrophiesButton
@@ -1342,6 +1308,10 @@ PrefabInstance:
       propertyPath: m_fontSize
       value: 27.8
       objectReference: {fileID: 0}
+    - target: {fileID: 8421794767984054085, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8c0a7c1d56c37174aa3f21a3e04b2ff2, type: 3}
     - target: {fileID: 8421794767984054085, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
       propertyPath: m_Material
       value: 
@@ -1355,13 +1325,33 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 8646902945834300080, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646902945834300080, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646902945834300080, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3573401114223575415
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646902945834300080, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
+      propertyPath: 'managedReferences[3573401114223575415]'
+      value: LSCore.WindowModule LSCore.CreateOrShowCanvasView
       objectReference: {fileID: 0}
     - target: {fileID: 8646902945834300080, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
       propertyPath: 'managedReferences[4216535028436042374]'
       value: LSCore.AudioModule PlayOneShotSound
       objectReference: {fileID: 0}
+    - target: {fileID: 8646902945834300080, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
+      propertyPath: managedReferences[3573401114223575415].option
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646902945834300080, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
+      propertyPath: managedReferences[3573401114223575415].prefab
+      value: 
+      objectReference: {fileID: 6519884220055652478, guid: 1ae7f2ed0b936ef418e5471715ebc77a, type: 3}
     - target: {fileID: 8646902945834300080, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
       propertyPath: managedReferences[4216535028436042374].settings.clip
       value: 
@@ -1377,6 +1367,10 @@ PrefabInstance:
     - target: {fileID: 8646902945834300080, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
       propertyPath: managedReferences[4216535028436042374].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646902945834300080, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
+      propertyPath: managedReferences[3573401114223575415].transformActions.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8836629182920090747, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
       propertyPath: m_AnchorMax.x
@@ -1420,6 +1414,30 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 2100000, guid: dfa109612dacd244093a8aaf26717b37, type: 2}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3573401271353475128
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: 'managedReferences[3573401271353475128]'
+      value: LSCore.WindowModule LSCore.CreateOrShowUIView
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: managedReferences[3573401271353475128].option
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: managedReferences[3573401271353475128].prefab
+      value: 
+      objectReference: {fileID: 8597463068776198526, guid: 6db93279efa4bed438ec0383b3ce9fd8, type: 3}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: managedReferences[3573401271353475128].transformActions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4137401002241462822, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1721,12 +1739,44 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3573401271353475079
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
+      propertyPath: 'managedReferences[3573401271353475079]'
+      value: LSCore.WindowModule LSCore.CreateOrShowUIView
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
+      propertyPath: 'managedReferences[3573401271353475099]'
+      value: LSCore.WindowModule LSCore.SetParentAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
       propertyPath: 'managedReferences[4216534958489993267]'
       value: LSCore.AudioModule PlayOneShotSound
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
+      propertyPath: managedReferences[3573401271353475099].root
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
+      propertyPath: managedReferences[3573401271353475079].option
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
+      propertyPath: managedReferences[3573401271353475079].prefab
+      value: 
+      objectReference: {fileID: 8597463068776198526, guid: 6db93279efa4bed438ec0383b3ce9fd8, type: 3}
+    - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
+      propertyPath: managedReferences[3573401271353475099].pathToObject
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
       propertyPath: managedReferences[4216534958489993267].settings.clip
@@ -1743,6 +1793,18 @@ PrefabInstance:
     - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
       propertyPath: managedReferences[4216534958489993267].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
+      propertyPath: managedReferences[3573401271353475099].worldPositionStays
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
+      propertyPath: managedReferences[3573401271353475079].transformActions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204500533403239482, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
+      propertyPath: 'managedReferences[3573401271353475079].transformActions.Array.data[0]'
+      value: 3573401271353475099
       objectReference: {fileID: 0}
     - target: {fileID: 3465235487817884147, guid: 7625a988913bd7645b79ca16325919ea, type: 3}
       propertyPath: m_Name
@@ -2084,12 +2146,44 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3573401271353475121
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: 'managedReferences[3573401271353475116]'
+      value: LSCore.LSDelegates LoadScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: 'managedReferences[3573401271353475121]'
+      value: LSCore.LSDelegates LoadScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
       propertyPath: 'managedReferences[4216534958489993266]'
       value: LSCore.AudioModule PlayOneShotSound
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: managedReferences[3573401271353475116].async
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: managedReferences[3573401271353475121].async
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: managedReferences[3573401271353475116].sceneToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: managedReferences[3573401271353475121].sceneToLoad
+      value: Battle
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
       propertyPath: managedReferences[4216534958489993266].settings.clip
@@ -2103,6 +2197,14 @@ PrefabInstance:
       propertyPath: managedReferences[4216534958489993266].settings.group
       value: 
       objectReference: {fileID: 4589851771290346213, guid: 72496f9913afa6746a6f16a28a67d8b3, type: 2}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: managedReferences[3573401271353475116].useAddressables
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
+      propertyPath: managedReferences[3573401271353475121].useAddressables
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
       propertyPath: managedReferences[4216534958489993266].settings.volume
       value: 1
@@ -2144,22 +2246,6 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8143991003789552193, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 425
-      objectReference: {fileID: 0}
-    - target: {fileID: 8143991003789552193, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 180
-      objectReference: {fileID: 0}
-    - target: {fileID: 8143991003789552193, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8143991003789552193, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8143991003789552193, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -2184,17 +2270,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
---- !u!114 &3746617687188705072 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1859483897607432842, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
-  m_PrefabInstance: {fileID: 3040103673652258234}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a6708c6231b4c7fbe083ad45b3a9862, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!224 &6572399493008674811 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 8143991003789552193, guid: 3dad81800fb10ca42b09612842157d04, type: 3}
@@ -2327,13 +2402,33 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: dfa109612dacd244093a8aaf26717b37, type: 2}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3573401271353475103
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'managedReferences[3573401271353475103]'
+      value: LSCore.WindowModule LSCore.CreateOrShowUIView
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: 'managedReferences[4216535028436042369]'
       value: LSCore.AudioModule PlayOneShotSound
       objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475103].option
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475103].prefab
+      value: 
+      objectReference: {fileID: 8597463068776198526, guid: 6db93279efa4bed438ec0383b3ce9fd8, type: 3}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[4216535028436042369].settings.clip
       value: 
@@ -2349,6 +2444,10 @@ PrefabInstance:
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[4216535028436042369].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475103].transformActions.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2950966080417961064, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_IsActive
@@ -2517,13 +2616,45 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3573401271353475101
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'managedReferences[3573401271353475100]'
+      value: LSCore.WindowModule LSCore.CreateOrShowCanvasView
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'managedReferences[3573401271353475101]'
+      value: LSCore.WindowModule LSCore.CreateOrShowUIView
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: 'managedReferences[4216535028436042370]'
       value: LSCore.AudioModule PlayOneShotSound
       objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475100].option
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475100].prefab
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475101].option
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475101].prefab
+      value: 
+      objectReference: {fileID: 8597463068776198526, guid: 6db93279efa4bed438ec0383b3ce9fd8, type: 3}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[4216535028436042370].settings.clip
       value: 
@@ -2539,6 +2670,14 @@ PrefabInstance:
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[4216535028436042370].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475100].transformActions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475101].transformActions.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2950966080417961064, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_IsActive
@@ -2669,17 +2808,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
---- !u!114 &521321269465168873 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
-  m_PrefabInstance: {fileID: 3400751260376205771}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a6708c6231b4c7fbe083ad45b3a9862, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!224 &8068032179323206434 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 4667573943359861481, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
@@ -2784,13 +2912,33 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3573401271353475102
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'managedReferences[3573401271353475102]'
+      value: LSCore.WindowModule LSCore.CreateOrShowCanvasView
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: 'managedReferences[4216535028436042371]'
       value: LSCore.AudioModule PlayOneShotSound
       objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475102].option
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475102].prefab
+      value: 
+      objectReference: {fileID: 7360943859682042979, guid: 05be05a7ca7b8854ab1bb650a2ad9994, type: 3}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[4216535028436042371].settings.clip
       value: 
@@ -2806,6 +2954,10 @@ PrefabInstance:
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[4216535028436042371].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475102].transformActions.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2950966080417961064, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_IsActive
@@ -2952,17 +3104,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
---- !u!114 &1681840132900058067 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
-  m_PrefabInstance: {fileID: 4565215291801125361}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a6708c6231b4c7fbe083ad45b3a9862, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!224 &9195342029191230232 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 4667573943359861481, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
@@ -3191,13 +3332,13 @@ PrefabInstance:
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 3201329613965812654, guid: b6a96a45d882cbb4a8ff1861018645c3, type: 3}
       insertIndex: -1
+      addedObject: {fileID: 5422139277005494054}
+    - targetCorrespondingSourceObject: {fileID: 3201329613965812654, guid: b6a96a45d882cbb4a8ff1861018645c3, type: 3}
+      insertIndex: -1
       addedObject: {fileID: 3528356791378939464}
     - targetCorrespondingSourceObject: {fileID: 3201329613965812654, guid: b6a96a45d882cbb4a8ff1861018645c3, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1944405801918164209}
-    - targetCorrespondingSourceObject: {fileID: 3201329613965812654, guid: b6a96a45d882cbb4a8ff1861018645c3, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 5422139277005494054}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b6a96a45d882cbb4a8ff1861018645c3, type: 3}
 --- !u!224 &7167806617022089378 stripped
@@ -3246,8 +3387,20 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'managedReferences[3573401271353475127]'
+      value: LSCore.WindowModule LSCore.CreateOrShowCanvasView
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: 'managedReferences[4216535028436042375]'
       value: LSCore.AudioModule PlayOneShotSound
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475127].option
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475127].prefab
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[4216535028436042375].settings.clip
@@ -3264,6 +3417,10 @@ PrefabInstance:
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[4216535028436042375].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475127].transformActions.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3027591482156253857, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_IsActive
@@ -3583,12 +3740,44 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3573401271353475110
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'managedReferences[3573401271353475110]'
+      value: LSCore.WindowModule LSCore.CreateOrShowUIView
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'managedReferences[3573401271353475111]'
+      value: LSCore.WindowModule LSCore.SetParentAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: 'managedReferences[4216535028436042376]'
       value: LSCore.AudioModule PlayOneShotSound
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475111].root
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475110].option
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475110].prefab
+      value: 
+      objectReference: {fileID: 8597463068776198526, guid: 6db93279efa4bed438ec0383b3ce9fd8, type: 3}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475111].pathToObject
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[4216535028436042376].settings.clip
@@ -3605,6 +3794,18 @@ PrefabInstance:
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[4216535028436042376].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475111].worldPositionStays
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475110].transformActions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'managedReferences[3573401271353475110].transformActions.Array.data[0]'
+      value: 3573401271353475111
       objectReference: {fileID: 0}
     - target: {fileID: 2950966080417961064, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_IsActive
@@ -3756,17 +3957,6 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 4667573943359861481, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
   m_PrefabInstance: {fileID: 6502466703507529240}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &8228244390387330106 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
-  m_PrefabInstance: {fileID: 6502466703507529240}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a6708c6231b4c7fbe083ad45b3a9862, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &6686981799119598164
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3874,13 +4064,33 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3573401271353475104
+      objectReference: {fileID: 0}
+    - target: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
+      propertyPath: 'managedReferences[3573401271353475104]'
+      value: LSCore.WindowModule LSCore.CreateOrShowCanvasView
       objectReference: {fileID: 0}
     - target: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
       propertyPath: 'managedReferences[4216535028436042372]'
       value: LSCore.AudioModule PlayOneShotSound
       objectReference: {fileID: 0}
+    - target: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
+      propertyPath: managedReferences[3573401271353475104].option
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
+      propertyPath: managedReferences[3573401271353475104].prefab
+      value: 
+      objectReference: {fileID: 1291975273355917798, guid: 3cf17520694b5ef429b635c58418ea9f, type: 3}
     - target: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
       propertyPath: managedReferences[4216535028436042372].settings.clip
       value: 
@@ -3896,6 +4106,10 @@ PrefabInstance:
     - target: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
       propertyPath: managedReferences[4216535028436042372].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
+      propertyPath: managedReferences[3573401271353475104].transformActions.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 447379686118402818, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
       propertyPath: m_Material
@@ -4043,17 +4257,6 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 7656001379548436178, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
   m_PrefabInstance: {fileID: 6911864454287123465}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &6710089405771887120 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
-  m_PrefabInstance: {fileID: 6911864454287123465}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a6708c6231b4c7fbe083ad45b3a9862, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &7883417007110736294
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4091,13 +4294,33 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3573401271353475107
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'managedReferences[3573401271353475107]'
+      value: LSCore.WindowModule LSCore.CreateOrShowCanvasView
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: 'managedReferences[4216535028436042373]'
       value: LSCore.AudioModule PlayOneShotSound
       objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475107].option
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475107].prefab
+      value: 
+      objectReference: {fileID: 4609436186739142513, guid: fec1cfcadf4ac5145a10aa2a8db57fb5, type: 3}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[4216535028436042373].settings.clip
       value: 
@@ -4113,6 +4336,10 @@ PrefabInstance:
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[4216535028436042373].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475107].transformActions.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2950966080417961064, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_IsActive
@@ -4317,17 +4544,6 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 4667573943359861481, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
   m_PrefabInstance: {fileID: 7883417007110736294}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &5001944826898807684 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
-  m_PrefabInstance: {fileID: 7883417007110736294}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a6708c6231b4c7fbe083ad45b3a9862, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &7938627661573313105
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4350,6 +4566,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1585484961141196900, guid: 38395a873166bbc4c8334708b63313a4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2238121999006496186, guid: 38395a873166bbc4c8334708b63313a4, type: 3}
+      propertyPath: m_SortingLayer
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3385427363948630743, guid: 38395a873166bbc4c8334708b63313a4, type: 3}
@@ -4434,6 +4654,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3957266255915057804, guid: 38395a873166bbc4c8334708b63313a4, type: 3}
       propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4086416561119547357, guid: 38395a873166bbc4c8334708b63313a4, type: 3}
+      propertyPath: m_SortingLayer
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4187084081197875391, guid: 38395a873166bbc4c8334708b63313a4, type: 3}
@@ -4692,6 +4916,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8615753723119350870, guid: 38395a873166bbc4c8334708b63313a4, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8737429119157096178, guid: 38395a873166bbc4c8334708b63313a4, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -4714,10 +4942,38 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7167806617022089378}
     m_Modifications:
+    - target: {fileID: 2215425475524200363, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: m_fontSize
+      value: 33
+      objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 2100000, guid: dfa109612dacd244093a8aaf26717b37, type: 2}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3573401271353475112
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'managedReferences[3573401271353475112]'
+      value: LSCore.WindowModule LSCore.CreateOrShowUIView
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475112].option
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475112].prefab
+      value: 
+      objectReference: {fileID: 8597463068776198526, guid: 6db93279efa4bed438ec0383b3ce9fd8, type: 3}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475112].transformActions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3745625830729780216, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_Material
       value: 
@@ -4728,11 +4984,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3775053046519076843, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4375003156964568240, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_text
       value: Friends
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375003156964568240, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: m_fontSize
+      value: 25.95
       objectReference: {fileID: 0}
     - target: {fileID: 4492575460975001665, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_Material
@@ -4748,11 +5008,11 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: dfa109612dacd244093a8aaf26717b37, type: 2}
     - target: {fileID: 4667573943359861481, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4667573943359861481, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4667573943359861481, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4764,11 +5024,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4667573943359861481, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 300
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4667573943359861481, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -240
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4667573943359861481, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -4814,6 +5074,18 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 2100000, guid: dfa109612dacd244093a8aaf26717b37, type: 2}
+    - target: {fileID: 7115080405580884393, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: m_fontSize
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 7837257885161043158, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: m_fontSize
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344726639550478684, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: m_fontSize
+      value: 33
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4958,6 +5230,30 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3573401271353475122
+      objectReference: {fileID: 0}
+    - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
+      propertyPath: 'managedReferences[3573401271353475122]'
+      value: LSCore.WindowModule LSCore.CreateOrShowCanvasView
+      objectReference: {fileID: 0}
+    - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
+      propertyPath: managedReferences[3573401271353475122].option
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
+      propertyPath: managedReferences[3573401271353475122].prefab
+      value: 
+      objectReference: {fileID: 7360943859682042979, guid: 05be05a7ca7b8854ab1bb650a2ad9994, type: 3}
+    - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
+      propertyPath: managedReferences[3573401271353475122].transformActions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9184512295842074944, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
       propertyPath: m_SizeDelta.x
       value: 351.32
@@ -4992,17 +5288,6 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 9184512295842074944, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
   m_PrefabInstance: {fileID: 8895997407502662395}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &7839198690191043440 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
-  m_PrefabInstance: {fileID: 8895997407502662395}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a6708c6231b4c7fbe083ad45b3a9862, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &8954548559659079387
 PrefabInstance:
   m_ObjectHideFlags: 0

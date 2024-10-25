@@ -28,10 +28,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: GoldReward
       objectReference: {fileID: 0}
-    - target: {fileID: 4595069597136069969, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1
