@@ -1,4 +1,5 @@
-﻿using Battle.Data;
+﻿using Animatable;
+using Battle.Data;
 using StarSavers.Interfaces;
 using StarSavers.Windows;
 using LSCore;
@@ -38,6 +39,7 @@ namespace StarSavers.Launcher
             MainWindow.AsHome();
             MainWindow.Show();
             PlayerData.Config.SelectedHero.SubOnChangedAndCall(Create);
+            AnimatableCanvas.SortingOrder = 30000;
         }
         
         private void Create(string heroId)
