@@ -366,9 +366,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   showHideAnim:
     rid: 3882657626990837845
-  clickActions:
-  - rid: 3882657583162720276
-  - rid: 3882657583162720281
   onShowing:
   - rid: 3882657626990838090
   onHiding:
@@ -378,18 +375,6 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 3882657583162720276
-      type: {class: LSButtonAction, ns: , asm: LSCore.UIModule}
-      data:
-        action:
-          rid: 6272343463963656598
-        button: {fileID: 3919209198788977034}
-    - rid: 3882657583162720281
-      type: {class: LSButtonAction, ns: , asm: LSCore.UIModule}
-      data:
-        action:
-          rid: 6272343463963656599
-        button: {fileID: 6633694559504660599}
     - rid: 3882657626990837845
       type: {class: InOutShowHideAnim, ns: LSCore, asm: LSCore.UIModule}
       data:
@@ -582,26 +567,6 @@ MonoBehaviour:
         targetPath: 
         targetsPaths: []
         timeOffsetPerTarget: 0.1
-    - rid: 6272343463963656598
-      type: {class: CreateOrShowUIView, ns: LSCore, asm: LSCore.WindowModule}
-      data:
-        prefab: {fileID: 3820585858121548723, guid: d05e4491da48b314ba179e9cb5ca0c1c, type: 3}
-        transformActions:
-        - rid: 6272343463963656616
-        option: 1
-    - rid: 6272343463963656599
-      type: {class: CreateOrShowUIView, ns: LSCore, asm: LSCore.WindowModule}
-      data:
-        prefab: {fileID: 8727265988743854583, guid: aba4eab3e802b4345bae5ceb826cd57f, type: 3}
-        transformActions:
-        - rid: 6272343463963656616
-        option: 1
-    - rid: 6272343463963656616
-      type: {class: SetParentAction, ns: LSCore, asm: LSCore.WindowModule}
-      data:
-        root: {fileID: 1079404954527943290}
-        pathToObject: ..
-        worldPositionStays: 0
 --- !u!114 &6134276069661270145
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -726,7 +691,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 405438111595204419, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: m_Name
-      value: SociableButton
+      value: CommunityButton
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: m_Sprite
@@ -767,7 +732,7 @@ PrefabInstance:
     - target: {fileID: 1881147931105723731, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: d25635f927794d146856f73ab71fe737, type: 3}
+      objectReference: {fileID: 21300000, guid: 7e2835db7ae9f0f4a86737910aa5e7c4, type: 3}
     - target: {fileID: 2283812318329249081, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -1031,17 +996,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 623be12bd4367314b9e8311433882948, type: 3}
---- !u!114 &3919209198788977034 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
-  m_PrefabInstance: {fileID: 3435651408776497920}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a6708c6231b4c7fbe083ad45b3a9862, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!224 &6820884617146130753 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 8143991003789552193, guid: 623be12bd4367314b9e8311433882948, type: 3}
@@ -1217,17 +1171,6 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 8143991003789552193, guid: 623be12bd4367314b9e8311433882948, type: 3}
   m_PrefabInstance: {fileID: 5026484264687129341}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &6633694559504660599 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
-  m_PrefabInstance: {fileID: 5026484264687129341}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a6708c6231b4c7fbe083ad45b3a9862, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &7093600971784444169
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1299,7 +1242,7 @@ PrefabInstance:
     - target: {fileID: 1881147931105723731, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 628e06833b86f41279b2e4d55203c24f, type: 3}
+      objectReference: {fileID: 21300000, guid: f88d4507b3b596d4aa0adb0642e14326, type: 3}
     - target: {fileID: 2283812318329249081, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0

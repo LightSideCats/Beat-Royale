@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 593207ec3f1d1ab43aab9f72274d4942
+guid: cb189f923c4d2a44993032a74d74751d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2106996440140661544
-    second: icon-comet_0
+      213: -5942031529797901283
+    second: icon-news_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: icon-comet_0
+      name: icon-news_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 27
-        width: 484
-        height: 438
+        x: 19
+        y: 8
+        width: 476
+        height: 497
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8dc376aa6e172c2e0800000000000000
-      internalID: -2106996440140661544
+      spriteID: d14a93e4ec9a98da0800000000000000
+      internalID: -5942031529797901283
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      icon-comet_0: -2106996440140661544
+      icon-news_0: -5942031529797901283
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
