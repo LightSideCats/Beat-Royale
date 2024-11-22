@@ -74,6 +74,6 @@ MonoBehaviour:
   useChunk: 1
   dynamicGeneration: 1
   prefab: {fileID: 6970917815883780832, guid: 3b21aabbdcaa26f48963bee277d6f92d, type: 3}
-  chunkSideSize: 16
+  chunkSideSize: 32
   xChunkCount: 0
   yChunkCount: 0

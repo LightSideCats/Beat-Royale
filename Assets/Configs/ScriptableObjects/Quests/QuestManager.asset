@@ -26,15 +26,15 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+    - rid: 4837354680496423988
+      type: {class: All, ns: LSCore.LifecycleSystem, asm: LSCore.LifecycleSystem}
+      data: 
     - rid: 8269774452763132049
       type: {class: LifecycleManager/CreateImmediate, ns: LSCore.LifecycleSystem, asm: LSCore.LifecycleSystem}
       data:
         selector:
-          rid: 8269774452763132050
+          rid: 4837354680496423988
         count: 3
-    - rid: 8269774452763132050
-      type: {class: All, ns: LSCore.LifecycleSystem, asm: LSCore.LifecycleSystem}
-      data: 
     - rid: 8269774452763132051
       type: {class: LifecycleManager/StartAfterCreate, ns: LSCore.LifecycleSystem, asm: LSCore.LifecycleSystem}
       data:

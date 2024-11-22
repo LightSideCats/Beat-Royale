@@ -42,7 +42,8 @@ RenderSettings:
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 12
+  serializedVersion: 13
+  m_BakeOnSceneLoad: 0
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
@@ -239,6 +240,14 @@ PrefabInstance:
       value: 0..^1
       objectReference: {fileID: 0}
     - target: {fileID: 5016002439755863311, guid: cf805e5cf0db08c4b847f4f36bc9a68b, type: 3}
+      propertyPath: cameraButton
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5016002439755863311, guid: cf805e5cf0db08c4b847f4f36bc9a68b, type: 3}
+      propertyPath: galleryButton
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5016002439755863311, guid: cf805e5cf0db08c4b847f4f36bc9a68b, type: 3}
       propertyPath: heroesRenderersById
       value: 
       objectReference: {fileID: 11400000, guid: a86bc7175c5095e448bcd97bbb0f9c77, type: 2}
@@ -297,6 +306,7 @@ GameObject:
   m_Component:
   - component: {fileID: 746022038}
   - component: {fileID: 746022037}
+  - component: {fileID: 746022039}
   m_Layer: 5
   m_Name: Background
   m_TagString: Untagged
@@ -348,6 +358,23 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &746022039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 746022036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
 --- !u!1 &830007446
 GameObject:
   m_ObjectHideFlags: 0

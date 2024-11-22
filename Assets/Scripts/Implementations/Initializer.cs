@@ -10,6 +10,7 @@ using LSCore.ConfigModule;
 using LSCore.LevelSystem;
 using Sirenix.OdinInspector;
 using UnityEngine;
+using UnityEngine.AddressableAssets;
 using Action = System.Action;
 
 namespace StarSavers
@@ -86,8 +87,11 @@ namespace StarSavers
             var unit = heroesLevelsManager.GetCurrentLevel<Unit>(selectedHeroId);
             unit.RegisterComps();
             Debug.Log(unit.GetComp<BaseHealthComp>().Health);
-            
-            onInit();
+
+            Addressables.InitializeAsync().Completed += x =>
+            {
+                onInit();
+            };
         }
     }
 }
