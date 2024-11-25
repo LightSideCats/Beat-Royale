@@ -148,5 +148,5 @@ MonoBehaviour:
     gameObject: {fileID: 5630392515010282511, guid: 73189017aea9ed1498d78877881c63ba, type: 3}
   popupText:
     group: {fileID: 1419628747079426150, guid: f1f6b21d9d675fd4296a4d0a9286d39b, type: 3}
-    animOffset: {x: 0, y: 2}
+    animOffset: {x: 0, y: 200}
     duration: 1
