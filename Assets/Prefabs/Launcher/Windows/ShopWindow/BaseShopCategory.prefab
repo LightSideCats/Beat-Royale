@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8523363996096355905
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2225911745096538123, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3774418468969763654, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      propertyPath: m_Name
+      value: BaseShopCategory
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489401910132415961, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      propertyPath: m_Spacing
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 9216084108510085809, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9216084108510085809, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9216084108510085809, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9216084108510085809, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9216084108510085809, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9216084108510085809, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9216084108510085809, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9216084108510085809, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9216084108510085809, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3774418468969763654, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6844436359626998489}
+    - targetCorrespondingSourceObject: {fileID: 3774418468969763654, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5836843160579428000}
+  m_SourcePrefab: {fileID: 100100000, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+--- !u!224 &697787255106870512 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 9216084108510085809, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+  m_PrefabInstance: {fileID: 8523363996096355905}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4767200929138117895 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3774418468969763654, guid: 2edd93313184491408f94e86a08ff665, type: 3}
+  m_PrefabInstance: {fileID: 8523363996096355905}
+  m_PrefabAsset: {fileID: 0}
+--- !u!225 &6844436359626998489
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4767200929138117895}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &5836843160579428000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4767200929138117895}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf27d99893cb484db4b964e9e11a6cb1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showHideAnim:
+    rid: 3882657626990838253
+  onShowing:
+  - rid: 3882657697031782480
+  onHiding: []
+  onShowed: []
+  onHidden: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 3882657626990838253
+      type: {class: DefaultUIViewAnimation, ns: LSCore, asm: LSCore.UIModule}
+      data:
+        canvasGroup: {fileID: 6844436359626998489}
+        duration: 0.2
+    - rid: 3882657697031782480
+      type: {class: SetTargetToFollower, ns: LSCore.AnimationsModule, asm: LSCore.AnimationsModule}
+      data:
+        useValuePath: 1
+        root: {fileID: 697787255106870512}
+        compPath: ../../Tabs/Viewport/Content/Pointer
+        targetPath: ../../Tabs/Viewport/Content/Currency
+        comp: {fileID: 0}
+        target: {fileID: 0}
