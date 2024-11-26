@@ -838,64 +838,24 @@ PrefabInstance:
       value: Currency
       objectReference: {fileID: 0}
     - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: m_fontSize
-      value: 60
+      propertyPath: m_text
+      value: Currency
       objectReference: {fileID: 0}
     - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: m_margin.w
-      value: 64.10131
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: m_margin.x
-      value: 45.894325
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: m_margin.y
-      value: 34.56069
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: m_margin.z
-      value: 27.412956
-      objectReference: {fileID: 0}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: m_fontAsset
-      value: 
-      objectReference: {fileID: 11400000, guid: 2f0101526ef0d5144a7cdd1d5d8aeb9f, type: 2}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: m_sharedMaterial
-      value: 
-      objectReference: {fileID: 5878962532139945507, guid: 2f0101526ef0d5144a7cdd1d5d8aeb9f, type: 2}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: clickActions.isClickSoundOverride
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
-      value: 1801810542
-      objectReference: {fileID: 0}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: 'managedReferences[4216534844048670930]'
-      value: LSCore.AudioModule PlayOneShotSound
-      objectReference: {fileID: 0}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: managedReferences[4216534844048670930].settings.clip
-      value: 
-      objectReference: {fileID: 8300000, guid: d2dc2b00d006a4844989e8946ae0fcd6, type: 3}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: managedReferences[4216534844048670930].settings.loop
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: managedReferences[4216534844048670930].settings.group
-      value: 
-      objectReference: {fileID: 4589851771290346213, guid: 72496f9913afa6746a6f16a28a67d8b3, type: 2}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: managedReferences[4216534844048670930].settings.volume
-      value: 1
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8884151118277822423, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: m_AnchorMax.x
@@ -963,25 +923,13 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6351610793391057620}
     m_Modifications:
-    - target: {fileID: 916929648817980256, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: m_text
-      value: Special offers for you
-      objectReference: {fileID: 0}
-    - target: {fileID: 916929648817980256, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: m_fontSize
-      value: 54.3
-      objectReference: {fileID: 0}
     - target: {fileID: 3175855675785149023, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: m_Name
       value: Offers
       objectReference: {fileID: 0}
     - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: m_text
-      value: Special offers
-      objectReference: {fileID: 0}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: m_Enabled
-      value: 1
+      value: Spesial offers
       objectReference: {fileID: 0}
     - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: m_fontSize
@@ -989,55 +937,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: m_margin.w
-      value: 70.50737
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: m_margin.x
-      value: 43.936867
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: m_margin.y
-      value: 40.966675
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: m_margin.z
-      value: 22.519417
-      objectReference: {fileID: 0}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: m_fontAsset
-      value: 
-      objectReference: {fileID: 11400000, guid: 2f0101526ef0d5144a7cdd1d5d8aeb9f, type: 2}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: m_sharedMaterial
-      value: 
-      objectReference: {fileID: 5878962532139945507, guid: 2f0101526ef0d5144a7cdd1d5d8aeb9f, type: 2}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: clickActions.isClickSoundOverride
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
-      value: 1801810542
-      objectReference: {fileID: 0}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: 'managedReferences[4216534844048670931]'
-      value: LSCore.AudioModule PlayOneShotSound
-      objectReference: {fileID: 0}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: managedReferences[4216534844048670931].settings.clip
-      value: 
-      objectReference: {fileID: 8300000, guid: d2dc2b00d006a4844989e8946ae0fcd6, type: 3}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: managedReferences[4216534844048670931].settings.loop
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: managedReferences[4216534844048670931].settings.group
-      value: 
-      objectReference: {fileID: 4589851771290346213, guid: 72496f9913afa6746a6f16a28a67d8b3, type: 2}
-    - target: {fileID: 5285648789907880029, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
-      propertyPath: managedReferences[4216534844048670931].settings.volume
-      value: 1
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8884151118277822423, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: m_AnchorMax.x
