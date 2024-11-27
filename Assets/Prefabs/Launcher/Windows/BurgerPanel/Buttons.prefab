@@ -706,12 +706,44 @@ PrefabInstance:
       value: 1.4
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3302317827636855109
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'managedReferences[3302317827636855109]'
+      value: LSCore.WindowModule LSCore.CreateOrShowUIView
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'managedReferences[3302317827636855110]'
+      value: LSCore.WindowModule LSCore.SetParentAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: 'managedReferences[4216534958489993584]'
       value: LSCore.AudioModule PlayOneShotSound
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855110].root
+      value: 
+      objectReference: {fileID: 1079404954527943290}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855109].option
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855109].prefab
+      value: 
+      objectReference: {fileID: 3820585858121548723, guid: 76513cc1706396f4896aeb05b67dc3a8, type: 3}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855110].pathToObject
+      value: ..
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: managedReferences[4216534958489993584].settings.clip
@@ -728,6 +760,18 @@ PrefabInstance:
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: managedReferences[4216534958489993584].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855110].worldPositionStays
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855109].transformActions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'managedReferences[3302317827636855109].transformActions.Array.data[0]'
+      value: 3302317827636855110
       objectReference: {fileID: 0}
     - target: {fileID: 1881147931105723731, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: m_Sprite
@@ -876,12 +920,44 @@ PrefabInstance:
       value: 1.4
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3302317731496591848
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'managedReferences[3302317731496591848]'
+      value: LSCore.WindowModule LSCore.CreateOrShowUIView
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'managedReferences[3302317731496591849]'
+      value: LSCore.WindowModule LSCore.SetParentAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: 'managedReferences[4216534958489993583]'
       value: LSCore.AudioModule PlayOneShotSound
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317731496591849].root
+      value: 
+      objectReference: {fileID: 1079404954527943290}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317731496591848].option
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317731496591848].prefab
+      value: 
+      objectReference: {fileID: 3820585858121548723, guid: d05e4491da48b314ba179e9cb5ca0c1c, type: 3}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317731496591849].pathToObject
+      value: ..
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: managedReferences[4216534958489993583].settings.clip
@@ -898,6 +974,18 @@ PrefabInstance:
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: managedReferences[4216534958489993583].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317731496591849].worldPositionStays
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317731496591848].transformActions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'managedReferences[3302317731496591848].transformActions.Array.data[0]'
+      value: 3302317731496591849
       objectReference: {fileID: 0}
     - target: {fileID: 1881147931105723731, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: m_Sprite
@@ -1046,12 +1134,44 @@ PrefabInstance:
       value: 1.4
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3302317827636855105
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'managedReferences[3302317827636855105]'
+      value: LSCore.WindowModule LSCore.CreateOrShowUIView
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'managedReferences[3302317827636855106]'
+      value: LSCore.WindowModule LSCore.SetParentAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: 'managedReferences[4216534958489993582]'
       value: LSCore.AudioModule PlayOneShotSound
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855106].root
+      value: 
+      objectReference: {fileID: 1079404954527943290}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855105].option
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855105].prefab
+      value: 
+      objectReference: {fileID: 3820585858121548723, guid: 12f2230d290966d4285eaa990762a2ad, type: 3}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855106].pathToObject
+      value: ..
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: managedReferences[4216534958489993582].settings.clip
@@ -1068,6 +1188,18 @@ PrefabInstance:
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: managedReferences[4216534958489993582].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855106].worldPositionStays
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855105].transformActions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'managedReferences[3302317827636855105].transformActions.Array.data[0]'
+      value: 3302317827636855106
       objectReference: {fileID: 0}
     - target: {fileID: 1881147931105723731, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: m_Sprite
@@ -1216,12 +1348,44 @@ PrefabInstance:
       value: 1.4
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 3302317827636855107
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'managedReferences[3302317827636855107]'
+      value: LSCore.WindowModule LSCore.CreateOrShowUIView
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'managedReferences[3302317827636855108]'
+      value: LSCore.WindowModule LSCore.SetParentAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: 'managedReferences[4216534958489993581]'
       value: LSCore.AudioModule PlayOneShotSound
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855108].root
+      value: 
+      objectReference: {fileID: 1079404954527943290}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855107].option
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855107].prefab
+      value: 
+      objectReference: {fileID: 3820585858121548723, guid: 6dc9cbdf213ca164a88e0b1449e5ef69, type: 3}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855108].pathToObject
+      value: ..
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: managedReferences[4216534958489993581].settings.clip
@@ -1238,6 +1402,18 @@ PrefabInstance:
     - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: managedReferences[4216534958489993581].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855108].worldPositionStays
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: managedReferences[3302317827636855107].transformActions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 623be12bd4367314b9e8311433882948, type: 3}
+      propertyPath: 'managedReferences[3302317827636855107].transformActions.Array.data[0]'
+      value: 3302317827636855108
       objectReference: {fileID: 0}
     - target: {fileID: 1881147931105723731, guid: 623be12bd4367314b9e8311433882948, type: 3}
       propertyPath: m_Sprite

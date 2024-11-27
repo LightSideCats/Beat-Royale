@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 79adae6fbdd01f24e88bff02fa7edafb
+guid: 70b3c305dce86b94d96419b15c30cb57
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2690391740671620261
-    second: toggles_small-slider-off-3_0
+      213: -3807554261452653770
+    second: toggles-small-slider-off-7_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,8 +51,8 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 125, y: 90, z: 125, w: 65}
   spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -126,23 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: toggles_small-slider-off-3_0
+      name: toggles-small-slider-off-7_0
       rect:
         serializedVersion: 2
-        x: 5
+        x: 4
         y: 10
         width: 502
-        height: 235
+        height: 236
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a47069a801365520800000000000000
-      internalID: 2690391740671620261
+      spriteID: 63bf61f8299d82bc0800000000000000
+      internalID: -3807554261452653770
       vertices: []
       indices: 
       edges: []
@@ -152,7 +152,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      toggles_small-slider-off-3_0: 2690391740671620261
+      toggles-small-slider-off-7_0: -3807554261452653770
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
