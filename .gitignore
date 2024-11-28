@@ -67,10 +67,12 @@ crashlytics-build.properties
 /Assets/ExternalPlugins/HierarchyPro/Editor/_SAVED_DATA/
 Assets/FR2_Cache.asset
 *.dwlt
-UserSettings/EditorUserSettings.asset
+/UserSettings/
 *.vsconfig
 /Assets/Configs/Debug*
 .utmp
 Server
 Addressables
 Assets/AssetsUsages.json
+Assets/AddressableAssetsData/Android/addressables_content_state.bin
+Assets/AddressableAssetsData/link.xml.meta
