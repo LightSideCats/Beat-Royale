@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3b0a9f7632deb1f4a97fe0045c37a04c
+guid: 09935040129a0784cbade9544463657f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8362821872418963718
-    second: notifications-green-shadow_0
+      213: -6963822206029737714
+    second: title-1-green_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +52,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 345, y: 0, z: 345, w: 0}
   spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -126,23 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: notifications-green-shadow_0
+      name: title-1-green_0
       rect:
         serializedVersion: 2
-        x: 33
-        y: 23
-        width: 446
-        height: 467
+        x: 20
+        y: 93
+        width: 984
+        height: 322
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: afeb99ea0d941fb80800000000000000
-      internalID: -8362821872418963718
+      spriteID: e01de9a79988b5f90800000000000000
+      internalID: -6963822206029737714
       vertices: []
       indices: 
       edges: []
@@ -152,7 +152,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      notifications-green-shadow_0: -8362821872418963718
+      title-1-green_0: -6963822206029737714
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

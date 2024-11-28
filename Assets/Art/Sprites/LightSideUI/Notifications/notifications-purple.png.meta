@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8936c1a8b74306343aec3112f49f0035
+guid: 82076857bcfb7e6428f3855b6ccfc47e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7700953822185815430
-    second: notifications-blue-shadow_0
+      213: -8162950598954159345
+    second: notifications-purple_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -124,29 +124,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: notifications-blue-shadow_0
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 23
-        width: 446
-        height: 467
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 68d721b23b84fda60800000000000000
-      internalID: 7700953822185815430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     customData: 
     physicsShape: []
@@ -160,8 +138,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      notifications-blue-shadow_0: 7700953822185815430
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
