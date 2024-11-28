@@ -244,7 +244,7 @@ PrefabInstance:
     - target: {fileID: 1967610026409305773, guid: 099ea10b1b0afc74aa7b64d41866c537, type: 3}
       propertyPath: <Id>k__BackingField
       value: 
-      objectReference: {fileID: -6750239444755058063, guid: 635c0f22cd793754fba7cca16f9585ef, type: 3}
+      objectReference: {fileID: -6750239444755058063, guid: 3632a8f602be9f842acf43c33bac24d8, type: 3}
     - target: {fileID: 4425392870295031546, guid: 099ea10b1b0afc74aa7b64d41866c537, type: 3}
       propertyPath: m_Color.b
       value: 0.57412386
