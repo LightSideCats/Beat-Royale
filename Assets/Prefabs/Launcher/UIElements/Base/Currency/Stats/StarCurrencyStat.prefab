@@ -6,7 +6,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 494879883789623621}
+    m_TransformParent: {fileID: 7143131730904416382}
     m_Modifications:
     - target: {fileID: 608994568629182681, guid: 20876936d068ce34ab36d86031e61868, type: 3}
       propertyPath: m_AnchorMax.x
@@ -141,6 +141,22 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3513013208907501980, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_Name
+      value: StarCurrencyStat
+      objectReference: {fileID: 0}
+    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4990309529964062765, guid: a7fd486681891b54486bb052579f7d55, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -165,6 +181,12 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: managedReferences[3302317851167424821].message
+      value: <color=#26CDFF>Stars</color><material="LilitaOneNoOutline"> are needed
+        to improve the heroes.\n\nStars can be earned in battles, in Battle Pass,
+        in chests.</material>
+      objectReference: {fileID: 0}
     - target: {fileID: 5576457926976178048, guid: a7fd486681891b54486bb052579f7d55, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -179,34 +201,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5576457926976178048, guid: a7fd486681891b54486bb052579f7d55, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 64
-      objectReference: {fileID: 0}
-    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6142646223079387303, guid: a7fd486681891b54486bb052579f7d55, type: 3}
@@ -230,7 +224,7 @@ PrefabInstance:
       addedObject: {fileID: 815860309987550059}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7fd486681891b54486bb052579f7d55, type: 3}
---- !u!224 &494879883789623621 stripped
+--- !u!224 &7143131730904416382 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
   m_PrefabInstance: {fileID: 6126717335198073681}

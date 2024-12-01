@@ -16,10 +16,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: BaseShopCategory
       objectReference: {fileID: 0}
-    - target: {fileID: 4489401910132415961, guid: 2edd93313184491408f94e86a08ff665, type: 3}
-      propertyPath: m_Spacing
-      value: 30
-      objectReference: {fileID: 0}
     - target: {fileID: 9216084108510085809, guid: 2edd93313184491408f94e86a08ff665, type: 3}
       propertyPath: m_AnchorMax.x
       value: 1
@@ -101,6 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf27d99893cb484db4b964e9e11a6cb1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  initShowHideAnim: 0
   showHideAnim:
     rid: 3882657626990838253
   onShowing:

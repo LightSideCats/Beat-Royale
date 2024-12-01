@@ -264,7 +264,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5152584803132117391, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -19.09
+      value: -19.089996
       objectReference: {fileID: 0}
     - target: {fileID: 5152584803132117391, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -450,15 +450,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7794554964463470232, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 6.399994
-      objectReference: {fileID: 0}
-    - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
-      propertyPath: clickActions.isClickSoundOverride
-      value: 0
+      value: 6.4000015
       objectReference: {fileID: 0}
     - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
       propertyPath: 'managedReferences[4216535028436041998]'
       value: LSCore.AudioModule PlayOneShotSound
+      objectReference: {fileID: 0}
+    - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
+      propertyPath: 'managedReferences[6254766537536176248]'
+      value: LSCore.WindowModule LSCore.ShowTooltip
+      objectReference: {fileID: 0}
+    - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
+      propertyPath: managedReferences[6254766537536176248].prefab
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
+      propertyPath: managedReferences[6254766537536176248].target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
+      propertyPath: managedReferences[6254766537536176248].message
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
+      propertyPath: managedReferences[6254766537536176261].message
+      value: +200 experience points in battles every day until the end of the season
       objectReference: {fileID: 0}
     - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
       propertyPath: managedReferences[4216535028436041998].settings.clip
@@ -475,6 +491,10 @@ PrefabInstance:
     - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
       propertyPath: managedReferences[4216535028436041998].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
+      propertyPath: managedReferences[6254766537536176248].transformActions.Array.size
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1203,52 +1223,12 @@ PrefabInstance:
       value: DailyQuestsCategory
       objectReference: {fileID: 0}
     - target: {fileID: 699234118206671720, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
-      propertyPath: m_fontSize
-      value: 29.35
-      objectReference: {fileID: 0}
-    - target: {fileID: 699234118206671720, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
       propertyPath: m_hasFontAssetChanged
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1408227896492606775, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4076825968402401752, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
-      propertyPath: m_fontSize
-      value: 19.6
       objectReference: {fileID: 0}
     - target: {fileID: 4076825968402401752, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
       propertyPath: m_hasFontAssetChanged
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4143093506158024248, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5887414159346210547, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
-      propertyPath: clickActions.isClickSoundOverride
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5887414159346210547, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
-      propertyPath: 'managedReferences[4216535028436042002]'
-      value: LSCore.AudioModule PlayOneShotSound
-      objectReference: {fileID: 0}
-    - target: {fileID: 5887414159346210547, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
-      propertyPath: managedReferences[4216535028436042002].settings.clip
-      value: 
-      objectReference: {fileID: 8300000, guid: d2dc2b00d006a4844989e8946ae0fcd6, type: 3}
-    - target: {fileID: 5887414159346210547, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
-      propertyPath: managedReferences[4216535028436042002].settings.loop
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5887414159346210547, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
-      propertyPath: managedReferences[4216535028436042002].settings.group
-      value: 
-      objectReference: {fileID: 4589851771290346213, guid: 72496f9913afa6746a6f16a28a67d8b3, type: 2}
-    - target: {fileID: 5887414159346210547, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
-      propertyPath: managedReferences[4216535028436042002].settings.volume
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6955326973547614645, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
       propertyPath: m_AnchorMax.y
@@ -1291,15 +1271,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656932240217835188, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
-      propertyPath: m_fontSize
-      value: 26.95
-      objectReference: {fileID: 0}
-    - target: {fileID: 8656932240217835188, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
       propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 2939428907349222153, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
+    m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1425,6 +1400,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 379464359654394747}
     m_Modifications:
+    - target: {fileID: 408507429862371941, guid: ff46735c3ae58f1429eea915db43313b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 7.5
+      objectReference: {fileID: 0}
     - target: {fileID: 920829080650056135, guid: ff46735c3ae58f1429eea915db43313b, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -1640,7 +1619,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5538581396905441860, guid: 69d6d4041670e97428283fc2670534f1, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 4.61
+      value: 4.6100006
       objectReference: {fileID: 0}
     - target: {fileID: 5538581396905441860, guid: 69d6d4041670e97428283fc2670534f1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1754,7 +1733,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5538581396905441860, guid: 69d6d4041670e97428283fc2670534f1, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 102.27
+      value: 102.26999
       objectReference: {fileID: 0}
     - target: {fileID: 5538581396905441860, guid: 69d6d4041670e97428283fc2670534f1, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1835,12 +1814,37 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6123119735394691670, guid: 2de8c4438c2993541a86b143c0cd7328, type: 3}
     - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: clickActions.isClickSoundOverride
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 6254766537536176256
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: 'managedReferences[4216535028436041997]'
       value: LSCore.AudioModule PlayOneShotSound
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: 'managedReferences[6254766537536176256]'
+      value: LSCore.WindowModule LSCore.ShowTooltip
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: managedReferences[6254766537536176256].prefab
+      value: 
+      objectReference: {fileID: 938614287227378090, guid: f61b42cb52a368948933183d9662bf3a, type: 3}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: managedReferences[6254766537536176256].target
+      value: 
+      objectReference: {fileID: 3126315190868221391}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: managedReferences[6254766537536176256].message
+      value: The number of Battle Pass experience points that can be earned in battles
+        every day.\n\nExperience is needed to unlock Battle Pass reward levels.
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: managedReferences[4216535028436041997].settings.clip
@@ -1857,6 +1861,10 @@ PrefabInstance:
     - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: managedReferences[4216535028436041997].settings.volume
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: managedReferences[6254766537536176256].transformActions.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2477448237827518698, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: m_AnchorMax.x
@@ -1981,26 +1989,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: SeasonalQuestsCategory
       objectReference: {fileID: 0}
-    - target: {fileID: 699234118206671720, guid: 02aaf59a4a5b5484e8b6319fd42792dd, type: 3}
-      propertyPath: m_fontSize
-      value: 22.45
-      objectReference: {fileID: 0}
-    - target: {fileID: 699234118206671720, guid: 02aaf59a4a5b5484e8b6319fd42792dd, type: 3}
-      propertyPath: m_hasFontAssetChanged
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4076825968402401752, guid: 02aaf59a4a5b5484e8b6319fd42792dd, type: 3}
-      propertyPath: m_fontSize
-      value: 19.6
-      objectReference: {fileID: 0}
-    - target: {fileID: 4076825968402401752, guid: 02aaf59a4a5b5484e8b6319fd42792dd, type: 3}
-      propertyPath: m_hasFontAssetChanged
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5609825890769122106, guid: 02aaf59a4a5b5484e8b6319fd42792dd, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6955326973547614645, guid: 02aaf59a4a5b5484e8b6319fd42792dd, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2081,16 +2069,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8656932240217835188, guid: 02aaf59a4a5b5484e8b6319fd42792dd, type: 3}
-      propertyPath: m_fontSize
-      value: 26.95
-      objectReference: {fileID: 0}
-    - target: {fileID: 8656932240217835188, guid: 02aaf59a4a5b5484e8b6319fd42792dd, type: 3}
-      propertyPath: m_hasFontAssetChanged
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 2939428907349222153, guid: 02aaf59a4a5b5484e8b6319fd42792dd, type: 3}
+    m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []

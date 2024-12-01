@@ -6,7 +6,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 494879883789623621}
+    m_TransformParent: {fileID: 7143131730904416382}
     m_Modifications:
     - target: {fileID: 1291570333980282224, guid: c09eeb98b6d2030429424ff06c8dc645, type: 3}
       propertyPath: m_Name
@@ -35,6 +35,14 @@ PrefabInstance:
     - target: {fileID: 4687689413796121349, guid: c09eeb98b6d2030429424ff06c8dc645, type: 3}
       propertyPath: m_SizeDelta.y
       value: 83
+      objectReference: {fileID: 0}
+    - target: {fileID: 4687689413796121349, guid: c09eeb98b6d2030429424ff06c8dc645, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4687689413796121349, guid: c09eeb98b6d2030429424ff06c8dc645, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4687689413796121349, guid: c09eeb98b6d2030429424ff06c8dc645, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -175,6 +183,22 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3513013208907501980, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_Name
+      value: GemCurrencyStat
+      objectReference: {fileID: 0}
+    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4990309529964062765, guid: a7fd486681891b54486bb052579f7d55, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -203,6 +227,12 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: managedReferences[3302317851167424821].message
+      value: <color=#EA35F7>Gems</color><material="LilitaOneNoOutline"> are needed
+        to buy the heroes and other things in shop.\n\nGems can be obtained in the
+        Battle Pass or bought in the store for real money.</material>
+      objectReference: {fileID: 0}
     - target: {fileID: 5576457926976178048, guid: a7fd486681891b54486bb052579f7d55, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -227,18 +257,6 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6142646223079387303, guid: a7fd486681891b54486bb052579f7d55, type: 3}
       propertyPath: m_Name
       value: GemCurrencyStat
@@ -261,7 +279,7 @@ PrefabInstance:
       addedObject: {fileID: 5235732233733016236}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7fd486681891b54486bb052579f7d55, type: 3}
---- !u!224 &494879883789623621 stripped
+--- !u!224 &7143131730904416382 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 3902360840440152879, guid: a7fd486681891b54486bb052579f7d55, type: 3}
   m_PrefabInstance: {fileID: 6126717335198073681}

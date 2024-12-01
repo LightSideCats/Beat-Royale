@@ -12,6 +12,14 @@ PrefabInstance:
       propertyPath: m_text
       value: New Quest in
       objectReference: {fileID: 0}
+    - target: {fileID: 2163810106508575343, guid: e47988300caddfe4fa6cc6c1a9464020, type: 3}
+      propertyPath: m_fontSize
+      value: 19.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2163810106508575343, guid: e47988300caddfe4fa6cc6c1a9464020, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2692061862179222834, guid: e47988300caddfe4fa6cc6c1a9464020, type: 3}
       propertyPath: m_Name
       value: SeasonalQuestsCategory
@@ -26,7 +34,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3395859204389748959, guid: e47988300caddfe4fa6cc6c1a9464020, type: 3}
       propertyPath: m_fontSize
-      value: 23.4
+      value: 22.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 3395859204389748959, guid: e47988300caddfe4fa6cc6c1a9464020, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5049352418132826626, guid: e47988300caddfe4fa6cc6c1a9464020, type: 3}
       propertyPath: m_Pivot.x
@@ -108,9 +120,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7732316215728388237, guid: e47988300caddfe4fa6cc6c1a9464020, type: 3}
-      propertyPath: m_IsActive
+    - target: {fileID: 6824981261604424963, guid: e47988300caddfe4fa6cc6c1a9464020, type: 3}
+      propertyPath: m_fontSize
+      value: 26.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 6824981261604424963, guid: e47988300caddfe4fa6cc6c1a9464020, type: 3}
+      propertyPath: m_hasFontAssetChanged
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8584113441143332164, guid: e47988300caddfe4fa6cc6c1a9464020, type: 3}
+      propertyPath: managedReferences[6254766537536176261].message
+      value: Additional quests (1) every day until the end of the season
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
