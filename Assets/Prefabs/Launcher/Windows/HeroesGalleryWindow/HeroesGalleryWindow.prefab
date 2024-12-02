@@ -116,6 +116,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -649157678, guid: 9ce6c205fe627ac47a636d93f5372ab8, type: 3}
     - target: {fileID: 8161237861665105511, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
+      propertyPath: mirror.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8161237861665105511, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
       propertyPath: m_Color.b
       value: 0.2
       objectReference: {fileID: 0}
@@ -639,7 +643,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6875282853292411793, guid: 4fc37eca61845f74c81581d89ab19a6c, type: 3}
       propertyPath: m_fontSize
-      value: 41.6
+      value: 56.2
       objectReference: {fileID: 0}
     - target: {fileID: 7051431728821692807, guid: 4fc37eca61845f74c81581d89ab19a6c, type: 3}
       propertyPath: m_AnchorMax.y
@@ -1357,7 +1361,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6875282853292411793, guid: 2ec22f6fa33b5f74c8dfbfbe311465ea, type: 3}
       propertyPath: m_fontSize
-      value: 41.6
+      value: 56.2
       objectReference: {fileID: 0}
     - target: {fileID: 6875282853292411793, guid: 2ec22f6fa33b5f74c8dfbfbe311465ea, type: 3}
       propertyPath: m_fontAsset
@@ -1921,7 +1925,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5977778768909856647, guid: b1e5e874e9c0a5845adb435018e9c90a, type: 3}
       propertyPath: m_fontSize
-      value: 41.6
+      value: 56.2
       objectReference: {fileID: 0}
     - target: {fileID: 7788805835910182198, guid: b1e5e874e9c0a5845adb435018e9c90a, type: 3}
       propertyPath: m_AnchorMax.y
@@ -2195,7 +2199,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5977778768909856647, guid: 43ee8eceec7c8c64086b1690951ada58, type: 3}
       propertyPath: m_fontSize
-      value: 41.6
+      value: 56.2
       objectReference: {fileID: 0}
     - target: {fileID: 7788805835910182198, guid: 43ee8eceec7c8c64086b1690951ada58, type: 3}
       propertyPath: m_AnchorMax.y
@@ -2785,7 +2789,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6875282853292411793, guid: 199c8fb87864b9f42a0261b5c8995d0b, type: 3}
       propertyPath: m_fontSize
-      value: 41.6
+      value: 56.2
       objectReference: {fileID: 0}
     - target: {fileID: 7051431728821692807, guid: 199c8fb87864b9f42a0261b5c8995d0b, type: 3}
       propertyPath: m_AnchorMax.y
@@ -3183,7 +3187,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5977778768909856647, guid: 679698230d7d3e44fbec79a22a02884b, type: 3}
       propertyPath: m_fontSize
-      value: 41.6
+      value: 56.2
       objectReference: {fileID: 0}
     - target: {fileID: 7788805835910182198, guid: 679698230d7d3e44fbec79a22a02884b, type: 3}
       propertyPath: m_AnchorMax.y
@@ -3667,6 +3671,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -649157678, guid: 9ce6c205fe627ac47a636d93f5372ab8, type: 3}
+    - target: {fileID: 8161237861665105511, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
+      propertyPath: mirror.x
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8161237861665105511, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
       propertyPath: m_Color.b
       value: 0.2
@@ -4387,7 +4395,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6875282853292411793, guid: 7eb0d9532a422424395ca2847291e907, type: 3}
       propertyPath: m_fontSize
-      value: 41.6
+      value: 56.2
       objectReference: {fileID: 0}
     - target: {fileID: 7051431728821692807, guid: 7eb0d9532a422424395ca2847291e907, type: 3}
       propertyPath: m_AnchorMax.y
@@ -4785,7 +4793,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5977778768909856647, guid: 6ed6b5a3144191b4e93ccf6fab6f21b7, type: 3}
       propertyPath: m_fontSize
-      value: 41.6
+      value: 56.2
       objectReference: {fileID: 0}
     - target: {fileID: 7788805835910182198, guid: 6ed6b5a3144191b4e93ccf6fab6f21b7, type: 3}
       propertyPath: m_AnchorMax.y

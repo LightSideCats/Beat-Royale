@@ -224,6 +224,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1735389871126689357, guid: 691584c26f5cd114e88b6c7f711e3378, type: 3}
     - target: {fileID: 503269200865746823, guid: d024038cc74e9694e984043ffbb31057, type: 3}
+      propertyPath: mirror.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 503269200865746823, guid: d024038cc74e9694e984043ffbb31057, type: 3}
       propertyPath: m_PixelsPerUnitMultiplier
       value: 3.44
       objectReference: {fileID: 0}

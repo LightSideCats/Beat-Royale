@@ -76,6 +76,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4531715761048627293, guid: 846a012e348569645856cf51f25eccff, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 2.0999985
+      objectReference: {fileID: 0}
     - target: {fileID: 4668120995095627119, guid: 846a012e348569645856cf51f25eccff, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -269,10 +273,6 @@ PrefabInstance:
     - target: {fileID: 1296963292050150282, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
       propertyPath: m_Name
       value: GoldReward
-      objectReference: {fileID: 0}
-    - target: {fileID: 5214311514250900198, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 7.7199707
       objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
       propertyPath: m_AnchorMax.y

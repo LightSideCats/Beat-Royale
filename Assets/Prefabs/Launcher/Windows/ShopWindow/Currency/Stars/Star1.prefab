@@ -133,12 +133,24 @@ PrefabInstance:
       value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 7690458538631998085, guid: 5cfa27a46c689564fbd6b30d462d799f, type: 3}
+      propertyPath: enoughColorId
+      value: 
+      objectReference: {fileID: -6750239444755058063, guid: f12f15e50adc69b4a912fdb3d22e78f9, type: 3}
+    - target: {fileID: 7690458538631998085, guid: 5cfa27a46c689564fbd6b30d462d799f, type: 3}
       propertyPath: m_fontSizeMax
       value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 7690458538631998085, guid: 5cfa27a46c689564fbd6b30d462d799f, type: 3}
+      propertyPath: notEnoughColorId
+      value: 
+      objectReference: {fileID: -6750239444755058063, guid: 310d1de1fdc6dab47b75db4dc0c31212, type: 3}
+    - target: {fileID: 7690458538631998085, guid: 5cfa27a46c689564fbd6b30d462d799f, type: 3}
       propertyPath: <Number>k__BackingField
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7690458538631998085, guid: 5cfa27a46c689564fbd6b30d462d799f, type: 3}
+      propertyPath: changeTextColorIfNotEnough
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8108402640463963354, guid: 5cfa27a46c689564fbd6b30d462d799f, type: 3}
       propertyPath: m_AnchorMax.y

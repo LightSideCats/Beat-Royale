@@ -55,7 +55,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5181954887411265612}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Script: {fileID: 11500000, guid: ed241b6043c849b0a807a08b0de04447, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 2100000, guid: f38c80b53f645c44e86662b577a2e6c4, type: 2}
@@ -76,6 +76,11 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+  rotateId: 0
+  flip: {x: 0, y: 0}
+  mirror: {x: 0, y: 0}
+  combineFilledWithSliced: 0
+  ignoreSLAAAAYout: 0
 --- !u!114 &4590241323805230099
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -146,7 +151,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6509984146761855898}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Script: {fileID: 11500000, guid: ed241b6043c849b0a807a08b0de04447, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
@@ -167,6 +172,11 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+  rotateId: 0
+  flip: {x: 0, y: 0}
+  mirror: {x: 1, y: 0}
+  combineFilledWithSliced: 0
+  ignoreSLAAAAYout: 0
 --- !u!114 &3320046414059332140
 MonoBehaviour:
   m_ObjectHideFlags: 0
