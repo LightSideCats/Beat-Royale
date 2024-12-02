@@ -287,6 +287,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -4957386136017636930, guid: 188743e6166cee04c9bbe9ddcf193392, type: 3}
     - target: {fileID: 8161237861665105511, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
+      propertyPath: mirror.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8161237861665105511, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
       propertyPath: m_PixelsPerUnitMultiplier
       value: 1.2
       objectReference: {fileID: 0}
@@ -471,10 +475,6 @@ PrefabInstance:
     - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
       propertyPath: managedReferences[6254766537536176248].message
       value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
-      propertyPath: managedReferences[6254766537536176261].message
-      value: +200 experience points in battles every day until the end of the season
       objectReference: {fileID: 0}
     - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
       propertyPath: managedReferences[4216535028436041998].settings.clip

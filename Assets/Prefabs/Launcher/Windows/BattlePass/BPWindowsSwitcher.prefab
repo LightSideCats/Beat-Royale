@@ -15,7 +15,11 @@ PrefabInstance:
     - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21572039, guid: 2de8c4438c2993541a86b143c0cd7328, type: 3}
+      objectReference: {fileID: 6123119735394691670, guid: 2de8c4438c2993541a86b143c0cd7328, type: 3}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: mirror.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: m_PixelsPerUnitMultiplier
       value: 1.4
@@ -58,7 +62,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4061825190820478645, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: m_fontSize
-      value: 26.1
+      value: 41.4
       objectReference: {fileID: 0}
     - target: {fileID: 8143991003789552193, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: m_Pivot.x
@@ -389,6 +393,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 683530686, guid: 691584c26f5cd114e88b6c7f711e3378, type: 3}
+    - target: {fileID: 503269200865746823, guid: d024038cc74e9694e984043ffbb31057, type: 3}
+      propertyPath: mirror.x
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2359075250687977436, guid: d024038cc74e9694e984043ffbb31057, type: 3}
       propertyPath: m_Name
       value: BPWindowsSwitcher
@@ -490,9 +498,17 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: flip.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 1543426914, guid: a0b5a67357d9192459bcd30829f27b8e, type: 3}
+      objectReference: {fileID: 1130886171148376325, guid: a0b5a67357d9192459bcd30829f27b8e, type: 3}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: mirror.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: m_PixelsPerUnitMultiplier
       value: 1.4
@@ -535,7 +551,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4061825190820478645, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: m_fontSize
-      value: 32.65
+      value: 51.8
       objectReference: {fileID: 0}
     - target: {fileID: 8143991003789552193, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: m_AnchorMax.x

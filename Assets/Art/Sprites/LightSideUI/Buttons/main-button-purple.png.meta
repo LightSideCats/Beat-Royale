@@ -131,11 +131,11 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
+        width: 512
         height: 1024
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 300, y: 300, z: 300, w: 300}
+      border: {x: 300, y: 300, z: 0, w: 300}
       customData: 
       outline: []
       physicsShape: []
@@ -148,60 +148,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: main-button-purple-left
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 512
-        height: 1024
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 300, y: 300, z: 0, w: 300}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 07ec8f93f0c0ed249996a9d1604df19b
-      internalID: -89336412
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: main-button-purple-right
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 512
-        height: 1024
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 300, z: 300, w: 300}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e3179d54a07024f41b666cb1c964fac2
-      internalID: 1592970293
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: main-button-purple-top
       rect:
         serializedVersion: 2
         x: 0
         y: 512
-        width: 1024
+        width: 512
         height: 512
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 300, y: 0, z: 300, w: 300}
+      border: {x: 300, y: 0, z: 0, w: 300}
       customData: 
       outline: []
       physicsShape: []
@@ -219,11 +175,11 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
+        width: 512
         height: 512
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 300, y: 300, z: 300, w: 0}
+      border: {x: 300, y: 300, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []

@@ -131,11 +131,11 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
+        width: 512
         height: 1024
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 300, y: 300, z: 300, w: 300}
+      border: {x: 300, y: 300, z: 0, w: 300}
       customData: 
       outline: []
       physicsShape: []
@@ -153,11 +153,11 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 512
-        width: 1024
+        width: 512
         height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 300, y: 0, z: 300, w: 300}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 300, y: 0, z: 0, w: 300}
       customData: 
       outline: []
       physicsShape: []
@@ -175,11 +175,11 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
+        width: 512
         height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 300, y: 300, z: 300, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 300, y: 300, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -187,50 +187,6 @@ TextureImporter:
       bones: []
       spriteID: 2a601f33f482b7542b5ec55774c08e49
       internalID: 381732128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: character-rarity-panel-quasar-core-left
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 512
-        height: 1024
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 300, y: 300, z: 0, w: 300}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b40d631605aa3b47975eaaf7da5b0fa
-      internalID: -1178773374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: character-rarity-panel-quasar-core-right
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 512
-        height: 1024
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 300, z: 300, w: 300}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff0fb15dd0a440c41bb296474c4e373d
-      internalID: 1809750191
       vertices: []
       indices: 
       edges: []

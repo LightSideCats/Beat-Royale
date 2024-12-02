@@ -131,11 +131,11 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
+        width: 512
         height: 1024
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 300, y: 300, z: 300, w: 300}
+      border: {x: 300, y: 300, z: 0, w: 300}
       customData: 
       outline: []
       physicsShape: []
@@ -148,60 +148,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: main-button-green_left
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 512
-        height: 1024
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 300, y: 300, z: 0, w: 300}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f780129d9cc2a8a42b59b8be64c27042
-      internalID: 419205894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: main-button-green_right
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 512
-        height: 1024
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 300, z: 300, w: 300}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62b4cb016480b3f458cccce00cd4fc40
-      internalID: -1681555223
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: main-button-green_top
+      name: main-button-green-top
       rect:
         serializedVersion: 2
         x: 0
         y: 512
-        width: 1024
+        width: 512
         height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 300, y: 0, z: 300, w: 300}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 300, y: 0, z: 0, w: 300}
       customData: 
       outline: []
       physicsShape: []
@@ -214,16 +170,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: main-button-green_bottom
+      name: main-button-green-bottom
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
+        width: 512
         height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 300, y: 300, z: 300, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 300, y: 300, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -250,10 +206,10 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       main-button-green: 3966351547741686570
-      main-button-green_bottom: -602488579
+      main-button-green-bottom: -602488579
+      main-button-green-top: -1943939468
       main-button-green_left: 419205894
       main-button-green_right: -1681555223
-      main-button-green_top: -1943939468
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

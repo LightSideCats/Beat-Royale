@@ -184,10 +184,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: FreeReward
       objectReference: {fileID: 0}
-    - target: {fileID: 5214311514250900198, guid: fd0f805e34e88414a87c24062213aba3, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 7.7199707
-      objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: fd0f805e34e88414a87c24062213aba3, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -257,10 +253,6 @@ PrefabInstance:
     - target: {fileID: 4595069597136069969, guid: fd0f805e34e88414a87c24062213aba3, type: 3}
       propertyPath: m_IsActive
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5214311514250900198, guid: fd0f805e34e88414a87c24062213aba3, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 7.7199707
       objectReference: {fileID: 0}
     - target: {fileID: 7303323765923722888, guid: fd0f805e34e88414a87c24062213aba3, type: 3}
       propertyPath: m_AnchorMax.y

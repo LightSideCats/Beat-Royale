@@ -131,11 +131,11 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
+        width: 512
         height: 1024
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 300, y: 300, z: 300, w: 300}
+      border: {x: 300, y: 300, z: 0, w: 300}
       customData: 
       outline: []
       physicsShape: []
@@ -148,60 +148,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: users-pfp-white_left
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 512
-        height: 1024
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 300, y: 300, z: 0, w: 300}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 347bca1b66c37a8489f7234bdf4fc456
-      internalID: 1036878060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: users-pfp-white_right
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 512
-        height: 1024
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 300, z: 300, w: 300}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e27bd16008df914e93fa06594a49939
-      internalID: 1779882741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: users-pfp-white_top
+      name: users-pfp-white-top
       rect:
         serializedVersion: 2
         x: 0
         y: 512
-        width: 1024
+        width: 512
         height: 512
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 300, y: 0, z: 300, w: 300}
+      border: {x: 300, y: 0, z: 0, w: 300}
       customData: 
       outline: []
       physicsShape: []
@@ -214,16 +170,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: users-pfp-white_bottom
+      name: users-pfp-white-bottom
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
+        width: 512
         height: 512
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 300, y: 300, z: 300, w: 0}
+      border: {x: 300, y: 300, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -250,10 +206,10 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       users-pfp-white: -5903330421600807736
-      users-pfp-white_bottom: -1163753791
+      users-pfp-white-bottom: -1163753791
+      users-pfp-white-top: -1859008317
       users-pfp-white_left: 1036878060
       users-pfp-white_right: 1779882741
-      users-pfp-white_top: -1859008317
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

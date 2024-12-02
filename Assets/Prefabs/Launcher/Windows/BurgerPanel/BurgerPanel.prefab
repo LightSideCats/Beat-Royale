@@ -106,6 +106,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cab57127942f4b879639f31fade8ef9c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  initShowHideAnim: 0
   showHideAnim:
     rid: 3882657626990837763
   onShowing:
@@ -420,7 +421,7 @@ PrefabInstance:
     - target: {fileID: 8161237861665105511, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 1036878060, guid: f3653cda64a7e7049bc4c387c0bf90da, type: 3}
+      objectReference: {fileID: -5903330421600807736, guid: f3653cda64a7e7049bc4c387c0bf90da, type: 3}
     - target: {fileID: 8161237861665105511, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
       propertyPath: m_Color.a
       value: 0.7882353
@@ -526,7 +527,7 @@ PrefabInstance:
     - target: {fileID: 8161237861665105511, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 1125290945, guid: 691584c26f5cd114e88b6c7f711e3378, type: 3}
+      objectReference: {fileID: 683530686, guid: 691584c26f5cd114e88b6c7f711e3378, type: 3}
     - target: {fileID: 8161237861665105511, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
       propertyPath: m_RaycastTarget
       value: 1

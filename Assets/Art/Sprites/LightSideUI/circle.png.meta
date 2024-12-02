@@ -136,7 +136,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Left
+      name: circle
       rect:
         serializedVersion: 2
         x: 0
@@ -151,50 +151,6 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3597a0cd3dcdaa444977b3be995739ea
-      internalID: -853089255
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Right
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 256
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 255, z: 256, w: 255}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c7115a19c3761e43b69864ff0696977
-      internalID: 450225281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Full
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 255, y: 255, z: 255, w: 255}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
       spriteID: be70fab40b5ee2e449135d429cb09205
       internalID: -649157678
       vertices: []
@@ -202,16 +158,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Top
+      name: circle-top
       rect:
         serializedVersion: 2
         x: 0
         y: 256
-        width: 512
+        width: 256
         height: 256
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 255, y: 0, z: 255, w: 255}
+      border: {x: 255, y: 0, z: 0, w: 255}
       customData: 
       outline: []
       physicsShape: []
@@ -224,16 +180,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bottom
+      name: circle-bottom
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 512
+        width: 256
         height: 256
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 255, y: 255, z: 255, w: 0}
+      border: {x: 255, y: 255, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -259,11 +215,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bottom: -1685396913
-      Full: -649157678
       Left: -853089255
       Right: 450225281
-      Top: 1372593798
+      circle: -649157678
+      circle-bottom: -1685396913
+      circle-top: 1372593798
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
