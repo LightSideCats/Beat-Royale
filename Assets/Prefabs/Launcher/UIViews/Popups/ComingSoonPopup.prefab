@@ -16,6 +16,14 @@ PrefabInstance:
       propertyPath: m_text
       value: Coming soon
       objectReference: {fileID: 0}
+    - target: {fileID: 5080678549930414837, guid: adc64905ae0ac32459fc09f2d3ae8b41, type: 3}
+      propertyPath: m_fontSize
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5080678549930414837, guid: adc64905ae0ac32459fc09f2d3ae8b41, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 50
+      objectReference: {fileID: 0}
     - target: {fileID: 7427308078890708636, guid: adc64905ae0ac32459fc09f2d3ae8b41, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0

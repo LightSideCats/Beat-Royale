@@ -930,6 +930,18 @@ PrefabInstance:
       value: Collect trophies with this fighter, winning battles against other players.
       objectReference: {fileID: 0}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766537536176207].useLocalization
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766537536176207].localizationData.key
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766537536176207].localizationData.tableData
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: managedReferences[6254766537536176207].transformActions.Array.size
       value: 0
       objectReference: {fileID: 0}
@@ -1462,6 +1474,18 @@ PrefabInstance:
       propertyPath: managedReferences[6254766537536176198].message
       value: Power levels increase a fighter's damage and health. Upgrade your fighters
         with power points and coins.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7667225310988289405, guid: 5dcd9ac92d71cf44e9108560e4a34402, type: 3}
+      propertyPath: managedReferences[6254766537536176198].useLocalization
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7667225310988289405, guid: 5dcd9ac92d71cf44e9108560e4a34402, type: 3}
+      propertyPath: managedReferences[6254766537536176198].localizationData.key
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7667225310988289405, guid: 5dcd9ac92d71cf44e9108560e4a34402, type: 3}
+      propertyPath: managedReferences[6254766537536176198].localizationData.tableData
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 7667225310988289405, guid: 5dcd9ac92d71cf44e9108560e4a34402, type: 3}
       propertyPath: managedReferences[6254766537536176198].transformActions.Array.size
@@ -3078,7 +3102,7 @@ PrefabInstance:
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[3302317731496591637].prefab
       value: 
-      objectReference: {fileID: 2878118461482341636, guid: 642a4b2c239f34949ae373bc7f0dbcc6, type: 3}
+      objectReference: {fileID: 7040624807992464803, guid: 642a4b2c239f34949ae373bc7f0dbcc6, type: 3}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[3573401271353475100].option
       value: 0
