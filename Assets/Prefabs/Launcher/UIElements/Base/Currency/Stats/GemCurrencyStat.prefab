@@ -229,9 +229,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
       propertyPath: managedReferences[3302317851167424821].message
-      value: <color=#EA35F7>Gems</color><material="LilitaOneNoOutline"> are needed
-        to buy the heroes and other things in shop.\n\nGems can be obtained in the
-        Battle Pass or bought in the store for real money.</material>
+      value: <material="LilitaOneOutline"><color=#EA35F7>Gems</color></material>
+        are needed to buy the heroes and other things in shop.\n\nGems can be obtained
+        in the Battle Pass or bought in the store for real money.
       objectReference: {fileID: 0}
     - target: {fileID: 5576457926976178048, guid: a7fd486681891b54486bb052579f7d55, type: 3}
       propertyPath: m_AnchorMax.y
