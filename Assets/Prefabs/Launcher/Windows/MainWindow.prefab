@@ -920,7 +920,7 @@ PrefabInstance:
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: managedReferences[6254766537536176207].prefab
       value: 
-      objectReference: {fileID: 938614287227378090, guid: f61b42cb52a368948933183d9662bf3a, type: 3}
+      objectReference: {fileID: 2062245683900866534, guid: a46105714d43b334a9558f06338c178e, type: 3}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: managedReferences[6254766537536176207].target
       value: 
@@ -928,6 +928,10 @@ PrefabInstance:
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: managedReferences[6254766537536176207].message
       value: Collect trophies with this fighter, winning battles against other players.
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766537536176207].hideManually
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: managedReferences[6254766537536176207].useLocalization
@@ -943,6 +947,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: managedReferences[6254766537536176207].transformActions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766537536176207].localizationData.arguments.Array.size
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2359075250687977436, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
@@ -1465,7 +1473,7 @@ PrefabInstance:
     - target: {fileID: 7667225310988289405, guid: 5dcd9ac92d71cf44e9108560e4a34402, type: 3}
       propertyPath: managedReferences[6254766537536176198].prefab
       value: 
-      objectReference: {fileID: 938614287227378090, guid: f61b42cb52a368948933183d9662bf3a, type: 3}
+      objectReference: {fileID: 2062245683900866534, guid: a46105714d43b334a9558f06338c178e, type: 3}
     - target: {fileID: 7667225310988289405, guid: 5dcd9ac92d71cf44e9108560e4a34402, type: 3}
       propertyPath: managedReferences[6254766537536176198].target
       value: 
@@ -1474,6 +1482,10 @@ PrefabInstance:
       propertyPath: managedReferences[6254766537536176198].message
       value: Power levels increase a fighter's damage and health. Upgrade your fighters
         with power points and coins.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7667225310988289405, guid: 5dcd9ac92d71cf44e9108560e4a34402, type: 3}
+      propertyPath: managedReferences[6254766537536176198].hideManually
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7667225310988289405, guid: 5dcd9ac92d71cf44e9108560e4a34402, type: 3}
       propertyPath: managedReferences[6254766537536176198].useLocalization
@@ -1489,6 +1501,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7667225310988289405, guid: 5dcd9ac92d71cf44e9108560e4a34402, type: 3}
       propertyPath: managedReferences[6254766537536176198].transformActions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7667225310988289405, guid: 5dcd9ac92d71cf44e9108560e4a34402, type: 3}
+      propertyPath: managedReferences[6254766537536176198].localizationData.arguments.Array.size
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8505371002118463668, guid: 5dcd9ac92d71cf44e9108560e4a34402, type: 3}

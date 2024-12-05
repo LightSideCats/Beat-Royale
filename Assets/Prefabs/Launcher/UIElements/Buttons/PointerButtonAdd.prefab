@@ -102,11 +102,11 @@ PrefabInstance:
     - target: {fileID: 1859483897607432842, guid: 3bbee97ec5b214e4bafebc8294f2b499, type: 3}
       propertyPath: managedReferences[6254766537536176711].prefab
       value: 
-      objectReference: {fileID: 8242163144327337656, guid: 4bf41c1eb08bfae4b9d8a20a2353c702, type: 3}
+      objectReference: {fileID: 2062245683900866534, guid: a46105714d43b334a9558f06338c178e, type: 3}
     - target: {fileID: 1859483897607432842, guid: 3bbee97ec5b214e4bafebc8294f2b499, type: 3}
       propertyPath: managedReferences[6254766537536176711].target
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 5962695953697147324}
     - target: {fileID: 1859483897607432842, guid: 3bbee97ec5b214e4bafebc8294f2b499, type: 3}
       propertyPath: managedReferences[6254766537536176261].message
       value: 
@@ -116,11 +116,31 @@ PrefabInstance:
       value: +200 experience points in battles every day until the end of the season
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 3bbee97ec5b214e4bafebc8294f2b499, type: 3}
+      propertyPath: managedReferences[6254766537536176711].hideManually
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3bbee97ec5b214e4bafebc8294f2b499, type: 3}
+      propertyPath: managedReferences[6254766537536176711].useLocalization
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3bbee97ec5b214e4bafebc8294f2b499, type: 3}
+      propertyPath: managedReferences[6254766537536176711].localizationData.key
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3bbee97ec5b214e4bafebc8294f2b499, type: 3}
+      propertyPath: managedReferences[6254766537536176711].localizationData.tableData
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3bbee97ec5b214e4bafebc8294f2b499, type: 3}
       propertyPath: managedReferences[6254766537536176261].transformActions.Array.size
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: 3bbee97ec5b214e4bafebc8294f2b499, type: 3}
       propertyPath: managedReferences[6254766537536176711].transformActions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: 3bbee97ec5b214e4bafebc8294f2b499, type: 3}
+      propertyPath: managedReferences[6254766537536176711].localizationData.arguments.Array.size
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3781013822574607616, guid: 3bbee97ec5b214e4bafebc8294f2b499, type: 3}

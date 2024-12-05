@@ -183,9 +183,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
       propertyPath: managedReferences[3302317851167424821].message
-      value: <color=#26CDFF>Stars</color><material="LilitaOneNoOutline"> are needed
-        to improve the heroes.\n\nStars can be earned in battles, in Battle Pass,
-        in chests.</material>
+      value: <material="LilitaOneOutline"><color=#26CDFF>Stars</color></material>
+        are needed to improve the heroes.\n\nStars can be earned in battles, in Battle
+        Pass, in chests.
       objectReference: {fileID: 0}
     - target: {fileID: 5576457926976178048, guid: a7fd486681891b54486bb052579f7d55, type: 3}
       propertyPath: m_AnchorMax.y

@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New Material
+  m_Name: Vignette
   m_Shader: {fileID: 4800000, guid: 272985ce813eb7d4bae44526bda7c1cb, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -343,6 +343,8 @@ Material:
     - _InnerOutlineOutlineOnlyToggle: 0
     - _InnerOutlineTextureToggle: 0
     - _InnerOutlineWidth: 0.02
+    - _IsText: 0
+    - _IsTextMeshPro: 0
     - _LightingEnabled: 0
     - _MetalContrast: 2
     - _MetalFade: 1
@@ -467,6 +469,8 @@ Material:
     - _StrongTintContrastToggle: 0
     - _StrongTintFade: 1
     - _StrongTintMaskToggle: 0
+    - _TMPSmoothness: 5
+    - _TMPThickness: -0.45
     - _TextureLayer1Columns: 3
     - _TextureLayer1Contrast: 1
     - _TextureLayer1ContrastToggle: 0

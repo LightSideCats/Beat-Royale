@@ -473,6 +473,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
+      propertyPath: managedReferences[6254766537536176711].prefab
+      value: 
+      objectReference: {fileID: 2062245683900866534, guid: 8d607d5daef31a74a955ffdd6d8d7e4f, type: 3}
+    - target: {fileID: 8601341700630095610, guid: 805f700c094e2344fac35438fc089ee2, type: 3}
       propertyPath: managedReferences[6254766537536176248].message
       value: 
       objectReference: {fileID: 0}
@@ -1230,6 +1234,14 @@ PrefabInstance:
       propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5887414159346210547, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
+      propertyPath: managedReferences[6254766537536176711].prefab
+      value: 
+      objectReference: {fileID: 2062245683900866534, guid: 8d607d5daef31a74a955ffdd6d8d7e4f, type: 3}
+    - target: {fileID: 5887414159346210547, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
+      propertyPath: managedReferences[6254766537536176711].message
+      value: Additional quests (1) every day until the end of the season
+      objectReference: {fileID: 0}
     - target: {fileID: 6955326973547614645, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -1248,6 +1260,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6955326973547614645, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
       propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6955326973547614645, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
+      propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6955326973547614645, guid: 354110b289febf2449321a3d3d0c2dc5, type: 3}
@@ -1836,7 +1852,7 @@ PrefabInstance:
     - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: managedReferences[6254766537536176256].prefab
       value: 
-      objectReference: {fileID: 938614287227378090, guid: f61b42cb52a368948933183d9662bf3a, type: 3}
+      objectReference: {fileID: 2062245683900866534, guid: a46105714d43b334a9558f06338c178e, type: 3}
     - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: managedReferences[6254766537536176256].target
       value: 
@@ -1845,6 +1861,10 @@ PrefabInstance:
       propertyPath: managedReferences[6254766537536176256].message
       value: The number of Battle Pass experience points that can be earned in battles
         every day.\n\nExperience is needed to unlock Battle Pass reward levels.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: managedReferences[6254766537536176256].hideManually
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: managedReferences[4216535028436041997].settings.clip
@@ -1863,7 +1883,23 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: managedReferences[6254766537536176256].useLocalization
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: managedReferences[6254766537536176256].localizationData.key
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: managedReferences[6254766537536176256].localizationData.tableData
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
       propertyPath: managedReferences[6254766537536176256].transformActions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1859483897607432842, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
+      propertyPath: managedReferences[6254766537536176256].localizationData.arguments.Array.size
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2477448237827518698, guid: f3d725f412b4aeb469cbfa4f5314b19c, type: 3}
@@ -1988,6 +2024,14 @@ PrefabInstance:
     - target: {fileID: 272624242023939717, guid: 02aaf59a4a5b5484e8b6319fd42792dd, type: 3}
       propertyPath: m_Name
       value: SeasonalQuestsCategory
+      objectReference: {fileID: 0}
+    - target: {fileID: 5887414159346210547, guid: 02aaf59a4a5b5484e8b6319fd42792dd, type: 3}
+      propertyPath: managedReferences[6254766537536176711].prefab
+      value: 
+      objectReference: {fileID: 2062245683900866534, guid: 8d607d5daef31a74a955ffdd6d8d7e4f, type: 3}
+    - target: {fileID: 5887414159346210547, guid: 02aaf59a4a5b5484e8b6319fd42792dd, type: 3}
+      propertyPath: managedReferences[6254766537536176711].message
+      value: Additional quests (1) every day until the end of the season
       objectReference: {fileID: 0}
     - target: {fileID: 6955326973547614645, guid: 02aaf59a4a5b5484e8b6319fd42792dd, type: 3}
       propertyPath: m_Pivot.x

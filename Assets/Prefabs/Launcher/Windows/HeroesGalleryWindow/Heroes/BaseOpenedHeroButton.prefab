@@ -1117,7 +1117,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 77111c2a33b443a0b262654d312e5cec, type: 3}
+  m_Script: {fileID: 11500000, guid: 4be5f5fbf10a4e68ad561e9fc015f62b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &3078063114088451461
@@ -1212,7 +1212,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1685252650808547322, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
       propertyPath: m_Name
-      value: HeroPreview
+      value: HeroPreviewMask
       objectReference: {fileID: 0}
     - target: {fileID: 5152584803132117391, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
       propertyPath: m_AnchorMax.x
@@ -2689,7 +2689,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1685252650808547322, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
       propertyPath: m_Name
-      value: Icon
+      value: Preview
       objectReference: {fileID: 0}
     - target: {fileID: 5152584803132117391, guid: 7dcdd2e6125cbff4ab407b7dff71d128, type: 3}
       propertyPath: m_SizeDelta.x
