@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_fi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi
+  m_SharedData: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669767925760
+    m_Localized: "Astu sis\xE4\xE4n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Localized: "Kirjaudu sis\xE4\xE4n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Localized: Klaani
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Localized: Kauppa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827011
+    m_Localized: Sankarit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827012
+    m_Localized: "Teht\xE4v\xE4t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Localized: Uutiset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Localized: Uusi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Localized: Kaverit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Localized: Alennus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Localized: Ilmainen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Localized: Lahja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Localized: Pelaa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Localized: Taistelu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Localized: Uusia tapahtumia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Localized: Uusi kausi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Localized: Kirjaudu ulos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Localized: "Yhdist\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Localized: Yhdistetty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Localized: "Kirjaudutaanko sis\xE4\xE4n vieraana?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Localized: Pois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Localized: "P\xE4\xE4ll\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Localized: 'Pelaajatunnus: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Localized: "Kyll\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Localized: Ei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Localized: "Hyv\xE4ksyn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Localized: Takaisin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Localized: Lunasta!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Localized: Tietoja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Localized: "P\xE4ivitt\xE4iset palkinnot"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Localized: Pistetaulukot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Localized: Tulossa pian!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Localized: Postilaatikko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Localized: Asetukset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Localized: Musiikki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Localized: "\xC4\xE4nitehosteet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Localized: Kosketuspalaute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Localized: "Yhdist\xE4 tilisi tallentaaksesi edistymisesi ja pelataksesi eri
+      laitteilla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Localized: Kieli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Localized: "Yksityisyysk\xE4yt\xE4nt\xF6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Localized: "K\xE4ytt\xF6-\\nehdot"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Localized: Ohje ja tuki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Localized: "K\xE4ytt\xE4j\xE4sopimus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Localized: "J\xE4rjestelm\xE4asetukset"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Localized: Sijainti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Localized: "Yhteis\xF6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Localized: Liity joukkoomme ja seuraa uutisiamme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Localized: Siirry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Localized: Seuraa
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

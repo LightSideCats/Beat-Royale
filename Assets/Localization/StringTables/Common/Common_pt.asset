@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669767925760
+    m_Localized: Entrar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Localized: "Iniciar sess\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Localized: "Cl\xE3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Localized: Loja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827011
+    m_Localized: "Her\xF3is"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827012
+    m_Localized: "Miss\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Localized: "Not\xEDcias"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Localized: Novo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Localized: Amigos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Localized: "Promo\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Localized: "Gr\xE1tis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Localized: Presente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Localized: Jogar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Localized: Batalha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Localized: Novos eventos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Localized: Nova temporada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Localized: Sair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Localized: Conectar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Localized: Conectado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Localized: "Iniciar sess\xE3o como convidado?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Localized: "N\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Localized: Sim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Localized: 'ID de jogador: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Localized: Sim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Localized: "N\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Localized: Concordar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Localized: Voltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Localized: Resgatar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Localized: "Informa\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Localized: "Recompensas di\xE1rias"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Localized: "Lideran\xE7a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Localized: Em breve!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Localized: Caixa de correio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Localized: "Configura\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Localized: Efeitos sonoros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Localized: "Resposta t\xE1til"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Localized: Conecte sua conta para salvar seu progresso e jogar em diferentes
+      dispositivos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Localized: "Pol\xEDtica de Privacidade"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Localized: Termos de Uso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Localized: Ajuda e Suporte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Localized: "Acordo do Usu\xE1rio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Localized: "Configura\xE7\xF5es de sistema"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Localized: "Localiza\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Localized: Comunidade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Localized: "Junte-se a n\xF3s e acompanhe nossas novidades"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Localized: Ir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Localized: Seguir
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

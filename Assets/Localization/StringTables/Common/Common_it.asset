@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669767925760
+    m_Localized: Entra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Localized: Accedi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Localized: Clan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Localized: Negozio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827011
+    m_Localized: Eroi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827012
+    m_Localized: Missioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Localized: Notizie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Localized: Nuovo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Localized: Amici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Localized: Saldi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Localized: Gratuito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Localized: Regalo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Localized: Gioca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Localized: Battaglia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Localized: Nuovi eventi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Localized: Nuova stagione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Localized: Esci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Localized: Connetti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Localized: Connesso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Localized: Accedere come ospite?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Localized: "S\xEC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Localized: 'ID giocatore: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Localized: "S\xEC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Localized: Acconsento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Localized: Torna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Localized: Ritira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Localized: Informazioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Localized: Ricompense giornaliere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Localized: Classifiche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Localized: Prossimamente!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Localized: Cassetta postale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Localized: Impostazioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Localized: Musica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Localized: Effetti sonori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Localized: Interfaccia aptica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Localized: Collega il tuo account per salvare i tuoi progressi e giocare su
+      diversi dispositivi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Localized: Lingua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Localized: Normativa sulla privacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Localized: Condizioni d'Uso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Localized: Guida e assistenza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Localized: Condizioni d'uso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Localized: Impostazioni di sistema
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Localized: Ubicazione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Localized: Community
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Localized: "Unisciti a noi e segui le nostre novit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Localized: Andare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Localized: Segui
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

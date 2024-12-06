@@ -88,7 +88,7 @@ MonoBehaviour:
     sourceFontFileGUID: 6ac71d97098bdd14fb38208f0922ea6a
     faceIndex: 0
     pointSizeSamplingMode: 0
-    pointSize: 90
+    pointSize: 89
     padding: 9
     paddingMode: 2
     packingMode: 0
@@ -111,7 +111,7 @@ MonoBehaviour:
   m_AtlasTextures:
   - {fileID: -3037470524907097703}
   m_AtlasTextureIndex: 0
-  m_IsMultiAtlasTexturesEnabled: 0
+  m_IsMultiAtlasTexturesEnabled: 1
   m_GetFontFeatures: 1
   m_ClearDynamicDataOnBuild: 1
   m_AtlasWidth: 1024

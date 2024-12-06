@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669767925760
+    m_Localized: Betreten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Localized: Anmelden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Localized: Clan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Localized: Laden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827011
+    m_Localized: Helden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827012
+    m_Localized: Quests
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Localized: Neuigkeiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Localized: Neu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Localized: Freunde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Localized: Angebot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Localized: Kostenlos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Localized: Geschenk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Localized: Spielen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Localized: Kampf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Localized: Neue Ereignisse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Localized: Neue Saison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Localized: Ausloggen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Localized: Verbinden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Localized: Verbunden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Localized: Als Gast einloggen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Localized: Aus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Localized: Ein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Localized: 'Spieler-ID: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Localized: Okay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Localized: Nein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Localized: Zustimmen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Localized: Einfordern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Localized: Details
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Localized: "T\xE4gliche Belohnungen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Localized: Bestenlisten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Localized: "Demn\xE4chst!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Localized: Postfach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Localized: Musik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Localized: Soundeffekte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Localized: Haptisches feedback
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Localized: "Verbinden Sie Ihr Konto, um Ihren Fortschritt zu speichern und
+      auf verschiedenen Ger\xE4ten zu spielen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Localized: Sprache
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Localized: Datenschutzrichtlinien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Localized: Nutzungs-\nbedingungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Localized: Hilfe und Support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Localized: Nutzungsvereinbarung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Localized: Systemeinstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Localized: Standort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Localized: Community
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Localized: Treten Sie uns bei und bleiben Sie informiert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Localized: Gehe zu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Localized: Folgen
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

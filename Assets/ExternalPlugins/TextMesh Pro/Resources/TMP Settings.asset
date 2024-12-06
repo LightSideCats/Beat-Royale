@@ -36,9 +36,15 @@ MonoBehaviour:
   m_fallbackFontAssets:
   - {fileID: 11400000, guid: 92341d9fae88ae7489a4b386c5885227, type: 2}
   - {fileID: 11400000, guid: b48287515fcd83f468d86d49d376ce4b, type: 2}
+  - {fileID: 11400000, guid: 993929c301f525f4d8de9d5896441aa6, type: 2}
+  - {fileID: 11400000, guid: a2251ba5adc6b54449ee6be5c3146bd7, type: 2}
+  - {fileID: 11400000, guid: a47b77e46590a9b40bb5a84b674cfeee, type: 2}
+  - {fileID: 11400000, guid: 7d9dfb867093aa04fbbce28a60ffa545, type: 2}
+  - {fileID: 11400000, guid: f4d7f45935aadd74682de5359777f022, type: 2}
+  - {fileID: 11400000, guid: 5b28392e6c363c3438bfa51f0442cc81, type: 2}
   m_matchMaterialPreset: 1
   m_HideSubTextObjects: 0
-  m_defaultSpriteAsset: {fileID: 11400000, guid: c41005c129ba4d66911b75229fd70b45, type: 2}
+  m_defaultSpriteAsset: {fileID: 0}
   m_defaultSpriteAssetPath: Sprite Assets/
   m_enableEmojiSupport: 1
   m_MissingCharacterSpriteUnicode: 0

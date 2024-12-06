@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669767925760
+    m_Localized: Masuk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Localized: Masuk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Localized: Klan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Localized: Toko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827011
+    m_Localized: Pahlawan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827012
+    m_Localized: Misi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Localized: Berita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Localized: Baru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Localized: Teman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Localized: Penjualan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Localized: Gratis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Localized: Hadiah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Localized: Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Localized: Pertarungan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Localized: Acara baru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Localized: Musim baru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Localized: Keluar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Localized: Sambungkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Localized: Tersambung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Localized: Masuk sebagai tamu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Localized: Mati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Localized: Nyala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Localized: 'ID Pemain: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Localized: Oke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Localized: Ya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Localized: Tidak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Localized: Setuju
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Localized: Kembali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Localized: Klaim!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Localized: Informasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Localized: Bonus harian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Localized: Papan peringkat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Localized: Segera hadir!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Localized: Kotak surat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Localized: Setelan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Localized: Musik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Localized: Efek suara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Localized: Umpan balik sentuh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Localized: Hubungkan akun Anda untuk menyimpan kemajuan Anda dan bermain di
+      perangkat yang berbeda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Localized: Bahasa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Localized: Kebijakan Privasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Localized: Ketentuan Layanan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Localized: Bantuan dan dukungan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Localized: Persetujuan Pengguna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Localized: Setelan Sistem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Localized: Lokasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Localized: Komunitas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Localized: Bergabunglah dengan kami dan ikuti berita terbaru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Localized: Lanjutkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Localized: Ikuti
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

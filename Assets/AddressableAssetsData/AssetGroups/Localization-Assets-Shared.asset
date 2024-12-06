@@ -15,13 +15,18 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Shared
   m_GUID: fd0f4e44a95be8048ab11063cde9d6b2
   m_SerializeEntries:
+  - m_GUID: 1460b6164d0825044ac84614425b11cc
+    m_Address: Assets/Localization/StringTables/Heroes Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 517fabf7db7189840983634ce50584e7
     m_Address: DefaultAsset Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c2b79a6cef9417849b7376976d69d8c2
-    m_Address: Default Shared Data.asset
+  - m_GUID: e0d621d1ef7248d4c85dfa1657580628
+    m_Address: Assets/Localization/StringTables/Common/Common Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

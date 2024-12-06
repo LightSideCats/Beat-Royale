@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669767925760
+    m_Localized: "Wejd\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Localized: Zaloguj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Localized: Klan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Localized: Sklep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827011
+    m_Localized: Bohaterowie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827012
+    m_Localized: Zadania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Localized: "Nowo\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Localized: Nowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Localized: Znajomi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Localized: "Wyprzeda\u017C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Localized: Darmowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Localized: Prezent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Localized: Graj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Localized: Walka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Localized: Nowe wydarzenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Localized: Nowy sezon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Localized: Wyloguj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Localized: "Po\u0142\u0105cz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Localized: "Po\u0142\u0105czono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Localized: "Zalogowa\u0107 jako go\u015B\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Localized: "Wy\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Localized: "W\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Localized: 'ID gracza: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Localized: Tak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Localized: "Zgadzam si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Localized: "Powr\xF3t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Localized: Odbierz!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Localized: Informacje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Localized: Codzienne nagrody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Localized: "Tabele wynik\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Localized: "Ju\u017C wkr\xF3tce!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Localized: Skrzynka pocztowa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Localized: Ustawienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Localized: Muzyka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Localized: "Efekty d\u017Awi\u0119kowe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Localized: "Sprz\u0119\u017Cenie zwrotne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Localized: "Po\u0142\u0105cz swoje konto, aby zapisa\u0107 post\u0119p i gra\u0107
+      na r\xF3\u017Cnych urz\u0105dzeniach"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Localized: "J\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Localized: "Zasady ochrony prywatno\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Localized: Regulamin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Localized: Pomoc i wsparcie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Localized: "Umowa z u\u017Cytkownikiem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Localized: Ustawienia systemowe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Localized: Lokalizacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Localized: "Spo\u0142eczno\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Localized: "Do\u0142\u0105cz do nas i b\u0105d\u017A na bie\u017C\u0105co"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Localized: "Przejd\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Localized: "\u015Aled\u017A"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

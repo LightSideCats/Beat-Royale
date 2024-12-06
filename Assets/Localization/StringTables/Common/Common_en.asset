@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669767925760
+    m_Localized: Enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Localized: Log in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Localized: Clan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827011
+    m_Localized: Heroes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827012
+    m_Localized: Quests
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Localized: News
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Localized: New
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Localized: Friends
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Localized: Sale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Localized: Free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Localized: Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Localized: Battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Localized: New events
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Localized: New season
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Localized: Log out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Localized: Connect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Localized: Connected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Localized: Log in as guest?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Localized: Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Localized: On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Localized: 'Player ID: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Localized: Okay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Localized: Agree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Localized: Claim!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Localized: Information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Localized: Daily Rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Localized: Leaderboards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Localized: Coming soon!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Localized: Mailbox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Localized: Sound effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Localized: Haptic feedback
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Localized: Connect your account to save your progress and play on different
+      devices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Localized: Privacy Policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Localized: Terms of Use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Localized: Help and Support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Localized: User Agreement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Localized: System Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Localized: Location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Localized: Community
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Localized: Join us and stay updated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Localized: Go
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Localized: Follow
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

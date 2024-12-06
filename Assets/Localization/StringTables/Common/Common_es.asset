@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669767925760
+    m_Localized: Entrar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Localized: "Iniciar sesi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Localized: Clan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Localized: Tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827011
+    m_Localized: "H\xE9roes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827012
+    m_Localized: Misiones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Localized: Noticias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Localized: Nuevo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Localized: Amigos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Localized: Oferta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Localized: Gratis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Localized: Regalo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Localized: Batalla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Localized: Nuevos eventos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Localized: Nueva temporada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Localized: "Cerrar sesi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Localized: Conectar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Localized: Conectado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Localized: "\xBFIniciar sesi\xF3n como invitado?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Localized: 'ID de jugador: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Localized: Vale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Localized: Acepto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Localized: Reclamar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Localized: "Informaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Localized: Recompensas diarias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Localized: Clasificaciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Localized: "\xA1Pr\xF3ximamente!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Localized: "Buz\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Localized: Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Localized: Efectos de sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Localized: "Respuesta h\xE1ptica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Localized: Conecte su cuenta para guardar su progreso y jugar en diferentes
+      dispositivos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Localized: "Pol\xEDtica de privacidad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Localized: Condiciones del servicio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Localized: Ayuda y asistencia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Localized: Acuerdo de usuario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Localized: "Configuraci\xF3n del sistema"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Localized: "Ubicaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Localized: Comunidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Localized: "\xDAnete a nosotros y sigue nuestras noticias"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Localized: Ir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Localized: Seguir
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

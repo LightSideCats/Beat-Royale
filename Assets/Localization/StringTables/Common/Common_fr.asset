@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669767925760
+    m_Localized: Entrer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Localized: Connexion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Localized: Clan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Localized: Boutique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827011
+    m_Localized: "H\xE9ros"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827012
+    m_Localized: "Qu\xEAtes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Localized: "Actualit\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Localized: Nouveau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Localized: Amis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Localized: Promotion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Localized: Gratuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Localized: Cadeau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Localized: Jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Localized: Combat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Localized: "Nouveaux \xE9v\xE9nements"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Localized: Nouvelle saison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Localized: "D\xE9connexion"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Localized: Connexion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Localized: "Connect\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Localized: "Connexion en tant qu'invit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Localized: 'Identifiant joueur : {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Localized: O.K.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Localized: J'accepte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Localized: "R\xE9cup\xE9rer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Localized: Informations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Localized: "R\xE9compenses quotidiennes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Localized: Classement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Localized: "C'est pour bient\xF4t !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Localized: "Bo\xEEte aux lettres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Localized: Musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Localized: Effets sonores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Localized: Retour haptique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Localized: "Connectez votre compte pour enregistrer votre progression et jouer
+      sur diff\xE9rents appareils"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Localized: "Politique de confidentialit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Localized: Conditions d'utilisation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Localized: Aide et assistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Localized: Contrat d'utilisation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Localized: "Param\xE8tres syst\xE8me"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Localized: Zone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Localized: "Communaut\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Localized: "Rejoignez-nous et suivez nos actualit\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Localized: Aller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Localized: Suivre
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
