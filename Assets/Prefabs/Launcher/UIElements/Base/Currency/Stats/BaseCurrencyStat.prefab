@@ -348,7 +348,7 @@ PrefabInstance:
     - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
       propertyPath: managedReferences[6254766537536176218].prefab
       value: 
-      objectReference: {fileID: 2878118461482341636, guid: 642a4b2c239f34949ae373bc7f0dbcc6, type: 3}
+      objectReference: {fileID: 7040624807992464803, guid: 642a4b2c239f34949ae373bc7f0dbcc6, type: 3}
     - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
       propertyPath: managedReferences[4216535028436042463].settings.clip
       value: 
@@ -493,6 +493,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1793690443273877311, guid: b9ba71c8f7ff7a9429aecc2013634e5b, type: 3}
       propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1793690443273877311, guid: b9ba71c8f7ff7a9429aecc2013634e5b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1793690443273877311, guid: b9ba71c8f7ff7a9429aecc2013634e5b, type: 3}
+      propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1793690443273877311, guid: b9ba71c8f7ff7a9429aecc2013634e5b, type: 3}

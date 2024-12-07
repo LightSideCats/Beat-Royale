@@ -8,31 +8,43 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4134194450231047594, guid: adc64905ae0ac32459fc09f2d3ae8b41, type: 3}
+    - target: {fileID: 1864404827754834315, guid: 6558f6029da8ce24280271da87c37b7b, type: 3}
       propertyPath: m_Name
       value: ComingSoonPopup
       objectReference: {fileID: 0}
-    - target: {fileID: 5080678549930414837, guid: adc64905ae0ac32459fc09f2d3ae8b41, type: 3}
+    - target: {fileID: 3758785919573952565, guid: 6558f6029da8ce24280271da87c37b7b, type: 3}
+      propertyPath: localizationData.key
+      value: comingSoon
+      objectReference: {fileID: 0}
+    - target: {fileID: 3758785919573952565, guid: 6558f6029da8ce24280271da87c37b7b, type: 3}
+      propertyPath: localizationData.tableData
+      value: 
+      objectReference: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+    - target: {fileID: 4134194450231047594, guid: 6558f6029da8ce24280271da87c37b7b, type: 3}
+      propertyPath: m_Name
+      value: ComingSoonPopup
+      objectReference: {fileID: 0}
+    - target: {fileID: 5080678549930414837, guid: 6558f6029da8ce24280271da87c37b7b, type: 3}
       propertyPath: m_text
       value: Coming soon
       objectReference: {fileID: 0}
-    - target: {fileID: 5080678549930414837, guid: adc64905ae0ac32459fc09f2d3ae8b41, type: 3}
+    - target: {fileID: 5080678549930414837, guid: 6558f6029da8ce24280271da87c37b7b, type: 3}
       propertyPath: m_fontSize
       value: 50
       objectReference: {fileID: 0}
-    - target: {fileID: 5080678549930414837, guid: adc64905ae0ac32459fc09f2d3ae8b41, type: 3}
+    - target: {fileID: 5080678549930414837, guid: 6558f6029da8ce24280271da87c37b7b, type: 3}
       propertyPath: m_fontSizeBase
       value: 50
       objectReference: {fileID: 0}
-    - target: {fileID: 7427308078890708636, guid: adc64905ae0ac32459fc09f2d3ae8b41, type: 3}
+    - target: {fileID: 7427308078890708636, guid: 6558f6029da8ce24280271da87c37b7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7427308078890708636, guid: adc64905ae0ac32459fc09f2d3ae8b41, type: 3}
+    - target: {fileID: 7427308078890708636, guid: 6558f6029da8ce24280271da87c37b7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7427308078890708636, guid: adc64905ae0ac32459fc09f2d3ae8b41, type: 3}
+    - target: {fileID: 7427308078890708636, guid: 6558f6029da8ce24280271da87c37b7b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
@@ -40,4 +52,4 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: adc64905ae0ac32459fc09f2d3ae8b41, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 6558f6029da8ce24280271da87c37b7b, type: 3}

@@ -60,6 +60,18 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3037672074147274721, guid: a9c26ed4df5d55e4da9e041130600dff, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037672074147274721, guid: a9c26ed4df5d55e4da9e041130600dff, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037672074147274721, guid: a9c26ed4df5d55e4da9e041130600dff, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4479787505099102551, guid: a9c26ed4df5d55e4da9e041130600dff, type: 3}
       propertyPath: m_Name
       value: Star4
@@ -73,14 +85,12 @@ PrefabInstance:
       value: 400
       objectReference: {fileID: 0}
     - target: {fileID: 5261628531387023922, guid: a9c26ed4df5d55e4da9e041130600dff, type: 3}
-      propertyPath: m_text
-      value: 'Heap of stars
-
-'
+      propertyPath: m_fontSize
+      value: 47.3
       objectReference: {fileID: 0}
     - target: {fileID: 5261628531387023922, guid: a9c26ed4df5d55e4da9e041130600dff, type: 3}
-      propertyPath: m_fontSize
-      value: 47.95
+      propertyPath: localizationData.key
+      value: starsHeap
       objectReference: {fileID: 0}
     - target: {fileID: 5372306700847660117, guid: a9c26ed4df5d55e4da9e041130600dff, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
