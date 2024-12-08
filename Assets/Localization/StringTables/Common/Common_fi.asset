@@ -316,11 +316,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926995505152
-    m_Localized: Mata wang
+    m_Localized: Valuutta
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699456
-    m_Localized: Emas
+    m_Localized: Kulta
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699457
@@ -340,7 +340,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699461
-    m_Localized: Kristal
+    m_Localized: Kristallit
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699462
@@ -360,7 +360,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699466
-    m_Localized: Bintang
+    m_Localized: "T\xE4hdet"
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699467
@@ -381,6 +381,34 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1423927003893760
     m_Localized: Erikoistarjoukset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471704006656
+    m_Localized: Avoin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Localized: Sulje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Localized: Tappio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Localized: Voitto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Localized: Seuraava
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Localized: Taso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783874
+    m_Localized: ENINT. {0}
     m_Metadata:
       m_Items: []
   references:

@@ -321,11 +321,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926995505152
-    m_Localized: Waluta
+    m_Localized: "\u0639\u0645\u0644\u0629"
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699456
-    m_Localized: "Z\u0142oto"
+    m_Localized: "\u0630\u0647\u0628"
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699457
@@ -346,7 +346,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699461
-    m_Localized: "Kryszta\u0142y"
+    m_Localized: "\u0628\u0644\u0648\u0631\u0627\u062A"
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699462
@@ -367,7 +367,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699466
-    m_Localized: Gwiazdy
+    m_Localized: "\u0646\u062C\u0648\u0645"
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699467
@@ -389,6 +389,35 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1423927003893760
     m_Localized: "\u0639\u0631\u0648\u0636 \u062E\u0627\u0635\u0629"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471704006656
+    m_Localized: "\u0645\u0641\u062A\u0648\u062D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Localized: "\u0625\u063A\u0644\u0627\u0642"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Localized: "\u0647\u0632\u064A\u0645\u0629"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Localized: "\u0646\u0635\u0631"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Localized: "\u0627\u0644\u062A\u0627\u0644\u064A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Localized: "\u0645\u0633\u062A\u0648\u0649"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783874
+    m_Localized: "\u0627\u0644\u062D\u062F \u0627\u0644\u0623\u0642\u0635\u0649:
+      {0}"
     m_Metadata:
       m_Items: []
   references:

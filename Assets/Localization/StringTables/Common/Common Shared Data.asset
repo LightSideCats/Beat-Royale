@@ -27,6 +27,10 @@ MonoBehaviour:
     m_Key: logOut
     m_Metadata:
       m_Items: []
+  - m_Id: 991213905825792
+    m_Key: guestLogIn
+    m_Metadata:
+      m_Items: []
   - m_Id: 991213901631488
     m_Key: connect
     m_Metadata:
@@ -35,16 +39,12 @@ MonoBehaviour:
     m_Key: connected
     m_Metadata:
       m_Items: []
-  - m_Id: 991213905825792
-    m_Key: guestLogIn
+  - m_Id: 991213905825794
+    m_Key: on
     m_Metadata:
       m_Items: []
   - m_Id: 991213905825793
     m_Key: off
-    m_Metadata:
-      m_Items: []
-  - m_Id: 991213905825794
-    m_Key: on
     m_Metadata:
       m_Items: []
   - m_Id: 991213905825795
@@ -61,6 +61,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 991213905825798
     m_Key: no
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471704006656
+    m_Key: open
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Key: close
     m_Metadata:
       m_Items: []
   - m_Id: 991213905825799
@@ -377,6 +385,26 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 991213910020105
     m_Key: follow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Key: defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Key: victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Key: next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Key: lvl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783874
+    m_Key: maxValue
     m_Metadata:
       m_Items: []
   m_Metadata:

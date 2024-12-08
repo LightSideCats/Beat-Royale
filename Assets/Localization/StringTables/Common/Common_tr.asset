@@ -317,11 +317,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926995505152
-    m_Localized: Para birimi     Valuutta
+    m_Localized: Para birimi
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699456
-    m_Localized: "Alt\u0131n            Kulta"
+    m_Localized: "Alt\u0131n"
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699457
@@ -341,7 +341,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699461
-    m_Localized: Kristaller       Kristallit
+    m_Localized: Kristaller
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699462
@@ -361,7 +361,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699466
-    m_Localized: "Y\u0131ld\u0131zlar       T\xE4hdet"
+    m_Localized: "Y\u0131ld\u0131zlar"
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699467
@@ -382,6 +382,34 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1423927003893760
     m_Localized: "\xD6zel teklifler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471704006656
+    m_Localized: "A\xE7\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Localized: Kapat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Localized: Yenilgi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Localized: Zafer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Localized: "\u0130leri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Localized: Svy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783874
+    m_Localized: "MAKS\u0130MUM {0}"
     m_Metadata:
       m_Items: []
   references:

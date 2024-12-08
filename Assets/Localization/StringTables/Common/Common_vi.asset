@@ -319,11 +319,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926995505152
-    m_Localized: "\u0E2A\u0E01\u0E38\u0E25\u0E40\u0E07\u0E34\u0E19"
+    m_Localized: "Ti\u1EC1n t\u1EC7"
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699456
-    m_Localized: "\u0E17\u0E2D\u0E07\u0E04\u0E33"
+    m_Localized: "V\xE0ng"
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699457
@@ -343,7 +343,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699461
-    m_Localized: "\u0E04\u0E23\u0E34\u0E2A\u0E15\u0E31\u0E25"
+    m_Localized: "Tinh th\u1EC3"
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699462
@@ -363,7 +363,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699466
-    m_Localized: "\u0E14\u0E27\u0E07\u0E14\u0E32\u0E27"
+    m_Localized: Sao
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699467
@@ -384,6 +384,34 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1423927003893760
     m_Localized: "C\xE1c \u01B0u \u0111\xE3i \u0111\u1EB7c bi\u1EC7t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471704006656
+    m_Localized: "M\u1EDF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Localized: "\u0110\xF3ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Localized: "B\u1EA1i tr\u1EADn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Localized: "Chi\u1EBFn th\u1EAFng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Localized: "Ti\u1EBFp theo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Localized: "C\u1EA5p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783874
+    m_Localized: "C\u1EA4P T\u1ED0I \u0110A {0}"
     m_Metadata:
       m_Items: []
   references:

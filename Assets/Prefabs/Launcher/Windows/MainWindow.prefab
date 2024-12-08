@@ -891,6 +891,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: QuestCountMark
       objectReference: {fileID: 0}
+    - target: {fileID: 7702499546282829416, guid: 38b5041eedfee1141b68832b22ea94b7, type: 3}
+      propertyPath: text
+      value: 
+      objectReference: {fileID: 6304254835527622881}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -901,6 +905,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 3534580076676999125, guid: 38b5041eedfee1141b68832b22ea94b7, type: 3}
   m_PrefabInstance: {fileID: 192349140386391014}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &6304254835527622881 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6185248619365171975, guid: 38b5041eedfee1141b68832b22ea94b7, type: 3}
+  m_PrefabInstance: {fileID: 192349140386391014}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77111c2a33b443a0b262654d312e5cec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &195360100475672465
 PrefabInstance:
   m_ObjectHideFlags: 0

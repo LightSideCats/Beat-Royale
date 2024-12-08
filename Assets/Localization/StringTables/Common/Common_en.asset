@@ -383,6 +383,34 @@ MonoBehaviour:
     m_Localized: Special Offers
     m_Metadata:
       m_Items: []
+  - m_Id: 1454471704006656
+    m_Localized: Open
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Localized: Defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Localized: Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Localized: Lvl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783874
+    m_Localized: MAX {0}
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

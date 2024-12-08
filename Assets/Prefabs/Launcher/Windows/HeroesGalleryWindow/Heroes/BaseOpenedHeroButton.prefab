@@ -827,7 +827,7 @@ MonoBehaviour:
   fundsByLevel: {fileID: 11400000, guid: f4a7bb9aa371e5f4983a48ce8c96d39d, type: 2}
   priceSetuper:
     rid: 2329009312359514122
-  levelText: {fileID: 0}
+  levelText: {fileID: 4642195667309939351}
   references:
     version: 2
     RefIds:
@@ -1133,6 +1133,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 926812753488494263, guid: 5dcd9ac92d71cf44e9108560e4a34402, type: 3}
   m_PrefabInstance: {fileID: 2851539900961130347}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &4642195667309939351 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7493655750212439548, guid: 5dcd9ac92d71cf44e9108560e4a34402, type: 3}
+  m_PrefabInstance: {fileID: 2851539900961130347}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77111c2a33b443a0b262654d312e5cec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &3078063114088451461
 PrefabInstance:
   m_ObjectHideFlags: 0

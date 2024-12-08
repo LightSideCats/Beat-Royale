@@ -118,46 +118,13 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4874573488808137812, guid: 661a86d7b78d4464c992c2f9734dfadc, type: 3}
       insertIndex: -1
       addedObject: {fileID: 6140332256418058491}
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4990749963346069223, guid: 661a86d7b78d4464c992c2f9734dfadc, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1377900565001252617}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 661a86d7b78d4464c992c2f9734dfadc, type: 3}
 --- !u!224 &4800876196333320422 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 4874573488808137812, guid: 661a86d7b78d4464c992c2f9734dfadc, type: 3}
   m_PrefabInstance: {fileID: 73699938174856370}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &4920007848985373269 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4990749963346069223, guid: 661a86d7b78d4464c992c2f9734dfadc, type: 3}
-  m_PrefabInstance: {fileID: 73699938174856370}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1377900565001252617
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4920007848985373269}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c7fc175a1f5048a9b646ef964597240e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  data:
-  - id: {fileID: -6750239444755058063, guid: 529de37825ef3ad4498a18d0705726b0, type: 3}
-    gameObject: {fileID: 0}
-    button: {fileID: 0}
-    text: {fileID: 0}
-  - id: {fileID: -6750239444755058063, guid: 635c0f22cd793754fba7cca16f9585ef, type: 3}
-    gameObject: {fileID: 0}
-    button: {fileID: 0}
-    text: {fileID: 0}
-  - id: {fileID: -6750239444755058063, guid: 3632a8f602be9f842acf43c33bac24d8, type: 3}
-    gameObject: {fileID: 0}
-    button: {fileID: 0}
-    text: {fileID: 0}
 --- !u!1001 &1867350934746131135
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -231,9 +198,17 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6261081114330575899, guid: 69d6d4041670e97428283fc2670534f1, type: 3}
+      propertyPath: localizationData.key
+      value: info
+      objectReference: {fileID: 0}
+    - target: {fileID: 6261081114330575899, guid: 69d6d4041670e97428283fc2670534f1, type: 3}
       propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6261081114330575899, guid: 69d6d4041670e97428283fc2670534f1, type: 3}
+      propertyPath: localizationData.tableData
+      value: 
+      objectReference: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
     - target: {fileID: 8869142001010808229, guid: 69d6d4041670e97428283fc2670534f1, type: 3}
       propertyPath: m_Name
       value: Title

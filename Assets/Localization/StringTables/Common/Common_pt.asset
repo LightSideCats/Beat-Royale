@@ -383,6 +383,34 @@ MonoBehaviour:
     m_Localized: Ofertas especiais
     m_Metadata:
       m_Items: []
+  - m_Id: 1454471704006656
+    m_Localized: Aberto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Localized: Fechar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Localized: Derrota
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Localized: "Vit\xF3ria"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Localized: "Pr\xF3ximo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Localized: Nvl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783874
+    m_Localized: "M\xC1X. {0}"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

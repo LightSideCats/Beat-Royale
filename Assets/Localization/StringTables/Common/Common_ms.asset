@@ -316,11 +316,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926995505152
-    m_Localized: "Ti\u1EC1n t\u1EC7"
+    m_Localized: Mata wang
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699456
-    m_Localized: "V\xE0ng"
+    m_Localized: Emas
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699457
@@ -340,7 +340,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699461
-    m_Localized: "Tinh th\u1EC3"
+    m_Localized: Kristal
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699462
@@ -360,7 +360,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699466
-    m_Localized: Sao
+    m_Localized: Bintang
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699467
@@ -381,6 +381,34 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1423927003893760
     m_Localized: Tawaran istimewa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471704006656
+    m_Localized: Buka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Localized: Tutup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Localized: Kalah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Localized: Kemenangan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Localized: Seterusnya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Localized: Thp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783874
+    m_Localized: MAKSIMUM {0}
     m_Metadata:
       m_Items: []
   references:

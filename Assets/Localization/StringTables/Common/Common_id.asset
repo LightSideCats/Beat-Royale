@@ -316,11 +316,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926995505152
-    m_Localized: "\u0639\u0645\u0644\u0629"
+    m_Localized: Mata uang
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699456
-    m_Localized: "\u0630\u0647\u0628"
+    m_Localized: Emas
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699457
@@ -340,7 +340,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699461
-    m_Localized: "\u0628\u0644\u0648\u0631\u0627\u062A"
+    m_Localized: Kristal
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699462
@@ -360,7 +360,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699466
-    m_Localized: "\u0646\u062C\u0648\u0645"
+    m_Localized: Bintang
     m_Metadata:
       m_Items: []
   - m_Id: 1423926999699467
@@ -381,6 +381,34 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1423927003893760
     m_Localized: Penawaran khusus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471704006656
+    m_Localized: Terbuka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Localized: Tutup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Localized: Kalah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Localized: Menang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Localized: Berikutnya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Localized: Lvl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783874
+    m_Localized: MAKS {0}
     m_Metadata:
       m_Items: []
   references:
