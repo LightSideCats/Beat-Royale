@@ -380,6 +380,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 8d0d2cbe38b76134c9205848ad63568f, type: 3}
+    - target: {fileID: 6444358454069898146, guid: efe9a8fa6997f9a4bb5c535bd3760f8b, type: 3}
+      propertyPath: m_fontSize
+      value: 72
+      objectReference: {fileID: 0}
     - target: {fileID: 6525536022174344957, guid: efe9a8fa6997f9a4bb5c535bd3760f8b, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -663,6 +667,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: d25635f927794d146856f73ab71fe737, type: 3}
+    - target: {fileID: 6444358454069898146, guid: efe9a8fa6997f9a4bb5c535bd3760f8b, type: 3}
+      propertyPath: m_fontSize
+      value: 72
+      objectReference: {fileID: 0}
     - target: {fileID: 6525536022174344957, guid: efe9a8fa6997f9a4bb5c535bd3760f8b, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -845,6 +853,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 5c22b09df442ca44bad2cc65f0aac5fa, type: 3}
+    - target: {fileID: 6444358454069898146, guid: efe9a8fa6997f9a4bb5c535bd3760f8b, type: 3}
+      propertyPath: m_fontSize
+      value: 72
+      objectReference: {fileID: 0}
     - target: {fileID: 6525536022174344957, guid: efe9a8fa6997f9a4bb5c535bd3760f8b, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -1141,6 +1153,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 45f7fd8f19a8d014893dedc277a79933, type: 3}
+    - target: {fileID: 6444358454069898146, guid: efe9a8fa6997f9a4bb5c535bd3760f8b, type: 3}
+      propertyPath: m_fontSize
+      value: 72
+      objectReference: {fileID: 0}
     - target: {fileID: 6525536022174344957, guid: efe9a8fa6997f9a4bb5c535bd3760f8b, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -1239,6 +1255,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -5903330421600807736, guid: f3653cda64a7e7049bc4c387c0bf90da, type: 3}
+    - target: {fileID: -4258200898577991312, guid: 608119a312d586f44a41c457f01d3cee, type: 3}
+      propertyPath: mirror.x
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: -4258200898577991312, guid: 608119a312d586f44a41c457f01d3cee, type: 3}
       propertyPath: m_Color.b
       value: 0.20392157

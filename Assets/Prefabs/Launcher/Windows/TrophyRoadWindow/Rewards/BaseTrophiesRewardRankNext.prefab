@@ -24,9 +24,29 @@ PrefabInstance:
       propertyPath: m_fontSize
       value: 40
       objectReference: {fileID: 0}
+    - target: {fileID: 2938309844004709642, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 99.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 2938309844004709642, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 43.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 3673199287897500501, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
+      propertyPath: m_fontSize
+      value: 37.55
+      objectReference: {fileID: 0}
     - target: {fileID: 4831249545618860506, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
       propertyPath: m_Name
       value: BaseTrophiesRewardRankNext
+      objectReference: {fileID: 0}
+    - target: {fileID: 5095476453499700906, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
+      propertyPath: m_text
+      value: I
+      objectReference: {fileID: 0}
+    - target: {fileID: 5095476453499700906, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
+      propertyPath: m_fontSize
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 5951594921421237611, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -39,6 +59,14 @@ PrefabInstance:
     - target: {fileID: 5951594921421237611, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668123094923708661, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 51.275
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668123094923708661, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -61.863
       objectReference: {fileID: 0}
     - target: {fileID: 6940137140819493445, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
       propertyPath: m_SizeDelta.x

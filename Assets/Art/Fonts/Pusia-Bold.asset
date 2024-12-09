@@ -112,7 +112,7 @@ MonoBehaviour:
   - {fileID: -6914262793793279109}
   m_AtlasTextureIndex: 0
   m_IsMultiAtlasTexturesEnabled: 1
-  m_GetFontFeatures: 1
+  m_GetFontFeatures: 0
   m_ClearDynamicDataOnBuild: 1
   m_AtlasWidth: 1024
   m_AtlasHeight: 1024

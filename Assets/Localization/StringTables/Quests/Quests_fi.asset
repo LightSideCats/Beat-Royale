@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Quests_fi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi
+  m_SharedData: {fileID: 11400000, guid: c50aa1a869a4a6240aacb9cd8d61e025, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16320343101440
+    m_Localized: Voita {0} ottelua {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15179354001408
+    m_Localized: VAIN ASTROBOOSTILLA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667776
+    m_Localized: "Teht\xE4v\xE4t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667777
+    m_Localized: Kausi {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667778
+    m_Localized: XP ottelu-\nista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667779
+    m_Localized: "+{0} XP:t\xE4 {1} kuluttua"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667780
+    m_Localized: "{0}/{1} vaihtoa j\xE4ljell\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667781
+    m_Localized: Vaihtumiseen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667782
+    m_Localized: "Vaihda teht\xE4v\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667783
+    m_Localized: Peruuta vaihto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3211909976064
+    m_Localized: Vaihtumiseen {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667785
+    m_Localized: "Uusien teht\xE4vien avautumiseen:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862080
+    m_Localized: "P\xE4iv\xE4teht\xE4vien p\xE4ivittymiseen:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862081
+    m_Localized: "Uusien teht\xE4vien ilmestymiseen {0}:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862082
+    m_Localized: Avaa tasolla {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862083
+    m_Localized: 'Alkamiseen: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862084
+    m_Localized: "Kauden teht\xE4v\xE4t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862085
+    m_Localized: "Erikoisteht\xE4v\xE4t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862086
+    m_Localized: "P\xE4iv\xE4n teht\xE4v\xE4t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862087
+    m_Localized: "Teht\xE4v\xE4n palkinto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862088
+    m_Localized: Voita {0} ottelua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862089
+    m_Localized: Suorita taso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862090
+    m_Localized: "Tyrm\xE4\xE4 {0} vastustajaa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862091
+    m_Localized: "Aiheuta {0} pistett\xE4 tuhoa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862092
+    m_Localized: Valitse "pelaa uudelleen" {0} kertaa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862093
+    m_Localized: "Ole mukana {0} kierrosta ilman, ett\xE4 sinua tyrm\xE4t\xE4\xE4n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862094
+    m_Localized: "r\xE4m\xE4p\xE4\xE4ll\xE4 {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862095
+    m_Localized: "r\xE4m\xE4p\xE4\xE4ll\xE4 {0} tai {1}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862096
+    m_Localized: "r\xE4m\xE4p\xE4\xE4ll\xE4 {0}, {1} tai {2}"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

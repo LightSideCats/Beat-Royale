@@ -34,14 +34,6 @@ MonoBehaviour:
     m_Localized: Toko
     m_Metadata:
       m_Items: []
-  - m_Id: 703562262827011
-    m_Localized: Pahlawan
-    m_Metadata:
-      m_Items: []
-  - m_Id: 703562262827012
-    m_Localized: Misi
-    m_Metadata:
-      m_Items: []
   - m_Id: 703562262827013
     m_Localized: Berita
     m_Metadata:
@@ -231,88 +223,52 @@ MonoBehaviour:
     m_Localized: Yakin ingin ganti bahasa?
     m_Metadata:
       m_Items: []
-  - m_Id: 1335988769050626
-    m_Localized: English
+  - m_Id: 1764026874908672
+    m_Localized: Terkunci
     m_Metadata:
       m_Items: []
-  - m_Id: 1335988769050627
-    m_Localized: "Fran\xE7ais"
+  - m_Id: 1764026870714369
+    m_Localized: Beli
     m_Metadata:
       m_Items: []
-  - m_Id: 1335988769050628
-    m_Localized: Deutsch
+  - m_Id: 1764026870714368
+    m_Localized: Terbatas
     m_Metadata:
       m_Items: []
-  - m_Id: 1335988769050629
-    m_Localized: "Espa\xF1ol"
+  - m_Id: 1745601175801861
+    m_Localized: Tingkatkan
     m_Metadata:
       m_Items: []
-  - m_Id: 1335988769050630
-    m_Localized: Italiano
+  - m_Id: 1745601175801860
+    m_Localized: Buka
     m_Metadata:
       m_Items: []
-  - m_Id: 1335988769050631
-    m_Localized: "\u7B80\u4F53\u4E2D\u6587"
+  - m_Id: 1745601175801859
+    m_Localized: Serangan
     m_Metadata:
       m_Items: []
-  - m_Id: 1335988769050632
-    m_Localized: "\u7E41\u9AD4\u4E2D\u6587"
+  - m_Id: 1745601175801858
+    m_Localized: Kesehatan
     m_Metadata:
       m_Items: []
-  - m_Id: 1335988773244928
-    m_Localized: "\u65E5\u672C\u8A9E"
+  - m_Id: 1745601175801857
+    m_Localized: Maks {0}
     m_Metadata:
       m_Items: []
-  - m_Id: 1335988777439232
-    m_Localized: "\uD55C\uAD6D\uC5B4"
+  - m_Id: 1745601175801856
+    m_Localized: Level
     m_Metadata:
       m_Items: []
-  - m_Id: 1335988777439233
-    m_Localized: "Portugu\xEAs"
+  - m_Id: 1742454176927745
+    m_Localized: Aktif
     m_Metadata:
       m_Items: []
-  - m_Id: 1335988777439234
-    m_Localized: "\u0420\u0443\u0441\u0441\u043A\u0438\u0439"
+  - m_Id: 1726043287244801
+    m_Localized: '{0}/{1}'
     m_Metadata:
       m_Items: []
-  - m_Id: 1335988777439235
-    m_Localized: Nederlands
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439236
-    m_Localized: "T\xFCrk\xE7e"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439237
-    m_Localized: Suomi
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439238
-    m_Localized: Bahasa Melayu
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439239
-    m_Localized: "Ti\u1EBFng Vi\u1EC7t"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439240
-    m_Localized: "\u0E44\u0E17\u0E22"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439241
-    m_Localized: Bahasa Indonesia
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439242
-    m_Localized: "\u0627\u0644\u0639\u0631\u0628\u064A\u0629"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988781633536
-    m_Localized: Polski
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988781633537
-    m_Localized: "\u05E2\u05D1\u05E8\u05D9\u05EA"
+  - m_Id: 1726043287244800
+    m_Localized: '{0}'
     m_Metadata:
       m_Items: []
   - m_Id: 1423926995505152
@@ -407,8 +363,64 @@ MonoBehaviour:
     m_Localized: Lvl
     m_Metadata:
       m_Items: []
-  - m_Id: 1454471720783874
-    m_Localized: MAKS {0}
+  - m_Id: 1742454176927744
+    m_Localized: Aktifkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1787641246830592
+    m_Localized: 'Lvl: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788425220968448
+    m_Localized: Hadiah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809896953663488
+    m_Localized: Beli {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2105858804731904
+    m_Localized: +{0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375296
+    m_Localized: Orion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375297
+    m_Localized: Andromeda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375298
+    m_Localized: Cassiopeia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375299
+    m_Localized: Sirius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375300
+    m_Localized: Phoenix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375301
+    m_Localized: Helios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569600
+    m_Localized: Elysium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569601
+    m_Localized: Theia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569602
+    m_Localized: Cronos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569603
+    m_Localized: Custod
     m_Metadata:
       m_Items: []
   references:

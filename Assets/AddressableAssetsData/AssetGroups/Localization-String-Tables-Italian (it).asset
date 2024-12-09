@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: Localization-String-Tables-Italian (it)
   m_GUID: 55fdcfdeed102c446865e615de2bd993
   m_SerializeEntries:
+  - m_GUID: 4cfbb88e768a0204c8e689893e51ff3b
+    m_Address: Quests_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b079a4653d93ee141a9c4038c2f35741
     m_Address: Heroes_it
     m_ReadOnly: 1

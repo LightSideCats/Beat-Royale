@@ -21,6 +21,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale-fr
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e32069bd3f6af24782c9cf994a973b5
+    m_Address: Quests_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c7b2229400e1725478e22aca542cd885
     m_Address: Common_fr
     m_ReadOnly: 1

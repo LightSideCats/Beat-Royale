@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: Localization-String-Tables-Polish (pl)
   m_GUID: edb9c1c2e3dd1f44ba8d37a579c1e8a8
   m_SerializeEntries:
+  - m_GUID: 2c67862174814f14c84a288b5cb50dc7
+    m_Address: Quests_pl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b2beb8311411fe4428292ce52134d597
     m_Address: Common_pl
     m_ReadOnly: 1

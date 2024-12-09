@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Quests Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Quests
+  m_TableCollectionNameGuidString: c50aa1a869a4a6240aacb9cd8d61e025
+  m_Entries:
+  - m_Id: 1139726667776
+    m_Key: quests
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667777
+    m_Key: season
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667778
+    m_Key: xpFromBattles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667779
+    m_Key: xpInTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667780
+    m_Key: rerollsCount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3211909976064
+    m_Key: rerollsRefreshesTimeArg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667781
+    m_Key: rerollsRefreshesTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667782
+    m_Key: rerollQuest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667783
+    m_Key: cancelReroll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667785
+    m_Key: newQuestUnlockIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862080
+    m_Key: newQuestDailyIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862081
+    m_Key: newQuestsIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862082
+    m_Key: unlockAt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862083
+    m_Key: startsIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862084
+    m_Key: seasonQuests
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862085
+    m_Key: specialQuests
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862086
+    m_Key: dailyQuests
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862087
+    m_Key: questReward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15179354001408
+    m_Key: astroboostExclusive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862088
+    m_Key: winBattles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16320343101440
+    m_Key: winBattlesArg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862089
+    m_Key: completeLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862090
+    m_Key: defeatEnemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862091
+    m_Key: dealDamage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862092
+    m_Key: usePlayAgain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862093
+    m_Key: stayUndefeated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862094
+    m_Key: hero1condition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862095
+    m_Key: hero2condition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862096
+    m_Key: hero3condition
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6254766690713469655
+  references:
+    version: 2
+    RefIds:
+    - rid: 6254766690713469655
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1733697794321

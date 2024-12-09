@@ -21,6 +21,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale-vi
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d907faae4962b14f851e82d763dc379
+    m_Address: Quests_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f9e2f2bc6ad33c446af2eb91e40fd3c1
     m_Address: Heroes_vi
     m_ReadOnly: 1

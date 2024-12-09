@@ -25,7 +25,7 @@ MonoBehaviour:
   m_ClearDynamicDataOnBuild: 1
   m_warningsDisabled: 0
   m_defaultFontAsset: {fileID: 11400000, guid: 2f0101526ef0d5144a7cdd1d5d8aeb9f, type: 2}
-  m_defaultFontAssetPath: Fonts & Materials/
+  m_defaultFontAssetPath: FontsMaterials/
   m_defaultFontSize: 36
   m_defaultAutoSizeMinRatio: 0.5
   m_defaultAutoSizeMaxRatio: 2
@@ -49,7 +49,7 @@ MonoBehaviour:
   m_enableEmojiSupport: 1
   m_MissingCharacterSpriteUnicode: 0
   m_EmojiFallbackTextAssets: []
-  m_defaultColorGradientPresetsPath: Color Gradient Presets/
+  m_defaultColorGradientPresetsPath: GradientPresets/
   m_defaultStyleSheet: {fileID: 11400000, guid: f952c082cb03451daed3ee968ac6c63e, type: 2}
   m_StyleSheetsResourcePath: 
   m_leadingCharacters: {fileID: 4900000, guid: d82c1b31c7e74239bff1220585707d2b, type: 3}

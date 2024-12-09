@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Quests_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: c50aa1a869a4a6240aacb9cd8d61e025, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16320343101440
+    m_Localized: Gana {0} batallas {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15179354001408
+    m_Localized: EXCLUSIVA DEL ASTROBOOST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667776
+    m_Localized: Misiones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667777
+    m_Localized: Temporada {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667778
+    m_Localized: XP de las batallas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667779
+    m_Localized: "+{0}\_XP en\_{1}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667780
+    m_Localized: '{0}/{1} cambios disponibles'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667781
+    m_Localized: "M\xE1s dentro de"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667782
+    m_Localized: "Cambiar misi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667783
+    m_Localized: Cancelar cambio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3211909976064
+    m_Localized: "M\xE1s dentro de {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667785
+    m_Localized: Nuevas misiones disponibles dentro de
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862080
+    m_Localized: Las misiones diarias se actualizan dentro de
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862081
+    m_Localized: Nuevas misiones dentro de {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862082
+    m_Localized: 'Se desbloquean con: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862083
+    m_Localized: Empieza dentro de {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862084
+    m_Localized: Misiones de temporada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862085
+    m_Localized: Misiones especiales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862086
+    m_Localized: Misiones diarias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862087
+    m_Localized: "Recompensa de la misi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862088
+    m_Localized: Gana {0} batallas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862089
+    m_Localized: Completa un nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862090
+    m_Localized: Derrota a {0} enemigos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862091
+    m_Localized: "Inflige {0} puntos de da\xF1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862092
+    m_Localized: Usa "volver a jugar" {0} veces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862093
+    m_Localized: Mantente a salvo durante {0} rondas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862094
+    m_Localized: con {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862095
+    m_Localized: con {0} o {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862096
+    m_Localized: con {0}, {1} o {2}
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Quests_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: c50aa1a869a4a6240aacb9cd8d61e025, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16320343101440
+    m_Localized: "Ven\xE7a {0} batalhas {1}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15179354001408
+    m_Localized: EXCLUSIVO DO ASTROBOOST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667776
+    m_Localized: "Miss\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667777
+    m_Localized: Temporada {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667778
+    m_Localized: XP de batalha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667779
+    m_Localized: +{0} XP em {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667780
+    m_Localized: "Trocas dispon\xEDveis: {0}/{1}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667781
+    m_Localized: 'Atualiza em:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667782
+    m_Localized: "Trocar miss\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667783
+    m_Localized: Cancelar troca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3211909976064
+    m_Localized: 'Atualiza em: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667785
+    m_Localized: "Novas miss\xF5es dispon\xEDveis em:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862080
+    m_Localized: "Miss\xF5es di\xE1rias atualizadas em:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862081
+    m_Localized: "Novas miss\xF5es em {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862082
+    m_Localized: Desbloqueia em {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862083
+    m_Localized: "Come\xE7a em {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862084
+    m_Localized: "Miss\xF5es sazonais"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862085
+    m_Localized: "Miss\xF5es especiais"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862086
+    m_Localized: "Miss\xF5es di\xE1rias"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862087
+    m_Localized: "Recompensa da miss\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862088
+    m_Localized: "Ven\xE7a {0} batalhas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862089
+    m_Localized: "Conclua o n\xEDvel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862090
+    m_Localized: Derrote {0} inimigos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862091
+    m_Localized: Cause {0} pontos de dano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862092
+    m_Localized: "Use a op\xE7\xE3o \"jogar de novo\" {0} vezes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862093
+    m_Localized: "Ven\xE7a {0} rodadas sem perder"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862094
+    m_Localized: com {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862095
+    m_Localized: com {0} ou {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862096
+    m_Localized: com {0}, {1} ou {2}
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

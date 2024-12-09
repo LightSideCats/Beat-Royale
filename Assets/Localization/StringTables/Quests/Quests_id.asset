@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Quests_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: c50aa1a869a4a6240aacb9cd8d61e025, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16320343101440
+    m_Localized: Menangkan {0} laga {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15179354001408
+    m_Localized: EKSKLUSIF ASTROBOOST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667776
+    m_Localized: Misi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667777
+    m_Localized: Musim {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667778
+    m_Localized: XP dari laga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667779
+    m_Localized: +{0} XP dalam {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667780
+    m_Localized: '{0}/{1} acak ulang tersedia'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667781
+    m_Localized: Disegarkan dalam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667782
+    m_Localized: Acak ulang tugas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667783
+    m_Localized: Batalkan acak ulang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3211909976064
+    m_Localized: Disegarkan dalam {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667785
+    m_Localized: 'Tugas baru akan terbuka dalam:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862080
+    m_Localized: 'Tugas Harian akan disegarkan dalam:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862081
+    m_Localized: Tugas Baru dalam {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862082
+    m_Localized: Terbuka di {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862083
+    m_Localized: Dimulai dalam {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862084
+    m_Localized: Tugas musim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862085
+    m_Localized: Tugas spesial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862086
+    m_Localized: Tugas harian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862087
+    m_Localized: Hadiah tugas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862088
+    m_Localized: Menangkan {0} laga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862089
+    m_Localized: Selesaikan level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862090
+    m_Localized: Tumbangkan {0} lawan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862091
+    m_Localized: Berikan {0} kerusakan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862092
+    m_Localized: Gunakan "main lagi" {0} kali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862093
+    m_Localized: Bertahan hidup selama {0} ronde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862094
+    m_Localized: dengan {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862095
+    m_Localized: dengan {0} atau {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862096
+    m_Localized: dengan {0}, {1} atau {2}
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

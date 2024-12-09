@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: Localization-String-Tables-Hebrew (he)
   m_GUID: cb8e6e200807a064a935041d4d61150c
   m_SerializeEntries:
+  - m_GUID: 1aa88170fd4d44d48b791477b3d7594c
+    m_Address: Quests_he
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-he
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 26b6832180363024891d65357a770635
     m_Address: Heroes_he
     m_ReadOnly: 1

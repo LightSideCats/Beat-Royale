@@ -15,6 +15,18 @@ MonoBehaviour:
   m_TableCollectionName: Common
   m_TableCollectionNameGuidString: e0d621d1ef7248d4c85dfa1657580628
   m_Entries:
+  - m_Id: 1726043287244800
+    m_Key: value
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2105858804731904
+    m_Key: plusValue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726043287244801
+    m_Key: progress.value
+    m_Metadata:
+      m_Items: []
   - m_Id: 5669767925760
     m_Key: enter
     m_Metadata:
@@ -37,6 +49,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 991213901631489
     m_Key: connected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1742454176927744
+    m_Key: select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1742454176927745
+    m_Key: selected
     m_Metadata:
       m_Items: []
   - m_Id: 991213905825794
@@ -71,6 +91,10 @@ MonoBehaviour:
     m_Key: close
     m_Metadata:
       m_Items: []
+  - m_Id: 1764026870714368
+    m_Key: closed
+    m_Metadata:
+      m_Items: []
   - m_Id: 991213905825799
     m_Key: agree
     m_Metadata:
@@ -83,8 +107,52 @@ MonoBehaviour:
     m_Key: claim
     m_Metadata:
       m_Items: []
+  - m_Id: 1764026870714369
+    m_Key: buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809896953663488
+    m_Key: buyArg
+    m_Metadata:
+      m_Items: []
   - m_Id: 991213905825802
     m_Key: info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801857
+    m_Key: levelMax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801858
+    m_Key: health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801859
+    m_Key: attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801856
+    m_Key: level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Key: lvl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1787641246830592
+    m_Key: lvlArg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026874908672
+    m_Key: locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801860
+    m_Key: unlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801861
+    m_Key: upgrade
     m_Metadata:
       m_Items: []
   - m_Id: 703562262827008
@@ -93,6 +161,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 991213905825803
     m_Key: dailyRewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788425220968448
+    m_Key: rewards
     m_Metadata:
       m_Items: []
   - m_Id: 703562262827010
@@ -165,14 +237,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1423927003893760
     m_Key: spesialOffers
-    m_Metadata:
-      m_Items: []
-  - m_Id: 703562262827011
-    m_Key: heroes
-    m_Metadata:
-      m_Items: []
-  - m_Id: 703562262827012
-    m_Key: quests
     m_Metadata:
       m_Items: []
   - m_Id: 703562262827013
@@ -267,90 +331,6 @@ MonoBehaviour:
     m_Key: privacyPolicy
     m_Metadata:
       m_Items: []
-  - m_Id: 1335988769050626
-    m_Key: english
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988769050627
-    m_Key: french
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988769050628
-    m_Key: german
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988769050629
-    m_Key: spanish
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988769050630
-    m_Key: italian
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988769050631
-    m_Key: simplifiedChinese
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988769050632
-    m_Key: traditionalChinese
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988773244928
-    m_Key: japanese
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439232
-    m_Key: korean
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439233
-    m_Key: portuguese
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439234
-    m_Key: russian
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439235
-    m_Key: dutch
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439236
-    m_Key: turkish
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439237
-    m_Key: finnish
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439238
-    m_Key: malay
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439239
-    m_Key: vietnamese
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439240
-    m_Key: thai
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439241
-    m_Key: indonesian
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988777439242
-    m_Key: arabic
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988781633536
-    m_Key: polish
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1335988781633537
-    m_Key: hebrew
-    m_Metadata:
-      m_Items: []
   - m_Id: 991213910020097
     m_Key: termsOfUse
     m_Metadata:
@@ -399,12 +379,44 @@ MonoBehaviour:
     m_Key: next
     m_Metadata:
       m_Items: []
-  - m_Id: 1454471720783873
-    m_Key: lvl
+  - m_Id: 2113075096375296
+    m_Key: orion
     m_Metadata:
       m_Items: []
-  - m_Id: 1454471720783874
-    m_Key: maxValue
+  - m_Id: 2113075096375297
+    m_Key: andromeda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375298
+    m_Key: cassiopeia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375299
+    m_Key: sirius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375300
+    m_Key: phoenix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375301
+    m_Key: helios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569600
+    m_Key: elysium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569601
+    m_Key: theia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569602
+    m_Key: cronos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569603
+    m_Key: custod
     m_Metadata:
       m_Items: []
   m_Metadata:

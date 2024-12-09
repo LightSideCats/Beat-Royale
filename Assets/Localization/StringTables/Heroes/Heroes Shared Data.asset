@@ -15,12 +15,100 @@ MonoBehaviour:
   m_TableCollectionName: Heroes
   m_TableCollectionNameGuidString: 1460b6164d0825044ac84614425b11cc
   m_Entries:
+  - m_Id: 1790837075791872
+    m_Key: heroes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791873
+    m_Key: closedHeroes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791874
+    m_Key: lockedHeroes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212608
+    m_Key: class.artillery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212609
+    m_Key: class.assassin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212610
+    m_Key: class.controller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212611
+    m_Key: class.damageDealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212612
+    m_Key: class.marksman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212613
+    m_Key: class.support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212614
+    m_Key: class.tank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212615
+    m_Key: rarity.stardust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212616
+    m_Key: rarity.supernovaGlow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212617
+    m_Key: rarity.pulsarEnergy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212618
+    m_Key: rarity.nebularLight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212619
+    m_Key: rarity.quasarCore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212620
+    m_Key: rarity.singularity
+    m_Metadata:
+      m_Items: []
   - m_Id: 8795937886208
     m_Key: foxy.name
     m_Metadata:
       m_Items: []
-  - m_Id: 32705123241984
-    m_Key: login
+  - m_Id: 1739650540556288
+    m_Key: foxy.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313931997184
+    m_Key: saya.name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556289
+    m_Key: saya.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313965551616
+    m_Key: aura.name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556290
+    m_Key: aura.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313969745920
+    m_Key: jack.name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556291
+    m_Key: jack.description
     m_Metadata:
       m_Items: []
   m_Metadata:
