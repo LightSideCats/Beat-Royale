@@ -424,6 +424,64 @@ MonoBehaviour:
     m_Localized: "\uCEE4\uC2A4\uD1A0\uB4DC"
     m_Metadata:
       m_Items: []
+  - m_Id: 2210991253278720
+    m_Localized: <material={0}>{1}</material>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833152
+    m_Localized: <color={0}>{1}</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833153
+    m_Localized: <size={0}>{1}</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833154
+    m_Localized: <font={0}>{1}</font>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833155
+    m_Localized: <gradient={0}>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833156
+    m_Localized: <cspace={0}em>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991291027456
+    m_Localized: "{0}\uACE8\uB4DC{1}\uB294 \uC601\uC6C5\uC744 \uD5A5\uC0C1\uC2DC\uD0A4\uB294
+      \uB370 \uD544\uC694\uD569\uB2C8\uB2E4.\\n\\n\uACE8\uB4DC\uB294 \uC804\uD22C,
+      {2}, \uC0C1\uC790\uC5D0\uC11C \uC5BB\uC744 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416064
+    m_Localized: "{0}\uD06C\uB9AC\uC2A4\uD0C8{1}\uC740 \uC601\uC6C5\uACFC \uC0C1\uC810\uC5D0\uC11C
+      \uB2E4\uB978 \uAC83\uC744 \uC0AC\uB294 \uB370 \uD544\uC694\uD569\uB2C8\uB2E4.\\n\\n\uD06C\uB9AC\uC2A4\uD0C8\uC740
+      {2}\uC5D0\uC11C \uC5BB\uAC70\uB098 \uC2E4\uC81C \uB3C8\uC73C\uB85C \uC0C1\uC810\uC5D0\uC11C
+      \uAD6C\uC785\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416065
+    m_Localized: "{0}\uBCC4{1}\uC740 \uC601\uC6C5\uC744 \uD5A5\uC0C1\uC2DC\uD0A4\uB294
+      \uB370 \uD544\uC694\uD569\uB2C8\uB2E4.\\n\\n\uBCC4\uC740 \uC804\uD22C, {2},
+      \uC0C1\uC790\uC5D0\uC11C \uC5BB\uC744 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599220473856
+    m_Localized: "\uCD5C\uB300 \uB808\uBCA8!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137152
+    m_Localized: "\uB2E4\uB978 \uD50C\uB808\uC774\uC5B4\uC640\uC758 \uAC8C\uC784\uC5D0\uC11C
+      \uC2B9\uB9AC\uD558\uC5EC \uC774 \uC601\uC6C5\uC758 \uD2B8\uB85C\uD53C\uB97C
+      \uC218\uC9D1\uD558\uC138\uC694."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137153
+    m_Localized: "\uC601\uC6C5\uC744 \uC5C5\uADF8\uB808\uC774\uB4DC\uD558\uC138\uC694!
+      \uCCB4\uB825\uACFC \uACF5\uACA9\uB825\uC744 \uC99D\uAC00\uC2DC\uD0A4\uC138\uC694."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

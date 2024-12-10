@@ -423,6 +423,59 @@ MonoBehaviour:
     m_Localized: Custod
     m_Metadata:
       m_Items: []
+  - m_Id: 2210991253278720
+    m_Localized: <material={0}>{1}</material>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833152
+    m_Localized: <color={0}>{1}</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833153
+    m_Localized: <size={0}>{1}</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833154
+    m_Localized: <font={0}>{1}</font>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833155
+    m_Localized: <gradient={0}>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833156
+    m_Localized: <cspace={0}em>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991291027456
+    m_Localized: '{0}Emas{1} diperlukan untuk meningkatkan pahlawan.\n\nEmas dapat
+      diperoleh dalam pertempuran, di {2}, dalam peti.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416064
+    m_Localized: '{0}Kristal{1} diperlukan untuk membeli pahlawan dan barang lain
+      di toko.\n\nKristal dapat diperoleh di {2} atau dibeli di toko dengan uang
+      sungguhan.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416065
+    m_Localized: '{0}Bintang{1} diperlukan untuk meningkatkan pahlawan.\n\nBintang
+      dapat diperoleh dalam pertempuran, di {2}, dalam peti.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599220473856
+    m_Localized: Level maks!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137152
+    m_Localized: Kumpulkan Trofi untuk Pahlawan ini dengan memenangkan permainan
+      melawan pemain lain.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137153
+    m_Localized: Tingkatkan Pahlawan Anda! Tingkatkan Kesehatan dan Serangan mereka.
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

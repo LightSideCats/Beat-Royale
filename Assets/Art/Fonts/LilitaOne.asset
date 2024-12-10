@@ -63,7 +63,7 @@ MonoBehaviour:
     m_FaceIndex: 0
     m_FamilyName: Lilita One
     m_StyleName: Regular
-    m_PointSize: 89
+    m_PointSize: 90
     m_Scale: 1
     m_UnitsPerEM: 1000
     m_LineHeight: 102.87
@@ -88,7 +88,7 @@ MonoBehaviour:
     sourceFontFileGUID: 6ac71d97098bdd14fb38208f0922ea6a
     faceIndex: 0
     pointSizeSamplingMode: 0
-    pointSize: 89
+    pointSize: 90
     padding: 9
     paddingMode: 2
     packingMode: 0

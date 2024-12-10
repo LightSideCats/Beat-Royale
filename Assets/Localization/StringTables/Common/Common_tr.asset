@@ -424,6 +424,61 @@ MonoBehaviour:
     m_Localized: Custod
     m_Metadata:
       m_Items: []
+  - m_Id: 2210991253278720
+    m_Localized: <material={0}>{1}</material>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833152
+    m_Localized: <color={0}>{1}</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833153
+    m_Localized: <size={0}>{1}</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833154
+    m_Localized: <font={0}>{1}</font>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833155
+    m_Localized: <gradient={0}>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833156
+    m_Localized: <cspace={0}em>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991291027456
+    m_Localized: "{0}Alt\u0131n{1} kahramanlar\u0131 geli\u015Ftirmek i\xE7in gereklidir.\\n\\nAlt\u0131n,
+      sava\u015Flarda, {2}'ta, sand\u0131klarda kazan\u0131labilir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416064
+    m_Localized: "{0}Kristaller{1}, kahramanlar\u0131 ve ma\u011Fazada di\u011Fer
+      \u015Feyleri sat\u0131n almak i\xE7in gereklidir.\\n\\nKristaller {2}'ta elde
+      edilebilir veya ger\xE7ek parayla ma\u011Fazadan sat\u0131n al\u0131nabilir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416065
+    m_Localized: "{0}Y\u0131ld\u0131zlar{1} kahramanlar\u0131 geli\u015Ftirmek i\xE7in
+      gereklidir.\\n\\nY\u0131ld\u0131zlar, sava\u015Flarda, {2}'ta, sand\u0131klarda
+      kazan\u0131labilir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599220473856
+    m_Localized: Maksimum seviye!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137152
+    m_Localized: "Di\u011Fer oyunculara kar\u015F\u0131 oyunlar kazanarak bu kahraman
+      i\xE7in kupalar topla."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137153
+    m_Localized: "Kahraman\u0131n\u0131 y\xFCkselt! Sa\u011Fl\u0131\u011F\u0131n\u0131
+      ve Sald\u0131r\u0131 Hasar\u0131n\u0131 art\u0131r."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

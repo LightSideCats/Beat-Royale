@@ -182,10 +182,68 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: 'managedReferences[6254766731563368680]'
+      value: LSCore.UIModule LSCore.String
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: 'managedReferences[6254766731563368681]'
+      value: LSCore.UIModule LSCore.String
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: 'managedReferences[6254766737715363956]'
+      value: LSCore.UIModule LSCore.String
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: managedReferences[6254766731563368680].value
+      value: <material="Outline"><color=#26CDFF>
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: managedReferences[6254766731563368681].value
+      value: </color></material>
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: managedReferences[6254766737715363956].value
+      value: "\uFEFF<material=\"BattlePassText\"><size=60><cspace=-6><gradient=\"BattlePassText\">ASTROBOOST</gradient></cspace></size></material>"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: managedReferences[6254766737715364163].value
+      value: <material="Outline"><color=#26CDFF><size=45>
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
       propertyPath: managedReferences[3302317851167424821].message
-      value: <material="LilitaOneOutline"><color=#26CDFF>Stars</color></material>
-        are needed to improve the heroes.\n\nStars can be earned in battles, in Battle
-        Pass, in chests.
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: managedReferences[3302317851167424821].useLocalization
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: managedReferences[3302317851167424821].localizationData.key
+      value: starsTooltip
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: managedReferences[6254766737715364162].localizationData.key
+      value: starsTooltip
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: managedReferences[3302317851167424821].localizationData.tableData
+      value: 
+      objectReference: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: managedReferences[3302317851167424821].localizationData.arguments.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: 'managedReferences[3302317851167424821].localizationData.arguments.Array.data[0]'
+      value: 6254766731563368680
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: 'managedReferences[3302317851167424821].localizationData.arguments.Array.data[1]'
+      value: 6254766731563368681
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505063309720966281, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: 'managedReferences[3302317851167424821].localizationData.arguments.Array.data[2]'
+      value: 6254766737715363956
       objectReference: {fileID: 0}
     - target: {fileID: 5576457926976178048, guid: a7fd486681891b54486bb052579f7d55, type: 3}
       propertyPath: m_AnchorMax.y
@@ -215,6 +273,30 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 363ce355d64b282419cc180d0f03be54, type: 3}
+    - target: {fileID: 8472317362171837488, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8472317362171837488, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8472317362171837488, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8472317362171837488, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8472317362171837488, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8472317362171837488, guid: a7fd486681891b54486bb052579f7d55, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 1559288756161195608, guid: a7fd486681891b54486bb052579f7d55, type: 3}

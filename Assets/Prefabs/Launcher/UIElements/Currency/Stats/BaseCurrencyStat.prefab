@@ -140,18 +140,54 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: 'clickActions.actions.Array.data[0]'
-      value: 3302317851167424821
+      value: 6254766737715364162
       objectReference: {fileID: 0}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: 'managedReferences[3302317851167424821]'
       value: LSCore.WindowModule LSCore.ShowTooltip
       objectReference: {fileID: 0}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: 'managedReferences[6254766737715364162]'
+      value: LSCore.WindowModule LSCore.ShowTooltip
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: 'managedReferences[6254766737715364163]'
+      value: LSCore.UIModule LSCore.String
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: 'managedReferences[6254766737715364164]'
+      value: LSCore.UIModule LSCore.String
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: 'managedReferences[6254766737715364165]'
+      value: LSCore.UIModule LSCore.String
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766737715364163].value
+      value: <material="Outline"><color=#EA35F7><size=45>
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766737715364164].value
+      value: </color></material></size>
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766737715364165].value
+      value: "\uFEFF<material=\"BattlePassText\"><size=45><cspace=-6><gradient=\"BattlePassText\">ASTROBOOST</gradient></cspace></size></material>"
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: managedReferences[3302317851167424821].prefab
       value: 
-      objectReference: {fileID: 2062245683900866534, guid: a46105714d43b334a9558f06338c178e, type: 3}
+      objectReference: {fileID: 2062245683900866534, guid: 402c7a23ddd052d49899245b8cfbf37e, type: 3}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: managedReferences[3302317851167424821].target
+      value: 
+      objectReference: {fileID: 3902360840440152879}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766737715364162].prefab
+      value: 
+      objectReference: {fileID: 2062245683900866534, guid: 402c7a23ddd052d49899245b8cfbf37e, type: 3}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766737715364162].target
       value: 
       objectReference: {fileID: 3902360840440152879}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
@@ -159,21 +195,41 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766737715364162].message
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: managedReferences[3302317851167424821].hideManually
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
-      propertyPath: managedReferences[3302317851167424821].useLocalization
+      propertyPath: managedReferences[6254766737715364162].hideManually
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[3302317851167424821].useLocalization
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766737715364162].useLocalization
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: managedReferences[3302317851167424821].localizationData.key
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766737715364162].localizationData.key
+      value: crystalsTooltip
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: managedReferences[3302317851167424821].localizationData.tableData
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766737715364162].localizationData.tableData
+      value: 
+      objectReference: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: managedReferences[3302317851167424821].transformActions.Array.size
       value: 0
@@ -181,6 +237,22 @@ PrefabInstance:
     - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: managedReferences[3302317851167424821].localizationData.arguments.Array.size
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: managedReferences[6254766737715364162].localizationData.arguments.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: 'managedReferences[6254766737715364162].localizationData.arguments.Array.data[0]'
+      value: 6254766737715364163
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: 'managedReferences[6254766737715364162].localizationData.arguments.Array.data[1]'
+      value: 6254766737715364164
+      objectReference: {fileID: 0}
+    - target: {fileID: -2587232780979559735, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
+      propertyPath: 'managedReferences[6254766737715364162].localizationData.arguments.Array.data[2]'
+      value: 6254766737715364165
       objectReference: {fileID: 0}
     - target: {fileID: 2359075250687977436, guid: ab2bf3356f499134289ccbc9fcc5695b, type: 3}
       propertyPath: m_Name

@@ -27,6 +27,30 @@ MonoBehaviour:
     m_Key: progress.value
     m_Metadata:
       m_Items: []
+  - m_Id: 2210991253278720
+    m_Key: materialTag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833152
+    m_Key: colorTag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833153
+    m_Key: sizeTag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833154
+    m_Key: fontTag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833155
+    m_Key: gradient
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833156
+    m_Key: cspace
+    m_Metadata:
+      m_Items: []
   - m_Id: 5669767925760
     m_Key: enter
     m_Metadata:
@@ -121,6 +145,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1745601175801857
     m_Key: levelMax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599220473856
+    m_Key: maxLevel
     m_Metadata:
       m_Items: []
   - m_Id: 1745601175801858
@@ -417,6 +445,26 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2113075100569603
     m_Key: custod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991291027456
+    m_Key: goldTooltip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416064
+    m_Key: crystalsTooltip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416065
+    m_Key: starsTooltip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137152
+    m_Key: trophiesTooltip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137153
+    m_Key: levelTooltip
     m_Metadata:
       m_Items: []
   m_Metadata:

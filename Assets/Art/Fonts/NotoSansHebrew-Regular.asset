@@ -175,21 +175,21 @@ MonoBehaviour:
     m_PointSize: 90
     m_Scale: 1
     m_UnitsPerEM: 1000
-    m_LineHeight: 122.4
-    m_AscentLine: 96.12
-    m_CapLine: 65
-    m_MeanLine: 49
+    m_LineHeight: 102.87
+    m_AscentLine: 83.07
+    m_CapLine: 64
+    m_MeanLine: 46
     m_Baseline: 0
-    m_DescentLine: -26.28
-    m_SuperscriptOffset: 96.12
+    m_DescentLine: -19.800001
+    m_SuperscriptOffset: 83.07
     m_SuperscriptSize: 0.5
-    m_SubscriptOffset: -26.28
+    m_SubscriptOffset: -19.800001
     m_SubscriptSize: 0.5
-    m_UnderlineOffset: -11.25
+    m_UnderlineOffset: -9
     m_UnderlineThickness: 4.5
-    m_StrikethroughOffset: 19.6
+    m_StrikethroughOffset: 18.4
     m_StrikethroughThickness: 4.5
-    m_TabWidth: 24
+    m_TabWidth: 17
   m_Material: {fileID: -2018014106196874814}
   m_SourceFontFileGUID: dcc01cdefe24bbc4d8f870d309572b6e
   m_CreationSettings:

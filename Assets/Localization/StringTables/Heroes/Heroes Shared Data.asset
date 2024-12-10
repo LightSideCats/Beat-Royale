@@ -79,6 +79,22 @@ MonoBehaviour:
     m_Key: rarity.singularity
     m_Metadata:
       m_Items: []
+  - m_Id: 2155587869659136
+    m_Key: mastery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609795842048
+    m_Key: mintex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609821007872
+    m_Key: noul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609825202176
+    m_Key: hysect
+    m_Metadata:
+      m_Items: []
   - m_Id: 8795937886208
     m_Key: foxy.name
     m_Metadata:

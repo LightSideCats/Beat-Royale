@@ -133,22 +133,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Notifications
       objectReference: {fileID: 0}
-    - target: {fileID: 2544699193034732663, guid: e11831684e2a39c4aa885790f47c4352, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 4.9799995
-      objectReference: {fileID: 0}
-    - target: {fileID: 4186422965347226508, guid: e11831684e2a39c4aa885790f47c4352, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 4.9799995
-      objectReference: {fileID: 0}
-    - target: {fileID: 4506945046843704212, guid: e11831684e2a39c4aa885790f47c4352, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 4.9799995
-      objectReference: {fileID: 0}
-    - target: {fileID: 6807743302114679418, guid: e11831684e2a39c4aa885790f47c4352, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 4.9799995
-      objectReference: {fileID: 0}
     - target: {fileID: 8891333176175723184, guid: e11831684e2a39c4aa885790f47c4352, type: 3}
       propertyPath: m_AnchorMax.x
       value: 1

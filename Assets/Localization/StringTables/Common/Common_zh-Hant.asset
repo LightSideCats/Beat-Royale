@@ -422,6 +422,54 @@ MonoBehaviour:
     m_Localized: "\u5EAB\u65AF\u6258\u5FB7"
     m_Metadata:
       m_Items: []
+  - m_Id: 2210991253278720
+    m_Localized: <material={0}>{1}</material>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833152
+    m_Localized: <color={0}>{1}</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833153
+    m_Localized: <size={0}>{1}</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833154
+    m_Localized: <font={0}>{1}</font>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833155
+    m_Localized: <gradient={0}>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833156
+    m_Localized: <cspace={0}em>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991291027456
+    m_Localized: "{0}\u91D1\u5E63{1}\u662F\u63D0\u5347\u82F1\u96C4\u6240\u9700\u7684\u3002\\n\\n\u91D1\u5E63\u53EF\u4EE5\u5728\u6230\u9B25\u4E2D\u3001{2}\u3001\u5BF6\u7BB1\u4E2D\u7372\u5F97\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416064
+    m_Localized: "{0}\u6C34\u6676{1}\u662F\u7528\u65BC\u8CFC\u8CB7\u82F1\u96C4\u548C\u5546\u5E97\u4E2D\u5176\u4ED6\u7269\u54C1\u7684\u5FC5\u9700\u54C1\u3002\\n\\n\u6C34\u6676\u53EF\u4EE5\u5728{2}\u4E2D\u7372\u5F97\uFF0C\u6216\u5728\u5546\u5E97\u4E2D\u7528\u771F\u9322\u8CFC\u8CB7\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416065
+    m_Localized: "{0}\u661F\u661F{1}\u662F\u63D0\u5347\u82F1\u96C4\u6240\u9700\u7684\u3002\\n\\n\u661F\u661F\u53EF\u4EE5\u5728\u6230\u9B25\u4E2D\u3001{2}\u3001\u5BF6\u7BB1\u4E2D\u7372\u5F97\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599220473856
+    m_Localized: "\u6700\u9AD8\u7B49\u7D1A\uFF01"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137152
+    m_Localized: "\u901A\u904E\u8D0F\u5F97\u8207\u5176\u4ED6\u73A9\u5BB6\u7684\u6BD4\u8CFD\u70BA\u8A72\u82F1\u96C4\u6536\u96C6\u734E\u76C3\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137153
+    m_Localized: "\u5347\u7D1A\u4F60\u7684\u82F1\u96C4\uFF01\u589E\u52A0\u4ED6\u5011\u7684\u751F\u547D\u503C\u3001\u653B\u64CA\u50B7\u5BB3\u3002"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

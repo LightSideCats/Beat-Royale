@@ -426,6 +426,64 @@ MonoBehaviour:
     m_Localized: Custod
     m_Metadata:
       m_Items: []
+  - m_Id: 2210991253278720
+    m_Localized: <material={0}>{1}</material>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833152
+    m_Localized: <color={0}>{1}</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833153
+    m_Localized: <size={0}>{1}</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833154
+    m_Localized: <font={0}>{1}</font>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833155
+    m_Localized: <gradient={0}>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833156
+    m_Localized: <cspace={0}em>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991291027456
+    m_Localized: "{0}V\xE0ng{1} c\u1EA7n thi\u1EBFt \u0111\u1EC3 n\xE2ng c\u1EA5p
+      c\xE1c anh h\xF9ng.\\n\\nV\xE0ng c\xF3 th\u1EC3 ki\u1EBFm \u0111\u01B0\u1EE3c
+      trong c\xE1c tr\u1EADn chi\u1EBFn, trong {2}, trong r\u01B0\u01A1ng."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416064
+    m_Localized: "{0}Pha l\xEA{1} c\u1EA7n thi\u1EBFt \u0111\u1EC3 mua c\xE1c anh
+      h\xF9ng v\xE0 nh\u1EEFng th\u1EE9 kh\xE1c trong c\u1EEDa h\xE0ng.\\n\\nPha
+      l\xEA c\xF3 th\u1EC3 \u0111\u01B0\u1EE3c nh\u1EADn trong {2} ho\u1EB7c mua
+      trong c\u1EEDa h\xE0ng b\u1EB1ng ti\u1EC1n th\u1EADt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416065
+    m_Localized: "{0}Sao{1} c\u1EA7n thi\u1EBFt \u0111\u1EC3 n\xE2ng c\u1EA5p c\xE1c
+      anh h\xF9ng.\\n\\nSao c\xF3 th\u1EC3 ki\u1EBFm \u0111\u01B0\u1EE3c trong c\xE1c
+      tr\u1EADn chi\u1EBFn, trong {2}, trong r\u01B0\u01A1ng."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599220473856
+    m_Localized: "C\u1EA5p t\u1ED1i \u0111a!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137152
+    m_Localized: "Thu th\u1EADp C\xFAp cho Anh h\xF9ng n\xE0y b\u1EB1ng c\xE1ch chi\u1EBFn
+      th\u1EAFng c\xE1c tr\u1EADn \u0111\u1EA5u v\u1EDBi ng\u01B0\u1EDDi ch\u01A1i
+      kh\xE1c."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137153
+    m_Localized: "N\xE2ng c\u1EA5p Anh h\xF9ng c\u1EE7a b\u1EA1n! T\u0103ng M\xE1u,
+      S\xE1t th\u01B0\u01A1ng T\u1EA5n c\xF4ng c\u1EE7a h\u1ECD."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

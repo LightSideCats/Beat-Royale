@@ -423,6 +423,60 @@ MonoBehaviour:
     m_Localized: Custod
     m_Metadata:
       m_Items: []
+  - m_Id: 2210991253278720
+    m_Localized: <material={0}>{1}</material>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833152
+    m_Localized: <color={0}>{1}</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833153
+    m_Localized: <size={0}>{1}</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833154
+    m_Localized: <font={0}>{1}</font>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833155
+    m_Localized: <gradient={0}>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833156
+    m_Localized: <cspace={0}em>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991291027456
+    m_Localized: '{0}Kultaa{1} tarvitaan sankareiden parantamiseen.\n\nKultaa voi
+      ansaita taisteluissa, {2}issa, arkuissa.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416064
+    m_Localized: '{0}Kristallit{1} tarvitaan sankareiden ja muiden asioiden ostamiseen
+      kaupasta.\n\nKristalleja voidaan saada {2}issa tai ostaa kaupasta oikealla
+      rahalla.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416065
+    m_Localized: "{0}T\xE4hdet{1} ovat tarpeen sankareiden parantamiseen.\\n\\nT\xE4hti\xE4
+      voi ansaita taisteluissa, {2}issa, arkuissa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599220473856
+    m_Localized: Korkein taso!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137152
+    m_Localized: "Ker\xE4\xE4 t\xE4lle sankarille pokaaleja voittamalla pelej\xE4
+      muita pelaajia vastaan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137153
+    m_Localized: "P\xE4ivit\xE4 sankarisi! Lis\xE4\xE4 h\xE4nen terveytt\xE4\xE4n
+      ja hy\xF6kk\xE4ysvahinkoa."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

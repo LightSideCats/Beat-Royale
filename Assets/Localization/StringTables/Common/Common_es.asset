@@ -423,6 +423,59 @@ MonoBehaviour:
     m_Localized: Custod
     m_Metadata:
       m_Items: []
+  - m_Id: 2210991253278720
+    m_Localized: <material={0}>{1}</material>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833152
+    m_Localized: <color={0}>{1}</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833153
+    m_Localized: <size={0}>{1}</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833154
+    m_Localized: <font={0}>{1}</font>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833155
+    m_Localized: <gradient={0}>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833156
+    m_Localized: <cspace={0}em>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991291027456
+    m_Localized: "{0}Oro{1} es necesario para mejorar a los h\xE9roes.\\n\\nEl oro
+      se puede ganar en batallas, en {2}, en cofres."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416064
+    m_Localized: "{0}Cristales{1} son necesarios para comprar los h\xE9roes y otras
+      cosas en la tienda.\\n\\nLos cristales se pueden obtener en el {2} o comprarse
+      en la tienda con dinero real."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416065
+    m_Localized: "{0}Estrellas{1} son necesarias para mejorar a los h\xE9roes.\\n\\nLas
+      estrellas se pueden ganar en batallas, en {2}, en cofres."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599220473856
+    m_Localized: "\xA1Nivel m\xE1ximo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137152
+    m_Localized: "Recoge Trofeos para este H\xE9roe ganando partidas contra otros
+      jugadores."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137153
+    m_Localized: "\xA1Mejora a tu H\xE9roe! Aumenta su Salud, Da\xF1o de Ataque."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
