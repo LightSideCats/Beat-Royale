@@ -30,7 +30,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 6565415541246353641}
+  m_Father: {fileID: 7846704930867628076}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 1.375}
 --- !u!212 &1468677351766370655
 SpriteRenderer:
@@ -117,7 +117,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 6565415541246353641}
+  m_Father: {fileID: 7846704930867628076}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -1.375}
 --- !u!212 &2044770925280697459
 SpriteRenderer:
@@ -204,7 +204,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 6565415541246353641}
+  m_Father: {fileID: 7846704930867628076}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -5.962963}
 --- !u!212 &2008898693334216455
 SpriteRenderer:
@@ -373,6 +373,10 @@ PrefabInstance:
       propertyPath: managedReferences[8885881776975643002].disableMoveCompOnTargetInRadius
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4446815718765709221, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
+      propertyPath: m_Name
+      value: Bat_Unit
+      objectReference: {fileID: 0}
     - target: {fileID: 8408513571808267312, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
       propertyPath: id
       value: 
@@ -417,46 +421,19 @@ PrefabInstance:
     m_RemovedGameObjects:
     - {fileID: 8455844564343377253, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
     m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 8660671769077101938, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 5749110180300365239, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1732352838315088127}
-    - targetCorrespondingSourceObject: {fileID: 8660671769077101938, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 5749110180300365239, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
       insertIndex: -1
       addedObject: {fileID: 3830131049652903423}
-    - targetCorrespondingSourceObject: {fileID: 8660671769077101938, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 5749110180300365239, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
       insertIndex: -1
       addedObject: {fileID: 3412021476873847569}
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 1202053651975538802, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 8557949747985419554}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
---- !u!1 &3711921419647442409 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1202053651975538802, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
-  m_PrefabInstance: {fileID: 2534939108120810907}
-  m_PrefabAsset: {fileID: 0}
---- !u!111 &8557949747985419554
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3711921419647442409}
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Animation: {fileID: 0}
-  m_Animations:
-  - {fileID: 7400000, guid: 051c41763c09c9f4c80682f3e27a1dde, type: 2}
-  - {fileID: 7400000, guid: 0f8b381baee683a4fa731505e3783d4c, type: 2}
-  - {fileID: 7400000, guid: c446c7626fdb9f94b8f77b3ad8da6728, type: 2}
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_UpdateMode: 0
-  m_CullingType: 0
---- !u!4 &6565415541246353641 stripped
+--- !u!4 &7846704930867628076 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 8660671769077101938, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
+  m_CorrespondingSourceObject: {fileID: 5749110180300365239, guid: a123ceb0839fa2a4683b6b2a5a124998, type: 3}
   m_PrefabInstance: {fileID: 2534939108120810907}
   m_PrefabAsset: {fileID: 0}
