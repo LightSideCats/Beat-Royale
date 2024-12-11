@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Quests_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: c50aa1a869a4a6240aacb9cd8d61e025, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16320343101440
+    m_Localized: Gagner {0} combats {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15179354001408
+    m_Localized: "EXCLUSIVIT\xC9 PASS ASTROBOOST"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667776
+    m_Localized: "Qu\xEAtes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667777
+    m_Localized: Saison {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667778
+    m_Localized: EXP de combat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667779
+    m_Localized: +{0} EXP dans {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667780
+    m_Localized: '{0}/{1} relances disponibles'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667781
+    m_Localized: "Actualis\xE9 dans"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667782
+    m_Localized: Relance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667783
+    m_Localized: Annuler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3211909976064
+    m_Localized: "Actualis\xE9 dans {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667785
+    m_Localized: "Nouvelles qu\xEAtes d\xE9bloqu\xE9es\_:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862080
+    m_Localized: "Nouvelles qu\xEAtes quotidiennes\_:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862081
+    m_Localized: "Nouvelles qu\xEAtes dans {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862082
+    m_Localized: "D\xE9blocage\_: {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862083
+    m_Localized: "D\xE9but dans {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862084
+    m_Localized: "Qu\xEAtes de saison"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862085
+    m_Localized: "Qu\xEAtes sp\xE9ciales"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862086
+    m_Localized: "Qu\xEAtes quotidiennes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862087
+    m_Localized: "R\xE9compense de qu\xEAte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862088
+    m_Localized: Gagner {0} combats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862089
+    m_Localized: Terminer un niveau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862090
+    m_Localized: Vaincre {0} ennemis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862091
+    m_Localized: "Infliger {0} points de d\xE9g\xE2ts"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862092
+    m_Localized: Utiliser la fonction "rejouer" {0} fois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862093
+    m_Localized: Rester en vie pendant {0} rounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862094
+    m_Localized: avec {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862095
+    m_Localized: avec {0} ou {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862096
+    m_Localized: avec {0}, {1} ou {2}
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

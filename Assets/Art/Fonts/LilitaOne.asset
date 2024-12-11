@@ -63,7 +63,7 @@ MonoBehaviour:
     m_FaceIndex: 0
     m_FamilyName: Lilita One
     m_StyleName: Regular
-    m_PointSize: 89
+    m_PointSize: 90
     m_Scale: 1
     m_UnitsPerEM: 1000
     m_LineHeight: 102.87
@@ -111,8 +111,8 @@ MonoBehaviour:
   m_AtlasTextures:
   - {fileID: -3037470524907097703}
   m_AtlasTextureIndex: 0
-  m_IsMultiAtlasTexturesEnabled: 0
-  m_GetFontFeatures: 1
+  m_IsMultiAtlasTexturesEnabled: 1
+  m_GetFontFeatures: 0
   m_ClearDynamicDataOnBuild: 1
   m_AtlasWidth: 1024
   m_AtlasHeight: 1024

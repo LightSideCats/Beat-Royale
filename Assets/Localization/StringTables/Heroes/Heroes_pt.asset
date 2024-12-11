@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Heroes_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 1460b6164d0825044ac84614425b11cc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1739650540556288
+    m_Localized: "Foxy \u2014 uma graciosa guardi\xE3 da floresta, dotada de magia
+      natural e armada com um cajado de esmeralda que irradia poder, curando a terra
+      e esmagando os inimigos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8795937886208
+    m_Localized: Foxy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313931997184
+    m_Localized: Saya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313965551616
+    m_Localized: Aura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313969745920
+    m_Localized: Jack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556289
+    m_Localized: "Saya \u2014 uma sombra noturna furtiva e letal, cujas l\xE2minas
+      relampejantes atingem os inimigos antes que percebam sua presen\xE7a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556290
+    m_Localized: "Aura \u2014 a personifica\xE7\xE3o do poder m\xE1gico da luz, cujo
+      brilho atravessa a escurid\xE3o, concedendo esperan\xE7a e inspirando grandes
+      feitos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556291
+    m_Localized: "Jack Coonez \u2014 um guaxinim de cora\xE7\xE3o ardente que abandonou
+      a vida tranquila do rancho para tornar-se o terror dos bandidos e o protetor
+      do Velho Oeste."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791874
+    m_Localized: "Her\xF3is bloqueados"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791872
+    m_Localized: "Her\xF3is"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791873
+    m_Localized: "Her\xF3is fechados"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212608
+    m_Localized: Detonador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212609
+    m_Localized: Algoz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212610
+    m_Localized: Controle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212611
+    m_Localized: Destruidora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212612
+    m_Localized: Tiro preciso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212613
+    m_Localized: Suporte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212614
+    m_Localized: Tanque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212615
+    m_Localized: Poeira estelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212616
+    m_Localized: Brilho de supernova
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212617
+    m_Localized: Energia de pulsar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212618
+    m_Localized: Luz nebular
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212619
+    m_Localized: "N\xFAcleo de quasar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212620
+    m_Localized: Singularidade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155587869659136
+    m_Localized: "Dom\xEDnio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609795842048
+    m_Localized: Mintex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609821007872
+    m_Localized: Noul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609825202176
+    m_Localized: Hysect
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

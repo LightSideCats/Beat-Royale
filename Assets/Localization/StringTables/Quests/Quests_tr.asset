@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Quests_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: c50aa1a869a4a6240aacb9cd8d61e025, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16320343101440
+    m_Localized: "{0} sava\u015F kazan {1}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15179354001408
+    m_Localized: "ASTROBOOST \xD6ZEL"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667776
+    m_Localized: "G\xF6revler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667777
+    m_Localized: '{0}. Sezon'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667778
+    m_Localized: "Sava\u015F DP'si"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667779
+    m_Localized: "+{0} DP ({1} i\xE7inde)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667780
+    m_Localized: "Kalan de\u011Fi\u015Ftirme hakk\u0131: {0}/{1}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667781
+    m_Localized: 'Yenilenmesine:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667782
+    m_Localized: "G\xF6revi de\u011Fi\u015Ftir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667783
+    m_Localized: "De\u011Fi\u015Ftirmeyi iptal et"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3211909976064
+    m_Localized: 'Yenilenmesine: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667785
+    m_Localized: "Yeni g\xF6revlerin a\xE7\u0131lmas\u0131na:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862080
+    m_Localized: "G\xFCnl\xFCk g\xF6revlerin yenilenmesine:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862081
+    m_Localized: "Yeni g\xF6revlere {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862082
+    m_Localized: "A\xE7mak i\xE7in: {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862083
+    m_Localized: "Ba\u015Flamas\u0131na: {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862084
+    m_Localized: "Sezonluk g\xF6revler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862085
+    m_Localized: "\xD6zel g\xF6revler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862086
+    m_Localized: "G\xFCnl\xFCk g\xF6revler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862087
+    m_Localized: "G\xF6rev \xF6d\xFCl\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862088
+    m_Localized: "{0} sava\u015F kazan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862089
+    m_Localized: "B\xF6l\xFCm\xFC tamamla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862090
+    m_Localized: "{0} d\xFC\u015Fman yok et"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862091
+    m_Localized: '{0} hasar ver'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862092
+    m_Localized: "{0} kez \"tekrar oyna\" se\xE7ene\u011Fini kullan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862093
+    m_Localized: "Hi\xE7 yenilmeden {0} tur oyna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862094
+    m_Localized: ({0})
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862095
+    m_Localized: ({0} veya {1})
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862096
+    m_Localized: ({0}, {1} veya {2})
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

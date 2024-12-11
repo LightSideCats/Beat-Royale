@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Quests_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: c50aa1a869a4a6240aacb9cd8d61e025, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16320343101440
+    m_Localized: 'Wygraj bitwy: {0} {1}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15179354001408
+    m_Localized: TYLKO Z ASTROBOOST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667776
+    m_Localized: Zadania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667777
+    m_Localized: Sezon {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667778
+    m_Localized: PD zdobyte w bitwach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667779
+    m_Localized: +{0} PD w {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667780
+    m_Localized: "Od\u015Bwie\u017Cenia: {0}/{1}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667781
+    m_Localized: "Od\u015Bwie\u017Cenie za"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667782
+    m_Localized: "Od\u015Bwie\u017C misj\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667783
+    m_Localized: "Anuluj od\u015Bwie\u017Cenie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3211909976064
+    m_Localized: "Od\u015Bwie\u017Cenie za {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667785
+    m_Localized: 'Odblokowanie nowych misji za:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862080
+    m_Localized: "Od\u015Bwie\u017Cenie misji dnia za:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862081
+    m_Localized: Nowe misje za {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862082
+    m_Localized: Odblokuj na poziomie {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862083
+    m_Localized: "Pocz\u0105tek za {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862084
+    m_Localized: Misje sezonowe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862085
+    m_Localized: Misje specjalne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862086
+    m_Localized: Dzienne misje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862087
+    m_Localized: "Nagroda za misj\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862088
+    m_Localized: 'Wygraj bitwy: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862089
+    m_Localized: "Uko\u0144cz poziom"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862090
+    m_Localized: "Pokonaj {0} przeciwnik\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862091
+    m_Localized: "Zadaj {0} pkt. obra\u017Ce\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862092
+    m_Localized: Skorzystaj z opcji "zagraj ponownie" {0} razy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862093
+    m_Localized: "Nie daj si\u0119 pokona\u0107 przez nast\u0119puj\u0105c\u0105
+      liczb\u0119 rund: {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862094
+    m_Localized: z {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862095
+    m_Localized: z {0} lub {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862096
+    m_Localized: z {0}, {1} lub {2}
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

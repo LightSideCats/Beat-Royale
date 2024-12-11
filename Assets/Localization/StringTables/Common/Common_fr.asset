@@ -1,0 +1,483 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669767925760
+    m_Localized: Entrer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Localized: Connexion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Localized: Clan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Localized: Boutique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Localized: "Actualit\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Localized: Nouveau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Localized: Amis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Localized: Promotion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Localized: Gratuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Localized: Cadeau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Localized: Jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Localized: Combat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Localized: "Nouveaux \xE9v\xE9nements"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Localized: Nouvelle saison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Localized: "D\xE9connexion"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Localized: Connexion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Localized: "Connect\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Localized: "Connexion en tant qu'invit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Localized: 'Identifiant joueur : {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Localized: O.K.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Localized: J'accepte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Localized: "R\xE9cup\xE9rer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Localized: Informations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Localized: "R\xE9compenses quotidiennes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Localized: Classement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Localized: "C'est pour bient\xF4t !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Localized: "Bo\xEEte aux lettres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Localized: Musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Localized: Effets sonores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Localized: Retour haptique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Localized: "Connectez votre compte pour enregistrer votre progression et jouer
+      sur diff\xE9rents appareils"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Localized: "Politique de confidentialit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Localized: Conditions d'utilisation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Localized: Aide et assistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Localized: Contrat d'utilisation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Localized: "Param\xE8tres syst\xE8me"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Localized: Zone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Localized: "Communaut\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Localized: "Rejoignez-nous et suivez nos actualit\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Localized: Aller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Localized: Suivre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988718718976
+    m_Localized: "Fran\xE7ais"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988769050624
+    m_Localized: "Modifier la langue\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988769050625
+    m_Localized: "Voulez-vous vraiment changer la langue\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026874908672
+    m_Localized: "Bloqu\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026870714368
+    m_Localized: "Ferm\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026870714369
+    m_Localized: Acheter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801861
+    m_Localized: "Am\xE9liorer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801860
+    m_Localized: "D\xE9bloquer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801859
+    m_Localized: Attaque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801858
+    m_Localized: "Sant\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801857
+    m_Localized: Max {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801856
+    m_Localized: Niveau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1742454176927745
+    m_Localized: Choisi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726043287244801
+    m_Localized: '{0}/{1}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726043287244800
+    m_Localized: '{0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926995505152
+    m_Localized: Monnaie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699456
+    m_Localized: Or
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699457
+    m_Localized: "Poign\xE9e d'or"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699458
+    m_Localized: Tas d'or
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699459
+    m_Localized: Pile d'or
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699460
+    m_Localized: Monceau d'or
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699461
+    m_Localized: Cristaux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699462
+    m_Localized: "Poign\xE9e de cristaux"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699463
+    m_Localized: Tas de cristaux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699464
+    m_Localized: Pile de cristaux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699465
+    m_Localized: Monceau de cristaux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699466
+    m_Localized: "\xC9toiles"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699467
+    m_Localized: "Poign\xE9e d'\xE9toiles"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699468
+    m_Localized: "Tas d'\xE9toiles"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699469
+    m_Localized: "Pile d'\xE9toiles"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699470
+    m_Localized: "Monceau d'\xE9toiles"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423927003893760
+    m_Localized: "Offres sp\xE9ciales"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471704006656
+    m_Localized: Ouvert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Localized: Fermer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Localized: "D\xE9faite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Localized: Victoire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Localized: Suivant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Localized: Niv.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1742454176927744
+    m_Localized: Choisir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1787641246830592
+    m_Localized: "Niv.\_{0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788425220968448
+    m_Localized: "R\xE9compenses"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809896953663488
+    m_Localized: Acheter {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2105858804731904
+    m_Localized: +{0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375296
+    m_Localized: Orion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375297
+    m_Localized: "Androm\xE8de"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375298
+    m_Localized: "Cassiop\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375299
+    m_Localized: Sirius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375300
+    m_Localized: "Ph\xE9nix"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375301
+    m_Localized: "H\xE9lios"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569600
+    m_Localized: "\xC9lys\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569601
+    m_Localized: Theia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569602
+    m_Localized: Cronos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569603
+    m_Localized: Custod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991253278720
+    m_Localized: <material={0}>{1}</material>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833152
+    m_Localized: <color={0}>{1}</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833153
+    m_Localized: <size={0}>{1}</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833154
+    m_Localized: <font={0}>{1}</font>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833155
+    m_Localized: <gradient={0}>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833156
+    m_Localized: <cspace={0}em>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991291027456
+    m_Localized: "{0}Or{1} est n\xE9cessaire pour am\xE9liorer les h\xE9ros.\\n\\nL'or
+      peut \xEAtre gagn\xE9 dans les batailles, dans {2}, dans les coffres."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416064
+    m_Localized: "{0}Cristaux{1} sont n\xE9cessaires pour acheter les h\xE9ros et
+      d'autres choses dans la boutique.\\n\\nLes cristaux peuvent \xEAtre obtenus
+      dans l'{2} ou achet\xE9s dans le magasin avec de l'argent r\xE9el."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416065
+    m_Localized: "{0}\xC9toiles{1} sont n\xE9cessaires pour am\xE9liorer les h\xE9ros.\\n\\nLes
+      \xE9toiles peuvent \xEAtre gagn\xE9es dans les batailles, dans {2}, dans les
+      coffres."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599220473856
+    m_Localized: Niveau max !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137152
+    m_Localized: "Collectez des Troph\xE9es pour ce H\xE9ros en gagnant des parties
+      contre d'autres joueurs."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137153
+    m_Localized: "Am\xE9liorez votre H\xE9ros ! Augmentez sa Sant\xE9, ses D\xE9g\xE2ts
+      d'Attaque."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Heroes_ms
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ms
+  m_SharedData: {fileID: 11400000, guid: 1460b6164d0825044ac84614425b11cc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1739650540556288
+    m_Localized: "Foxy \u2014 penjaga hutan yang anggun, dikurniakan sihir semula
+      jadi dan bersenjatakan tongkat zamrud yang bersinar dengan kekuatan, menyembuhkan
+      bumi serta menghancurkan musuh."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8795937886208
+    m_Localized: Foxy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313931997184
+    m_Localized: Saya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313965551616
+    m_Localized: Aura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313969745920
+    m_Localized: Jack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556289
+    m_Localized: "Saya \u2014 bayang malam yang tersembunyi dan mematikan, bilahnya
+      sepantas kilat menikam musuh sebelum mereka menyedari kehadirannya."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556290
+    m_Localized: "Aura \u2014 penjelmaan kuasa sihir cahaya, yang sinarnya menembusi
+      kegelapan, memberi harapan dan menginspirasi pencapaian besar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556291
+    m_Localized: "Jack Coonez \u2014 seekor rakun berhati membara yang meninggalkan
+      kehidupan tenang di ladang untuk menjadi ancaman kepada perompak dan pelindung
+      Wild West."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791874
+    m_Localized: Wira terkunci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791872
+    m_Localized: Wira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791873
+    m_Localized: Wira tertutup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212608
+    m_Localized: Meriam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212609
+    m_Localized: Asasin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212610
+    m_Localized: Pengawal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212611
+    m_Localized: Perosak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212612
+    m_Localized: Ahli tembak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212613
+    m_Localized: Sokongan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212614
+    m_Localized: Tank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212615
+    m_Localized: Debu bintang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212616
+    m_Localized: Cahaya supernova
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212617
+    m_Localized: Tenaga pulsar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212618
+    m_Localized: Cahaya nebula
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212619
+    m_Localized: Teras kuasar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212620
+    m_Localized: Singulariti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155587869659136
+    m_Localized: Penguasaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609795842048
+    m_Localized: Mintex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609821007872
+    m_Localized: Noul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609825202176
+    m_Localized: Hysect
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

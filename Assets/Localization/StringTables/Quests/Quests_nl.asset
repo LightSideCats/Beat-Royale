@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Quests_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: c50aa1a869a4a6240aacb9cd8d61e025, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16320343101440
+    m_Localized: Win {0} gevechten {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15179354001408
+    m_Localized: EXCLUSIEF MET ASTROBOOST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667776
+    m_Localized: Quests
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667777
+    m_Localized: Seizoen {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667778
+    m_Localized: XP uit gevechten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667779
+    m_Localized: +{0} XP over {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667780
+    m_Localized: '{0}/{1} wissels beschikbaar'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667781
+    m_Localized: Nieuwe over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667782
+    m_Localized: Opdracht wisselen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667783
+    m_Localized: Wissel annuleren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3211909976064
+    m_Localized: Nieuwe over {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139726667785
+    m_Localized: 'Nieuwe opdrachten worden ontgrendeld over:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862080
+    m_Localized: 'Dagelijkse opdrachten worden vernieuwd over:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862081
+    m_Localized: Nieuwe opdrachten over {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862082
+    m_Localized: Ontgrendel bij {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862083
+    m_Localized: Begint over {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862084
+    m_Localized: Seizoensopdrachten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862085
+    m_Localized: Speciale opdrachten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862086
+    m_Localized: Dagelijkse opdrachten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862087
+    m_Localized: Opdrachtbeloning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862088
+    m_Localized: Win {0} gevechten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862089
+    m_Localized: Voltooi een level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862090
+    m_Localized: Versla {0} vijanden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862091
+    m_Localized: Richt {0} schade aan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862092
+    m_Localized: Maak {0} keer gebruik van "opnieuw spelen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862093
+    m_Localized: Blijf onverslagen gedurende {0} rondes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862094
+    m_Localized: met {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862095
+    m_Localized: met {0} of {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139730862096
+    m_Localized: met {0}, {1} of {2}
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

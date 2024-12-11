@@ -15,8 +15,20 @@ MonoBehaviour:
   m_GroupName: Localization-String-Tables-French (fr)
   m_GUID: 2cbd7df02a040df42afbc646f2dca64b
   m_SerializeEntries:
-  - m_GUID: d16d6c37278e0d445aac5849621365dd
-    m_Address: Default_fr
+  - m_GUID: 61005f9a54f592b42911e12602f2110b
+    m_Address: Heroes_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e32069bd3f6af24782c9cf994a973b5
+    m_Address: Quests_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7b2229400e1725478e22aca542cd885
+    m_Address: Common_fr
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-fr

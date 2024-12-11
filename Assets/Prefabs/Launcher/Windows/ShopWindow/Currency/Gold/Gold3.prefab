@@ -60,6 +60,18 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3037672074147274721, guid: fe438d4b00de49744959a5560be80cdb, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037672074147274721, guid: fe438d4b00de49744959a5560be80cdb, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037672074147274721, guid: fe438d4b00de49744959a5560be80cdb, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4479787505099102551, guid: fe438d4b00de49744959a5560be80cdb, type: 3}
       propertyPath: m_Name
       value: Gold3
@@ -73,12 +85,12 @@ PrefabInstance:
       value: 300
       objectReference: {fileID: 0}
     - target: {fileID: 5261628531387023922, guid: fe438d4b00de49744959a5560be80cdb, type: 3}
-      propertyPath: m_text
-      value: Stack of gold
+      propertyPath: m_fontSize
+      value: 48.3
       objectReference: {fileID: 0}
     - target: {fileID: 5261628531387023922, guid: fe438d4b00de49744959a5560be80cdb, type: 3}
-      propertyPath: m_fontSize
-      value: 64.85
+      propertyPath: localizationData.key
+      value: goldStack
       objectReference: {fileID: 0}
     - target: {fileID: 5372306700847660117, guid: fe438d4b00de49744959a5560be80cdb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x

@@ -1,0 +1,480 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Common Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Common
+  m_TableCollectionNameGuidString: e0d621d1ef7248d4c85dfa1657580628
+  m_Entries:
+  - m_Id: 1726043287244800
+    m_Key: value
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2105858804731904
+    m_Key: plusValue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726043287244801
+    m_Key: progress.value
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991253278720
+    m_Key: materialTag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833152
+    m_Key: colorTag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833153
+    m_Key: sizeTag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833154
+    m_Key: fontTag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833155
+    m_Key: gradient
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833156
+    m_Key: cspace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5669767925760
+    m_Key: enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Key: logIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Key: logOut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Key: guestLogIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Key: connect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Key: connected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1742454176927744
+    m_Key: select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1742454176927745
+    m_Key: selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Key: on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Key: off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Key: playerID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Key: okay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Key: yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Key: no
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471704006656
+    m_Key: open
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Key: close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026870714368
+    m_Key: closed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Key: agree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Key: claim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026870714369
+    m_Key: buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809896953663488
+    m_Key: buyArg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Key: info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801857
+    m_Key: levelMax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599220473856
+    m_Key: maxLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801858
+    m_Key: health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801859
+    m_Key: attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801856
+    m_Key: level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Key: lvl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1787641246830592
+    m_Key: lvlArg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026874908672
+    m_Key: locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801860
+    m_Key: unlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801861
+    m_Key: upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Key: clan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Key: dailyRewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788425220968448
+    m_Key: rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Key: shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926995505152
+    m_Key: currency
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699456
+    m_Key: gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699457
+    m_Key: goldHandful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699458
+    m_Key: goldPile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699459
+    m_Key: goldStack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699460
+    m_Key: goldHeap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699461
+    m_Key: crystals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699462
+    m_Key: crystalHandful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699463
+    m_Key: crystalPile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699464
+    m_Key: crystalStack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699465
+    m_Key: crystalHeap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699466
+    m_Key: stars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699467
+    m_Key: starsHandful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699468
+    m_Key: starsPile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699469
+    m_Key: starsStack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699470
+    m_Key: starsHeap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423927003893760
+    m_Key: spesialOffers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Key: news
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Key: new
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Key: friends
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Key: sale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Key: free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Key: gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Key: battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Key: newEvent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Key: newSeason
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Key: leaderboards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Key: comingSoon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Key: mailbox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Key: music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Key: sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Key: haptic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Key: saveProgressDiscription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988718718976
+    m_Key: selectedLanguage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988769050624
+    m_Key: changeLanguage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988769050625
+    m_Key: changeLanguageConfirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Key: privacyPolicy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Key: termsOfUse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Key: helpAndSupport
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Key: userAgreement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Key: systemSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Key: location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Key: community
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Key: joinUs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Key: goLink
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Key: follow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Key: defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Key: victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Key: next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375296
+    m_Key: orion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375297
+    m_Key: andromeda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375298
+    m_Key: cassiopeia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375299
+    m_Key: sirius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375300
+    m_Key: phoenix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375301
+    m_Key: helios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569600
+    m_Key: elysium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569601
+    m_Key: theia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569602
+    m_Key: cronos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569603
+    m_Key: custod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991291027456
+    m_Key: goldTooltip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416064
+    m_Key: crystalsTooltip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416065
+    m_Key: starsTooltip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137152
+    m_Key: trophiesTooltip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137153
+    m_Key: levelTooltip
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6254766597255200921
+  references:
+    version: 2
+    RefIds:
+    - rid: 6254766597255200921
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1733271839363

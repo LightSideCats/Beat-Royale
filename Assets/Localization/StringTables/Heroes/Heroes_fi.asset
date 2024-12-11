@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Heroes_fi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi
+  m_SharedData: {fileID: 11400000, guid: 1460b6164d0825044ac84614425b11cc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1739650540556288
+    m_Localized: "Foxy \u2014 sulavalinjainen mets\xE4nvartija, jolla on luonnonmagiaa
+      ja smaragdisauva, joka s\xE4teilee voimaa, parantaen maata ja murskaten viholliset."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8795937886208
+    m_Localized: Foxy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313931997184
+    m_Localized: Saya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313965551616
+    m_Localized: Aura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313969745920
+    m_Localized: Jack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556289
+    m_Localized: "Saya \u2014 salaper\xE4inen ja tappava y\xF6n varjo, jonka salamanter\xE4v\xE4t
+      ter\xE4t iskev\xE4t vihollisiin ennen kuin he edes huomaavat h\xE4nen l\xE4sn\xE4oloaan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556290
+    m_Localized: "Aura \u2014 maagisen valon ruumiillistuma, jonka s\xE4teily l\xE4p\xE4isee
+      pimeyden, tarjoten toivoa ja inspiroiden urotekoihin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556291
+    m_Localized: "Jack Coonez \u2014 pesukarhu, jonka syd\xE4n liekehtii, j\xE4tti
+      rauhallisen ranch-el\xE4m\xE4ns\xE4 tullakseen lainsuojattomien kauhuksi ja
+      Villin l\xE4nnen suojelijaksi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791874
+    m_Localized: Lukitut sankarit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791872
+    m_Localized: Sankarit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791873
+    m_Localized: Suljetut sankarit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212608
+    m_Localized: Tykki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212609
+    m_Localized: Salamurhaaja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212610
+    m_Localized: Kontrolloija
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212611
+    m_Localized: Tuhoaja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212612
+    m_Localized: Tarkka-ampuja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212613
+    m_Localized: Vahvistus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212614
+    m_Localized: Tankki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212615
+    m_Localized: "T\xE4htip\xF6ly"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212616
+    m_Localized: Supernovanhohde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212617
+    m_Localized: Pulsarienergia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212618
+    m_Localized: Sumumainen valo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212619
+    m_Localized: Kvasaarin ydin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212620
+    m_Localized: Singulariteetti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155587869659136
+    m_Localized: Taituruus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609795842048
+    m_Localized: Mintex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609821007872
+    m_Localized: Noul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609825202176
+    m_Localized: Hysect
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

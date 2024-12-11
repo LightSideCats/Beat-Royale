@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Heroes_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 1460b6164d0825044ac84614425b11cc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1739650540556288
+    m_Localized: "Foxy \u2014 eine anmutige H\xFCterin des Waldes, begabt mit nat\xFCrlicher
+      Magie und bewaffnet mit einem smaragdgr\xFCnen Stab, der vor Kraft strahlt,
+      das Land heilt und Feinde zerschmettert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8795937886208
+    m_Localized: Foxy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313931997184
+    m_Localized: Saya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313965551616
+    m_Localized: Aura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313969745920
+    m_Localized: Jack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556289
+    m_Localized: "Saya \u2014 ein heimlicher und t\xF6dlicher Schatten der Nacht,
+      dessen blitzschnelle Klingen Feinde treffen, bevor sie ihre Anwesenheit wahrnehmen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556290
+    m_Localized: "Aura \u2014 die Verk\xF6rperung magischer Lichtkraft, deren Strahlen
+      die Dunkelheit durchdringen, Hoffnung spenden und zu Heldentaten inspirieren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556291
+    m_Localized: "Jack Coonez \u2014 ein Waschb\xE4r mit feurigem Herzen, der das
+      ruhige Ranchleben verlie\xDF, um zum Schrecken der Banditen und Besch\xFCtzer
+      des Wilden Westens zu werden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791874
+    m_Localized: Gesperrte Helden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791872
+    m_Localized: Helden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791873
+    m_Localized: Geschlossene Helden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212608
+    m_Localized: Artillerie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212609
+    m_Localized: Assassine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212610
+    m_Localized: Kontrolle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212611
+    m_Localized: Damage-dealerin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212612
+    m_Localized: "Sch\xFCtzin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212613
+    m_Localized: "Unterst\xFCtzerin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212614
+    m_Localized: Tank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212615
+    m_Localized: Sternenstaub
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212616
+    m_Localized: Supernova-Schimmer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212617
+    m_Localized: Pulsar-Energie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212618
+    m_Localized: Nebellicht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212619
+    m_Localized: Quasarkern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212620
+    m_Localized: "Singularit\xE4t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155587869659136
+    m_Localized: Meisterung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609795842048
+    m_Localized: Mintex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609821007872
+    m_Localized: Noul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609825202176
+    m_Localized: Hysect
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

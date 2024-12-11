@@ -249,9 +249,13 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1845102409776401809, guid: 6e512bbf2284ec24cb2929150c2a8ffc, type: 3}
-      propertyPath: m_text
-      value: Saya
+      propertyPath: localizationData.key
+      value: saya.name
       objectReference: {fileID: 0}
+    - target: {fileID: 1845102409776401809, guid: 6e512bbf2284ec24cb2929150c2a8ffc, type: 3}
+      propertyPath: localizationData.tableData
+      value: 
+      objectReference: {fileID: 11400000, guid: 1460b6164d0825044ac84614425b11cc, type: 2}
     - target: {fileID: 1852642250364948916, guid: 6e512bbf2284ec24cb2929150c2a8ffc, type: 3}
       propertyPath: m_Name
       value: SayaOpenedButton

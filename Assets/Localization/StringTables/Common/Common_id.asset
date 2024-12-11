@@ -1,0 +1,481 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669767925760
+    m_Localized: Masuk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Localized: Masuk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Localized: Klan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Localized: Toko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Localized: Berita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Localized: Baru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Localized: Teman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Localized: Penjualan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Localized: Gratis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Localized: Hadiah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Localized: Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Localized: Pertarungan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Localized: Acara baru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Localized: Musim baru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Localized: Keluar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Localized: Sambungkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Localized: Tersambung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Localized: Masuk sebagai tamu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Localized: Mati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Localized: Nyala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Localized: 'ID Pemain: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Localized: Oke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Localized: Ya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Localized: Tidak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Localized: Setuju
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Localized: Kembali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Localized: Klaim!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Localized: Informasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Localized: Bonus harian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Localized: Papan peringkat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Localized: Segera hadir!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Localized: Kotak surat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Localized: Setelan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Localized: Musik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Localized: Efek suara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Localized: Umpan balik sentuh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Localized: Hubungkan akun Anda untuk menyimpan kemajuan Anda dan bermain di
+      perangkat yang berbeda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Localized: Bahasa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Localized: Kebijakan Privasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Localized: Ketentuan Layanan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Localized: Bantuan dan dukungan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Localized: Persetujuan Pengguna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Localized: Setelan Sistem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Localized: Lokasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Localized: Komunitas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Localized: Bergabunglah dengan kami dan ikuti berita terbaru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Localized: Lanjutkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Localized: Ikuti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988718718976
+    m_Localized: Bahasa Indonesia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988769050624
+    m_Localized: Ganti bahasa?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988769050625
+    m_Localized: Yakin ingin ganti bahasa?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026874908672
+    m_Localized: Terkunci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026870714369
+    m_Localized: Beli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026870714368
+    m_Localized: Terbatas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801861
+    m_Localized: Tingkatkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801860
+    m_Localized: Buka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801859
+    m_Localized: Serangan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801858
+    m_Localized: Kesehatan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801857
+    m_Localized: Maks {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801856
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1742454176927745
+    m_Localized: Aktif
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726043287244801
+    m_Localized: '{0}/{1}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726043287244800
+    m_Localized: '{0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926995505152
+    m_Localized: Mata uang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699456
+    m_Localized: Emas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699457
+    m_Localized: Segenggam emas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699458
+    m_Localized: Timbunan emas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699459
+    m_Localized: Susunan emas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699460
+    m_Localized: Timbunan besar emas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699461
+    m_Localized: Kristal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699462
+    m_Localized: Segenggam kristal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699463
+    m_Localized: Timbunan kristal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699464
+    m_Localized: Susunan kristal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699465
+    m_Localized: Timbunan besar kristal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699466
+    m_Localized: Bintang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699467
+    m_Localized: Segenggam bintang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699468
+    m_Localized: Timbunan bintang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699469
+    m_Localized: Susunan bintang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699470
+    m_Localized: Timbunan besar bintang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423927003893760
+    m_Localized: Penawaran khusus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471704006656
+    m_Localized: Terbuka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Localized: Tutup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Localized: Kalah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Localized: Menang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Localized: Berikutnya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Localized: Lvl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1742454176927744
+    m_Localized: Aktifkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1787641246830592
+    m_Localized: 'Lvl: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788425220968448
+    m_Localized: Hadiah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809896953663488
+    m_Localized: Beli {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2105858804731904
+    m_Localized: +{0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375296
+    m_Localized: Orion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375297
+    m_Localized: Andromeda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375298
+    m_Localized: Cassiopeia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375299
+    m_Localized: Sirius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375300
+    m_Localized: Phoenix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375301
+    m_Localized: Helios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569600
+    m_Localized: Elysium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569601
+    m_Localized: Theia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569602
+    m_Localized: Cronos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569603
+    m_Localized: Custod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991253278720
+    m_Localized: <material={0}>{1}</material>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833152
+    m_Localized: <color={0}>{1}</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833153
+    m_Localized: <size={0}>{1}</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833154
+    m_Localized: <font={0}>{1}</font>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833155
+    m_Localized: <gradient={0}>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833156
+    m_Localized: <cspace={0}em>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991291027456
+    m_Localized: '{0}Emas{1} diperlukan untuk meningkatkan pahlawan.\n\nEmas dapat
+      diperoleh dalam pertempuran, di {2}, dalam peti.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416064
+    m_Localized: '{0}Kristal{1} diperlukan untuk membeli pahlawan dan barang lain
+      di toko.\n\nKristal dapat diperoleh di {2} atau dibeli di toko dengan uang
+      sungguhan.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416065
+    m_Localized: '{0}Bintang{1} diperlukan untuk meningkatkan pahlawan.\n\nBintang
+      dapat diperoleh dalam pertempuran, di {2}, dalam peti.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599220473856
+    m_Localized: Level maks!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137152
+    m_Localized: Kumpulkan Trofi untuk Pahlawan ini dengan memenangkan permainan
+      melawan pemain lain.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137153
+    m_Localized: Tingkatkan Pahlawan Anda! Tingkatkan Kesehatan dan Serangan mereka.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

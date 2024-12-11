@@ -1,0 +1,480 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669767925760
+    m_Localized: Enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Localized: Log in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Localized: Clan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Localized: News
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Localized: New
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Localized: Friends
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Localized: Sale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Localized: Free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Localized: Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Localized: Battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Localized: New events
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Localized: New season
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Localized: Log out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Localized: Connect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Localized: Connected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Localized: Log in as guest?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Localized: Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Localized: On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Localized: 'Player ID: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Localized: Okay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Localized: Agree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Localized: Claim!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Localized: Information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Localized: Daily Rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Localized: Leaderboards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Localized: Coming soon!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Localized: Mailbox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Localized: Sound effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Localized: Haptic feedback
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Localized: Connect your account to save your progress and play on different
+      devices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Localized: Privacy Policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Localized: Terms of Use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Localized: Help and Support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Localized: User Agreement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Localized: System Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Localized: Location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Localized: Community
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Localized: Join us and stay updated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Localized: Go
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Localized: Follow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988718718976
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988769050624
+    m_Localized: Change language?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988769050625
+    m_Localized: Are you sure you want to change the language?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026874908672
+    m_Localized: Locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026870714368
+    m_Localized: Closed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026870714369
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801861
+    m_Localized: Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801860
+    m_Localized: Unlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801859
+    m_Localized: Attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801858
+    m_Localized: Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801857
+    m_Localized: Max {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801856
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1742454176927745
+    m_Localized: Selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726043287244801
+    m_Localized: '{0}/{1}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726043287244800
+    m_Localized: '{0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926995505152
+    m_Localized: Currency
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699456
+    m_Localized: Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699457
+    m_Localized: Handful of Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699458
+    m_Localized: Pile of Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699459
+    m_Localized: Stack of Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699460
+    m_Localized: Heap of Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699461
+    m_Localized: Crystals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699462
+    m_Localized: Handful of Crystals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699463
+    m_Localized: Pile of Crystals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699464
+    m_Localized: Stack of Crystals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699465
+    m_Localized: Heap of Crystals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699466
+    m_Localized: Stars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699467
+    m_Localized: Handful of Stars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699468
+    m_Localized: Pile of Stars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699469
+    m_Localized: Stack of Stars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699470
+    m_Localized: Heap of Stars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423927003893760
+    m_Localized: Special Offers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471704006656
+    m_Localized: Open
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Localized: Defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Localized: Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Localized: Lvl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1742454176927744
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1787641246830592
+    m_Localized: 'Lvl: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788425220968448
+    m_Localized: Rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809896953663488
+    m_Localized: Buy {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2105858804731904
+    m_Localized: +{0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375296
+    m_Localized: Orion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375297
+    m_Localized: Andromeda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375298
+    m_Localized: Cassiopeia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375299
+    m_Localized: Sirius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375300
+    m_Localized: Phoenix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375301
+    m_Localized: Helios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569600
+    m_Localized: Elysium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569601
+    m_Localized: Theia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569602
+    m_Localized: Cronos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569603
+    m_Localized: Custod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991253278720
+    m_Localized: <material={0}>{1}</material>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833152
+    m_Localized: <color={0}>{1}</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833153
+    m_Localized: <size={0}>{1}</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833154
+    m_Localized: <font={0}>{1}</font>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833155
+    m_Localized: <gradient={0}>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833156
+    m_Localized: <cspace={0}>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991291027456
+    m_Localized: '{0}Gold{1} is needed to improve the heroes.\n\nGold can be earned
+      in battles, in {2}, in chests.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416064
+    m_Localized: '{0}Crystals{1} are needed to buy the heroes and other things in
+      shop.\n\nCrystals can be obtained in the {2} or bought in the store for real
+      money.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416065
+    m_Localized: '{0}Stars{1} are needed to improve the heroes.\n\nStars can be earned
+      in battles, in {2}, in chests.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599220473856
+    m_Localized: Max level!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137152
+    m_Localized: Collect Trophies for this Hero by winning games against other players.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137153
+    m_Localized: Upgrade your Hero! Increase their Health, Attack Damage.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

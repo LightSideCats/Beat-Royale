@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Heroes_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 1460b6164d0825044ac84614425b11cc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1739650540556288
+    m_Localized: "Foxy \u2014 pe\u0142na gracji stra\u017Cniczka lasu, obdarzona
+      naturaln\u0105 magi\u0105 i uzbrojona w szmaragdow\u0105 lask\u0119, kt\xF3ra
+      l\u015Bni moc\u0105, uzdrawiaj\u0105c ziemi\u0119 i mia\u017Cd\u017C\u0105c
+      wrog\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8795937886208
+    m_Localized: Foxy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313931997184
+    m_Localized: Saya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313965551616
+    m_Localized: Aura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313969745920
+    m_Localized: Jack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556289
+    m_Localized: "Saya \u2014 skryty i \u015Bmiertelny cie\u0144 nocy, kt\xF3rego
+      b\u0142yskawiczne ostrza uderzaj\u0105 we wrog\xF3w, zanim zd\u0105\u017C\u0105
+      dostrzec jej obecno\u015B\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556290
+    m_Localized: "Aura \u2014 uosobienie magicznej mocy \u015Bwiat\u0142a, kt\xF3rego
+      blask przenika mrok, nios\u0105c nadziej\u0119 i inspiruj\u0105c do wielkich
+      czyn\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556291
+    m_Localized: "Jack Coonez \u2014 szop pracz o p\u0142on\u0105cym sercu, kt\xF3ry
+      porzuci\u0142 spokojne \u017Cycie na ranczu, by sta\u0107 si\u0119 postrachem
+      bandyt\xF3w i obro\u0144c\u0105 Dzikiego Zachodu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791874
+    m_Localized: Zablokowani bohaterowie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791872
+    m_Localized: Bohaterowie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791873
+    m_Localized: "Zamkni\u0119ci bohaterowie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212608
+    m_Localized: Artyleria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212609
+    m_Localized: "Zab\xF3jca"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212610
+    m_Localized: Mistrz kontroli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212611
+    m_Localized: Maszyna zniszczenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212612
+    m_Localized: Strzelec wyborowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212613
+    m_Localized: Wsparcie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212614
+    m_Localized: "Czo\u0142g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212615
+    m_Localized: "Gwiezdny py\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212616
+    m_Localized: "Po\u015Bwiata supernowej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212617
+    m_Localized: Energia pulsara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212618
+    m_Localized: "Mg\u0142awicowe \u015Bwiat\u0142o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212619
+    m_Localized: "Rdze\u0144 kwazara"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212620
+    m_Localized: "Osobliwo\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155587869659136
+    m_Localized: Poziom mistrzowski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609795842048
+    m_Localized: Mintex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609821007872
+    m_Localized: Noul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609825202176
+    m_Localized: Hysect
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

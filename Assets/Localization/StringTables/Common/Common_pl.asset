@@ -1,0 +1,482 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669767925760
+    m_Localized: "Wejd\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562212495360
+    m_Localized: Zaloguj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827008
+    m_Localized: Klan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827010
+    m_Localized: Sklep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562262827013
+    m_Localized: "Nowo\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021312
+    m_Localized: Nowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021313
+    m_Localized: Znajomi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021314
+    m_Localized: "Wyprzeda\u017C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021315
+    m_Localized: Gratis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021316
+    m_Localized: Prezent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021317
+    m_Localized: Graj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021318
+    m_Localized: Walka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021319
+    m_Localized: Nowe wydarzenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703562267021320
+    m_Localized: Nowy sezon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213897437184
+    m_Localized: Wyloguj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631488
+    m_Localized: "Po\u0142\u0105cz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213901631489
+    m_Localized: "Po\u0142\u0105czono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825792
+    m_Localized: "Zalogowa\u0107 jako go\u015B\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825793
+    m_Localized: "Wy\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825794
+    m_Localized: "W\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825795
+    m_Localized: 'ID gracza: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825796
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825797
+    m_Localized: Tak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825798
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825799
+    m_Localized: "Zgadzam si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825800
+    m_Localized: "Powr\xF3t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825801
+    m_Localized: Odbierz!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825802
+    m_Localized: Informacje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825803
+    m_Localized: Codzienne nagrody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825804
+    m_Localized: "Tabele wynik\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825805
+    m_Localized: "Ju\u017C wkr\xF3tce!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825806
+    m_Localized: Skrzynka pocztowa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825807
+    m_Localized: Ustawienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825808
+    m_Localized: Muzyka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825809
+    m_Localized: "Efekty d\u017Awi\u0119kowe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825810
+    m_Localized: "Sprz\u0119\u017Cenie zwrotne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825811
+    m_Localized: "Po\u0142\u0105cz swoje konto, aby zapisa\u0107 post\u0119p i gra\u0107
+      na r\xF3\u017Cnych urz\u0105dzeniach"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213905825812
+    m_Localized: "J\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020096
+    m_Localized: "Zasady ochrony prywatno\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020097
+    m_Localized: Regulamin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020098
+    m_Localized: Pomoc i wsparcie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020099
+    m_Localized: "Umowa z u\u017Cytkownikiem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020100
+    m_Localized: Ustawienia systemowe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020101
+    m_Localized: Lokalizacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020102
+    m_Localized: "Spo\u0142eczno\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020103
+    m_Localized: "Do\u0142\u0105cz do nas i b\u0105d\u017A na bie\u017C\u0105co"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020104
+    m_Localized: "Przejd\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991213910020105
+    m_Localized: "\u015Aled\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988718718976
+    m_Localized: Polski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988769050624
+    m_Localized: "Czy zmieni\u0107 j\u0119zyk?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1335988769050625
+    m_Localized: "Czy na pewno chcesz zmieni\u0107 j\u0119zyk?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026874908672
+    m_Localized: "Brak dost\u0119pu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026870714369
+    m_Localized: Kup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764026870714368
+    m_Localized: "Zamkni\u0119ty"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801861
+    m_Localized: Ulepsz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801860
+    m_Localized: Odblokuj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801859
+    m_Localized: Atak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801858
+    m_Localized: "Punkty \u017Cycia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801857
+    m_Localized: Maks. {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745601175801856
+    m_Localized: Poziom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1742454176927745
+    m_Localized: Wybrano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726043287244801
+    m_Localized: '{0}/{1}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726043287244800
+    m_Localized: '{0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926995505152
+    m_Localized: Waluta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699456
+    m_Localized: "Z\u0142oto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699457
+    m_Localized: "Gar\u015B\u0107 z\u0142ota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699458
+    m_Localized: "Kupa z\u0142ota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699459
+    m_Localized: "Stos z\u0142ota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699460
+    m_Localized: "Wielka kupa z\u0142ota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699461
+    m_Localized: "Kryszta\u0142y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699462
+    m_Localized: "Gar\u015B\u0107 kryszta\u0142\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699463
+    m_Localized: "Kupa kryszta\u0142\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699464
+    m_Localized: "Stos kryszta\u0142\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699465
+    m_Localized: "Wielka kupa kryszta\u0142\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699466
+    m_Localized: Gwiazdy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699467
+    m_Localized: "Gar\u015B\u0107 gwiazd"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699468
+    m_Localized: Kupa gwiazd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699469
+    m_Localized: Stos gwiazd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423926999699470
+    m_Localized: Wielka kupa gwiazd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1423927003893760
+    m_Localized: Oferty specjalne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471704006656
+    m_Localized: Otwarty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471708200960
+    m_Localized: Zamknij
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589568
+    m_Localized: "Pora\u017Cka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471716589569
+    m_Localized: Wygrana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783872
+    m_Localized: Dalej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1454471720783873
+    m_Localized: Poz.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1742454176927744
+    m_Localized: Wybierz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1787641246830592
+    m_Localized: Poz. {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788425220968448
+    m_Localized: Nagrody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809896953663488
+    m_Localized: Kup {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2105858804731904
+    m_Localized: +{0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375296
+    m_Localized: Orion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375297
+    m_Localized: Andromeda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375298
+    m_Localized: Kasjopeja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375299
+    m_Localized: Syrius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375300
+    m_Localized: Feniks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075096375301
+    m_Localized: Helios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569600
+    m_Localized: Elysium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569601
+    m_Localized: Theia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569602
+    m_Localized: Cronos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2113075100569603
+    m_Localized: Custod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991253278720
+    m_Localized: <material={0}>{1}</material>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833152
+    m_Localized: <color={0}>{1}</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833153
+    m_Localized: <size={0}>{1}</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833154
+    m_Localized: <font={0}>{1}</font>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833155
+    m_Localized: <gradient={0}>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991286833156
+    m_Localized: <cspace={0}em>{1}</gradient>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991291027456
+    m_Localized: "{0}Z\u0142oto{1} jest potrzebne do ulepszania bohater\xF3w.\\n\\nZ\u0142oto
+      mo\u017Cna zdoby\u0107 w bitwach, w {2}, w skrzyniach."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416064
+    m_Localized: "{0}Kryszta\u0142y{1} s\u0105 potrzebne do kupowania bohater\xF3w
+      i innych rzeczy w sklepie.\\n\\nKryszta\u0142y mo\u017Cna zdoby\u0107 w {2}
+      lub kupi\u0107 w sklepie za prawdziwe pieni\u0105dze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2210991299416065
+    m_Localized: "{0}Gwiazdy{1} s\u0105 potrzebne do ulepszania bohater\xF3w.\\n\\nGwiazdy
+      mo\u017Cna zdoby\u0107 w bitwach, w {2}, w skrzyniach."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599220473856
+    m_Localized: Maks. poziom!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137152
+    m_Localized: "Zbieraj trofea dla tego bohatera, wygrywaj\u0105c gry przeciwko
+      innym graczom."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2272599321137153
+    m_Localized: "Ulepsz swojego bohatera! Zwi\u0119ksz jego zdrowie, obra\u017Cenia
+      ataku."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -21,9 +21,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 85a0dfb897b4f7e45b4aa0be8abc3af7, type: 3}
     - target: {fileID: 1845102409776401809, guid: c489d1ade05226b42b1ae4c6a4b9bfb8, type: 3}
-      propertyPath: m_text
-      value: Jack
+      propertyPath: localizationData.key
+      value: jack.name
       objectReference: {fileID: 0}
+    - target: {fileID: 1845102409776401809, guid: c489d1ade05226b42b1ae4c6a4b9bfb8, type: 3}
+      propertyPath: localizationData.tableData
+      value: 
+      objectReference: {fileID: 11400000, guid: 1460b6164d0825044ac84614425b11cc, type: 2}
     - target: {fileID: 1852642250364948916, guid: c489d1ade05226b42b1ae4c6a4b9bfb8, type: 3}
       propertyPath: m_Name
       value: JackClosedButton

@@ -675,9 +675,13 @@ PrefabInstance:
       value: MailButton
       objectReference: {fileID: 0}
     - target: {fileID: 29101694809472436, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
-      propertyPath: m_text
-      value: Mailbox
+      propertyPath: localizationData.key
+      value: mailbox
       objectReference: {fileID: 0}
+    - target: {fileID: 29101694809472436, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
+      propertyPath: localizationData.tableData
+      value: 
+      objectReference: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
     - target: {fileID: 2028806025013019736, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
       propertyPath: managedReferences[3302317827636855108].root
       value: 
@@ -725,13 +729,17 @@ PrefabInstance:
       value: CommunityButton
       objectReference: {fileID: 0}
     - target: {fileID: 29101694809472436, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
-      propertyPath: m_text
-      value: Community
-      objectReference: {fileID: 0}
-    - target: {fileID: 29101694809472436, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
       propertyPath: m_fontSize
       value: 40
       objectReference: {fileID: 0}
+    - target: {fileID: 29101694809472436, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
+      propertyPath: localizationData.key
+      value: community
+      objectReference: {fileID: 0}
+    - target: {fileID: 29101694809472436, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
+      propertyPath: localizationData.tableData
+      value: 
+      objectReference: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
     - target: {fileID: 2028806025013019736, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
       propertyPath: managedReferences[3302317827636855108].root
       value: 
@@ -779,13 +787,17 @@ PrefabInstance:
       value: LeaderboardsButton
       objectReference: {fileID: 0}
     - target: {fileID: 29101694809472436, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
-      propertyPath: m_text
-      value: Leaderboards
-      objectReference: {fileID: 0}
-    - target: {fileID: 29101694809472436, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
       propertyPath: m_fontSize
       value: 39.05
       objectReference: {fileID: 0}
+    - target: {fileID: 29101694809472436, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
+      propertyPath: localizationData.key
+      value: leaderboards
+      objectReference: {fileID: 0}
+    - target: {fileID: 29101694809472436, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
+      propertyPath: localizationData.tableData
+      value: 
+      objectReference: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
     - target: {fileID: 2028806025013019736, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
       propertyPath: managedReferences[3302317827636855108].root
       value: 
@@ -833,9 +845,13 @@ PrefabInstance:
       value: SettingsButton
       objectReference: {fileID: 0}
     - target: {fileID: 29101694809472436, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
-      propertyPath: m_text
-      value: Settings
+      propertyPath: localizationData.key
+      value: settings
       objectReference: {fileID: 0}
+    - target: {fileID: 29101694809472436, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
+      propertyPath: localizationData.tableData
+      value: 
+      objectReference: {fileID: 11400000, guid: e0d621d1ef7248d4c85dfa1657580628, type: 2}
     - target: {fileID: 2028806025013019736, guid: 4970079ad02207a42bf75d2cb50bbe50, type: 3}
       propertyPath: managedReferences[3302317827636855108].root
       value: 

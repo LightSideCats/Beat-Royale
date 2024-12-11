@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Indonesian (id)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Indonesian (id)
+  m_GUID: e1d7cf0fb098a674a8789a30153faac5
+  m_SerializeEntries:
+  - m_GUID: 04f3825e38cfc9f4b9430c73c108e191
+    m_Address: Heroes_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62dbb012767824648a5c1722d4690f9b
+    m_Address: Quests_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f14c689ce2007ae489e6c7cbd909de5e
+    m_Address: Common_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 628e248f84a83454da553537863cdff4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9938ab3cb6026284b876dd9a3ca73e21, type: 2}
+    - {fileID: 11400000, guid: a0d3fd56538739d418c02c8a83ad0465, type: 2}

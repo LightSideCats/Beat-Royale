@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Heroes_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: 1460b6164d0825044ac84614425b11cc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1739650540556288
+    m_Localized: "Foxy \u2014 m\u1ED9t ng\u01B0\u1EDDi b\u1EA3o h\u1ED9 r\u1EEBng
+      duy\xEAn d\xE1ng, \u0111\u01B0\u1EE3c ban t\u1EB7ng ph\xE9p thu\u1EADt t\u1EF1
+      nhi\xEAn v\xE0 c\u1EA7m trong tay m\u1ED9t c\xE2y tr\u01B0\u1EE3ng ng\u1ECDc
+      l\u1EE5c b\u1EA3o t\u1ECFa ra s\u1EE9c m\u1EA1nh, ch\u1EEFa l\xE0nh \u0111\u1EA5t
+      \u0111ai v\xE0 ti\xEAu di\u1EC7t k\u1EBB th\xF9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8795937886208
+    m_Localized: Foxy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313931997184
+    m_Localized: Saya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313965551616
+    m_Localized: Aura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313969745920
+    m_Localized: Jack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556289
+    m_Localized: "Saya \u2014 m\u1ED9t b\xF3ng \u0111\xEAm l\xE9n l\xFAt v\xE0 ch\u1EBFt
+      ch\xF3c, nh\u1EEFng l\u01B0\u1EE1i dao nhanh nh\u01B0 ch\u1EDBp c\u1EE7a c\xF4
+      t\u1EA5n c\xF4ng k\u1EBB th\xF9 tr\u01B0\u1EDBc khi ch\xFAng k\u1ECBp nh\u1EADn
+      ra s\u1EF1 hi\u1EC7n di\u1EC7n c\u1EE7a c\xF4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556290
+    m_Localized: "Aura \u2014 hi\u1EC7n th\xE2n c\u1EE7a s\u1EE9c m\u1EA1nh \xE1nh
+      s\xE1ng ma thu\u1EADt, \xE1nh h\xE0o quang c\u1EE7a c\xF4 xuy\xEAn qua b\xF3ng
+      t\u1ED1i, mang l\u1EA1i hy v\u1ECDng v\xE0 truy\u1EC1n c\u1EA3m h\u1EE9ng cho
+      nh\u1EEFng k\u1EF3 t\xEDch."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556291
+    m_Localized: "Jack Coonez \u2014 m\u1ED9t ch\xFA g\u1EA5u m\xE8o v\u1EDBi tr\xE1i
+      tim r\u1EF1c l\u1EEDa, \u0111\xE3 r\u1EDDi b\u1ECF cu\u1ED9c s\u1ED1ng y\xEAn
+      b\xECnh tr\xEAn trang tr\u1EA1i \u0111\u1EC3 tr\u1EDF th\xE0nh n\u1ED7i kinh
+      ho\xE0ng cho b\u1ECDn c\u01B0\u1EDBp v\xE0 ng\u01B0\u1EDDi b\u1EA3o v\u1EC7
+      mi\u1EC1n Vi\u1EC5n T\xE2y."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791874
+    m_Localized: "Anh h\xF9ng b\u1ECB kh\xF3a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791872
+    m_Localized: "Anh h\xF9ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791873
+    m_Localized: "Anh h\xF9ng \u0111\xF3ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212608
+    m_Localized: "Ph\xE1o binh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212609
+    m_Localized: "S\xE1t th\u1EE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212610
+    m_Localized: "Chi\u1EBFn binh ki\u1EC3m so\xE1t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212611
+    m_Localized: "K\u1EBB g\xE2y s\xE1t th\u01B0\u01A1ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212612
+    m_Localized: "Tay thi\u1EC7n x\u1EA1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212613
+    m_Localized: "Chi\u1EBFn binh h\u1ED7 tr\u1EE3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212614
+    m_Localized: "Chi\u1EBFn binh \u0111\u1EE1 \u0111\xF2n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212615
+    m_Localized: "B\u1EE5i sao"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212616
+    m_Localized: "H\xE0o quang si\xEAu t\xE2n tinh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212617
+    m_Localized: "N\u0103ng l\u01B0\u1EE3ng pulsar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212618
+    m_Localized: "\xC1nh s\xE1ng tinh v\xE2n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212619
+    m_Localized: "L\xF5i chu\u1EA9n tinh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212620
+    m_Localized: "\u0110i\u1EC3m k\u1EF3 d\u1ECB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155587869659136
+    m_Localized: "\u0110\u1ED9 th\xE0nh th\u1EA1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609795842048
+    m_Localized: Mintex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609821007872
+    m_Localized: Noul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609825202176
+    m_Localized: Hysect
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

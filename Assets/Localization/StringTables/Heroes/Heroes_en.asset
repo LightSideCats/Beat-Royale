@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Heroes_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1460b6164d0825044ac84614425b11cc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8795937886208
+    m_Localized: Foxy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556288
+    m_Localized: "Foxy \u2014 a graceful guardian of the forest, endowed with natural
+      magic and armed with an emerald staff that shines with power, healing the land
+      and crushing enemies."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313931997184
+    m_Localized: Saya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313965551616
+    m_Localized: Aura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313969745920
+    m_Localized: Jack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556289
+    m_Localized: "Saya \u2014 a stealthy and deadly shadow of the night, whose lightning-fast
+      blades strike enemies before they even realize her presence."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556290
+    m_Localized: "Aura \u2014 the embodiment of magical light power, whose radiance
+      pierces the darkness, granting hope and inspiring great deeds."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556291
+    m_Localized: "Jack Coonez \u2014 a raccoon with a fiery heart who left a quiet
+      ranch life to become a scourge of bandits and a protector of the Wild West."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791874
+    m_Localized: Locked heroes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791872
+    m_Localized: Heroes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791873
+    m_Localized: Closed heroes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212608
+    m_Localized: Artillery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212609
+    m_Localized: Assassin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212610
+    m_Localized: Controller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212611
+    m_Localized: Damage dealer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212612
+    m_Localized: Marksman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212613
+    m_Localized: Support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212614
+    m_Localized: Tank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212615
+    m_Localized: Stardust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212616
+    m_Localized: Supernova Glow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212617
+    m_Localized: Pulsar Energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212618
+    m_Localized: Nebular Light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212619
+    m_Localized: Quasar Core
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212620
+    m_Localized: Singularity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155587869659136
+    m_Localized: Mastery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609795842048
+    m_Localized: Mintex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609821007872
+    m_Localized: Noul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609825202176
+    m_Localized: Hysect
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

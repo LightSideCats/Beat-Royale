@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Heroes_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 1460b6164d0825044ac84614425b11cc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8795937886208
+    m_Localized: Foxy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556288
+    m_Localized: "Foxy \u2014 une gardienne gracieuse de la for\xEAt, dot\xE9e de
+      magie naturelle et arm\xE9e d'un b\xE2ton d'\xE9meraude qui brille de puissance,
+      gu\xE9rissant la terre et \xE9crasant les ennemis."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313931997184
+    m_Localized: Saya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313965551616
+    m_Localized: Aura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723313969745920
+    m_Localized: Jack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556289
+    m_Localized: "Saya \u2014 une ombre nocturne furtive et mortelle, dont les lames
+      fulgurantes frappent les ennemis avant qu'ils ne r\xE9alisent sa pr\xE9sence."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556290
+    m_Localized: "Aura \u2014 l'incarnation de la puissance magique de la lumi\xE8re,
+      dont l'\xE9clat transperce les t\xE9n\xE8bres, offrant l'espoir et inspirant
+      des exploits."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739650540556291
+    m_Localized: "Jack Coonez \u2014 un raton laveur au c\u0153ur ardent qui a quitt\xE9
+      la vie tranquille du ranch pour devenir le fl\xE9au des bandits et le protecteur
+      du Far West."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791874
+    m_Localized: "H\xE9ros bloqu\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791872
+    m_Localized: "H\xE9ros"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790837075791873
+    m_Localized: Gesloten helden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212608
+    m_Localized: Artillerie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212609
+    m_Localized: Assassinat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212610
+    m_Localized: "Contr\xF4le"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212611
+    m_Localized: "D\xE9g\xE2ts bruts"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212612
+    m_Localized: "Tir d'\xE9lite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212613
+    m_Localized: Soutien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212614
+    m_Localized: Tank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212615
+    m_Localized: "Poussi\xE8re d'\xE9toile"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212616
+    m_Localized: Lueur de supernova
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212617
+    m_Localized: "\xC9nergie de pulsar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212618
+    m_Localized: "Lumi\xE8re n\xE9buleuse"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212619
+    m_Localized: Noyau de quasar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756584854212620
+    m_Localized: "Singularit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155587869659136
+    m_Localized: "Ma\xEEtrise"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609795842048
+    m_Localized: Mintex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609821007872
+    m_Localized: Noul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299609825202176
+    m_Localized: Hysect
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
