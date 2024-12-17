@@ -30,7 +30,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 1128472660004066007}
+  m_Father: {fileID: 9096404253614425731}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 1.375}
 --- !u!212 &1468677351766370655
 SpriteRenderer:
@@ -117,7 +117,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1128472660004066007}
+  m_Father: {fileID: 9096404253614425731}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -1.375}
 --- !u!212 &2044770925280697459
 SpriteRenderer:
@@ -204,7 +204,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1128472660004066007}
+  m_Father: {fileID: 9096404253614425731}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -1.375}
 --- !u!212 &6740546681255916035
 SpriteRenderer:
@@ -291,7 +291,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1128472660004066007}
+  m_Father: {fileID: 9096404253614425731}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -1.375}
 --- !u!212 &944676563560667407
 SpriteRenderer:
@@ -378,7 +378,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 1128472660004066007}
+  m_Father: {fileID: 9096404253614425731}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -5.962963}
 --- !u!212 &5994685395253777578
 SpriteRenderer:
@@ -465,7 +465,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 1128472660004066007}
+  m_Father: {fileID: 9096404253614425731}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -5.962963}
 --- !u!212 &2008898693334216455
 SpriteRenderer:
@@ -552,7 +552,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 1128472660004066007}
+  m_Father: {fileID: 9096404253614425731}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 1.375}
 --- !u!212 &3798814545188423319
 SpriteRenderer:
@@ -639,7 +639,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1128472660004066007}
+  m_Father: {fileID: 9096404253614425731}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -1.375}
 --- !u!212 &6694676516391451892
 SpriteRenderer:
@@ -726,7 +726,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 1128472660004066007}
+  m_Father: {fileID: 9096404253614425731}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 1.375}
 --- !u!212 &6920653144332773273
 SpriteRenderer:
@@ -947,37 +947,37 @@ PrefabInstance:
     m_RemovedGameObjects:
     - {fileID: 8455844564343377253, guid: febd953febf1ec2429f58801f66463c5, type: 3}
     m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 3207911313573480268, guid: febd953febf1ec2429f58801f66463c5, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 6706144384133567256, guid: febd953febf1ec2429f58801f66463c5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1732352838315088127}
-    - targetCorrespondingSourceObject: {fileID: 3207911313573480268, guid: febd953febf1ec2429f58801f66463c5, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 6706144384133567256, guid: febd953febf1ec2429f58801f66463c5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 3830131049652903423}
-    - targetCorrespondingSourceObject: {fileID: 3207911313573480268, guid: febd953febf1ec2429f58801f66463c5, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 6706144384133567256, guid: febd953febf1ec2429f58801f66463c5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 3412021476873847569}
-    - targetCorrespondingSourceObject: {fileID: 3207911313573480268, guid: febd953febf1ec2429f58801f66463c5, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 6706144384133567256, guid: febd953febf1ec2429f58801f66463c5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 7424945755473484676}
-    - targetCorrespondingSourceObject: {fileID: 3207911313573480268, guid: febd953febf1ec2429f58801f66463c5, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 6706144384133567256, guid: febd953febf1ec2429f58801f66463c5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1193016784182663365}
-    - targetCorrespondingSourceObject: {fileID: 3207911313573480268, guid: febd953febf1ec2429f58801f66463c5, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 6706144384133567256, guid: febd953febf1ec2429f58801f66463c5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 5199130226047478294}
-    - targetCorrespondingSourceObject: {fileID: 3207911313573480268, guid: febd953febf1ec2429f58801f66463c5, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 6706144384133567256, guid: febd953febf1ec2429f58801f66463c5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 5036259175745039440}
-    - targetCorrespondingSourceObject: {fileID: 3207911313573480268, guid: febd953febf1ec2429f58801f66463c5, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 6706144384133567256, guid: febd953febf1ec2429f58801f66463c5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 7905349097148611969}
-    - targetCorrespondingSourceObject: {fileID: 3207911313573480268, guid: febd953febf1ec2429f58801f66463c5, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 6706144384133567256, guid: febd953febf1ec2429f58801f66463c5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 3437420263712397770}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: febd953febf1ec2429f58801f66463c5, type: 3}
---- !u!4 &1128472660004066007 stripped
+--- !u!4 &9096404253614425731 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 3207911313573480268, guid: febd953febf1ec2429f58801f66463c5, type: 3}
+  m_CorrespondingSourceObject: {fileID: 6706144384133567256, guid: febd953febf1ec2429f58801f66463c5, type: 3}
   m_PrefabInstance: {fileID: 2534939108120810907}
   m_PrefabAsset: {fileID: 0}
