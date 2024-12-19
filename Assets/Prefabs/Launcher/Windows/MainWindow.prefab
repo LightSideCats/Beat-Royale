@@ -3961,6 +3961,30 @@ PrefabInstance:
       propertyPath: m_PixelsPerUnitMultiplier
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -1800077625115593775, guid: b347b783cbd427f428cb63bd8c487f1c, type: 3}
+      propertyPath: clickActions.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -1800077625115593775, guid: b347b783cbd427f428cb63bd8c487f1c, type: 3}
+      propertyPath: 'clickActions.actions.Array.data[0]'
+      value: 6254766799571386575
+      objectReference: {fileID: 0}
+    - target: {fileID: -1800077625115593775, guid: b347b783cbd427f428cb63bd8c487f1c, type: 3}
+      propertyPath: 'managedReferences[6254766799571386575]'
+      value: LSCore.WindowModule LSCore.CreateOrShowCanvasView
+      objectReference: {fileID: 0}
+    - target: {fileID: -1800077625115593775, guid: b347b783cbd427f428cb63bd8c487f1c, type: 3}
+      propertyPath: managedReferences[6254766799571386575].option
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1800077625115593775, guid: b347b783cbd427f428cb63bd8c487f1c, type: 3}
+      propertyPath: managedReferences[6254766799571386575].prefab
+      value: 
+      objectReference: {fileID: 7548480891046010996, guid: 932c5e34ab174c44aa96a534f23ce7c8, type: 3}
+    - target: {fileID: -1800077625115593775, guid: b347b783cbd427f428cb63bd8c487f1c, type: 3}
+      propertyPath: managedReferences[6254766799571386575].transformActions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 332846550533991576, guid: b347b783cbd427f428cb63bd8c487f1c, type: 3}
       propertyPath: m_Enabled
       value: 1

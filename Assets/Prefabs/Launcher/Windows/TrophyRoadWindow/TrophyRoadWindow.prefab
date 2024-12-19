@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 628072965246165501}
     m_Modifications:
+    - target: {fileID: 2833077185653479553, guid: b2afae7345134854784958ed535392cb, type: 3}
+      propertyPath: m_fontSize
+      value: 30.6
+      objectReference: {fileID: 0}
     - target: {fileID: 5129775856669843135, guid: b2afae7345134854784958ed535392cb, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -173,6 +177,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7536097250807342417, guid: 0598770cb6a81f34d96d3386eab0bfb6, type: 3}
+      propertyPath: m_fontSize
+      value: 47.75
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -191,9 +199,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 628072965246165501}
     m_Modifications:
+    - target: {fileID: 3673199287897500501, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
+      propertyPath: m_fontSize
+      value: 30.6
+      objectReference: {fileID: 0}
     - target: {fileID: 4831249545618860506, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
       propertyPath: m_Name
       value: BaseTrophiesRewardRankUpgrade
+      objectReference: {fileID: 0}
+    - target: {fileID: 5095476453499700906, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
+      propertyPath: m_fontSize
+      value: 35.45
       objectReference: {fileID: 0}
     - target: {fileID: 5951594921421237611, guid: 06bc1d21d047b4441a17a8cd65a8c771, type: 3}
       propertyPath: m_Pivot.x
@@ -510,6 +526,10 @@ PrefabInstance:
     - target: {fileID: 7303323765923722888, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7536097250807342417, guid: fecdcf61c72d6af4387ed384be5acabd, type: 3}
+      propertyPath: m_fontSize
+      value: 47.75
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1498,6 +1518,14 @@ PrefabInstance:
       propertyPath: m_Padding.m_Top
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 4467460216426392384, guid: 2efa9af7a35dc1e44b3b9604ad05b703, type: 3}
+      propertyPath: m_Padding.x
+      value: -300
+      objectReference: {fileID: 0}
+    - target: {fileID: 4467460216426392384, guid: 2efa9af7a35dc1e44b3b9604ad05b703, type: 3}
+      propertyPath: m_Padding.z
+      value: -300
+      objectReference: {fileID: 0}
     - target: {fileID: 4534620440465521457, guid: 2efa9af7a35dc1e44b3b9604ad05b703, type: 3}
       propertyPath: m_AnchorMax.x
       value: 1
@@ -1684,6 +1712,10 @@ PrefabInstance:
     - target: {fileID: 7303323765923722888, guid: fd0f805e34e88414a87c24062213aba3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7536097250807342417, guid: fd0f805e34e88414a87c24062213aba3, type: 3}
+      propertyPath: m_fontSize
+      value: 47.75
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1978,6 +2010,10 @@ PrefabInstance:
     - target: {fileID: 1256593824752179186, guid: 7c57a5cfdf6b2c64ca8e8738fe9f4dab, type: 3}
       propertyPath: m_Name
       value: BaseTrophiesRewardRankNext
+      objectReference: {fileID: 0}
+    - target: {fileID: 6955116906998502781, guid: 7c57a5cfdf6b2c64ca8e8738fe9f4dab, type: 3}
+      propertyPath: m_fontSize
+      value: 37.95
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

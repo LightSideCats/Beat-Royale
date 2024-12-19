@@ -377,11 +377,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 295674280957960027, guid: a72f835766167ee4890ca6aa106f71da, type: 3}
       propertyPath: m_Spacing.x
-      value: 20
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 295674280957960027, guid: a72f835766167ee4890ca6aa106f71da, type: 3}
       propertyPath: m_Spacing.y
-      value: 30
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 295674280957960027, guid: a72f835766167ee4890ca6aa106f71da, type: 3}
       propertyPath: m_StartAxis
@@ -393,7 +393,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 295674280957960027, guid: a72f835766167ee4890ca6aa106f71da, type: 3}
       propertyPath: m_CellSize.y
-      value: 320
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 295674280957960027, guid: a72f835766167ee4890ca6aa106f71da, type: 3}
+      propertyPath: m_Constraint
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 295674280957960027, guid: a72f835766167ee4890ca6aa106f71da, type: 3}
       propertyPath: m_Padding.m_Top
