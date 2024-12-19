@@ -18,8 +18,8 @@ namespace LSCore.BattleModule
             public struct Data
             {
                 [SerializeReference] public Spawner spawner;
-                [MinValue(1)] public int spawnCount;
-                [MinValue(5)] public int timeRef;
+                [Clamp(1)] public int spawnCount;
+                [Clamp(5)] public int timeRef;
                 public AnimationCurve spawnFrequency;
                 private int spawnedCount;
                 private Action onComplete;

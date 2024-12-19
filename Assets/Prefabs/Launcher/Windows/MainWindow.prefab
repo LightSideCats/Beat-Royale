@@ -1606,6 +1606,10 @@ PrefabInstance:
       value: LSCore.AudioModule PlayOneShotSound
       objectReference: {fileID: 0}
     - target: {fileID: 8646902945834300080, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
+      propertyPath: managedReferences[3573401114223575415].id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646902945834300080, guid: 106e7ffe55ee85f42bbb099f19d90428, type: 3}
       propertyPath: managedReferences[3573401114223575415].option
       value: 2
       objectReference: {fileID: 0}
@@ -2322,6 +2326,10 @@ PrefabInstance:
     - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
       propertyPath: 'managedReferences[6254766537536176212]'
       value: LSCore.WindowModule LSCore.CreateOrShowCanvasView
+      objectReference: {fileID: 0}
+    - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
+      propertyPath: managedReferences[6254766537536176212].id
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
       propertyPath: managedReferences[6254766537536176212].option
@@ -3084,6 +3092,10 @@ PrefabInstance:
       value: LSCore.AudioModule PlayOneShotSound
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3302317731496591637].id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[3302317731496591636].action
       value: -2
       objectReference: {fileID: 0}
@@ -3562,6 +3574,10 @@ PrefabInstance:
       value: LSCore.AudioModule PlayOneShotSound
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475102].id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[3573401271353475102].option
       value: 2
       objectReference: {fileID: 0}
@@ -3972,6 +3988,10 @@ PrefabInstance:
     - target: {fileID: -1800077625115593775, guid: b347b783cbd427f428cb63bd8c487f1c, type: 3}
       propertyPath: 'managedReferences[6254766799571386575]'
       value: LSCore.WindowModule LSCore.CreateOrShowCanvasView
+      objectReference: {fileID: 0}
+    - target: {fileID: -1800077625115593775, guid: b347b783cbd427f428cb63bd8c487f1c, type: 3}
+      propertyPath: managedReferences[6254766799571386575].id
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: -1800077625115593775, guid: b347b783cbd427f428cb63bd8c487f1c, type: 3}
       propertyPath: managedReferences[6254766799571386575].option
@@ -4675,7 +4695,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: clickActions.actions.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: clickActions.isClickSoundOverride
@@ -4687,7 +4707,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: 'clickActions.actions.Array.data[1]'
-      value: 4837354680496424051
+      value: 3519437871986245980
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: 'managedReferences[3519437871986245980]'
+      value: LSCore.UIModule LSCore.ChangeLocale
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: 'managedReferences[3573401271353475110]'
@@ -4713,6 +4737,10 @@ PrefabInstance:
       propertyPath: managedReferences[3573401271353475111].root
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3519437871986245980].locale
+      value: 
+      objectReference: {fileID: 11400000, guid: 076c576345005044ba2469d5ff6530cc, type: 2}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[3573401271353475110].option
       value: 0
@@ -5092,6 +5120,10 @@ PrefabInstance:
     - target: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
       propertyPath: 'managedReferences[4216535028436042372]'
       value: LSCore.AudioModule PlayOneShotSound
+      objectReference: {fileID: 0}
+    - target: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
+      propertyPath: managedReferences[3573401271353475104].id
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 213048910385239577, guid: 6aa277179a03113459f3fe11ee4cfbb1, type: 3}
       propertyPath: managedReferences[3573401271353475104].option
@@ -5574,6 +5606,10 @@ PrefabInstance:
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: 'managedReferences[4216535028436042373]'
       value: LSCore.AudioModule PlayOneShotSound
+      objectReference: {fileID: 0}
+    - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
+      propertyPath: managedReferences[3573401271353475107].id
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2886244060689609250, guid: d413b71f8f7c07e4b89344b7b99e0da1, type: 3}
       propertyPath: managedReferences[3573401271353475107].option
@@ -7069,6 +7105,10 @@ PrefabInstance:
     - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
       propertyPath: 'managedReferences[3573401271353475122]'
       value: LSCore.WindowModule LSCore.CreateOrShowCanvasView
+      objectReference: {fileID: 0}
+    - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
+      propertyPath: managedReferences[3573401271353475122].id
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
       propertyPath: managedReferences[3573401271353475122].option

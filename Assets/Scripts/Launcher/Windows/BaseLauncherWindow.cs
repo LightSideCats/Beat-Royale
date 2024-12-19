@@ -22,7 +22,7 @@ namespace StarSavers.Windows
         protected override ShowWindowOption ShowOption => ShowWindowOption.HideAllPrevious;
         private Vector2 startPivot;
         private float x;
-        private AnimSequencer animation;
+        private new AnimSequencer animation;
         private PivotPosXAnim anim;
 
         protected override void Init()

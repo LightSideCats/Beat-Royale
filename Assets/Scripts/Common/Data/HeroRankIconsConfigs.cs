@@ -12,7 +12,7 @@ namespace StarSavers.Data
         private static HeroRankIconsConfigs instance;
         public static Dictionary<Id, HeroRankIconsRef> ById => instance.ByKey;
         
-        public void Init() => instance = this;
+        public new void Init() => instance = this;
         
 #if UNITY_EDITOR
         protected override void SetupDataSelector(ValueDropdownList<Entry> list) => SetupByGroup(group, list);
