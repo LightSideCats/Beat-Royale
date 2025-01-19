@@ -83,6 +83,14 @@ MonoBehaviour:
     m_Key: selected
     m_Metadata:
       m_Items: []
+  - m_Id: 16468547517599744
+    m_Key: try
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125696
+    m_Key: practice
+    m_Metadata:
+      m_Items: []
   - m_Id: 991213905825794
     m_Key: on
     m_Metadata:
@@ -125,6 +133,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 991213905825800
     m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125697
+    m_Key: continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125698
+    m_Key: exit
     m_Metadata:
       m_Items: []
   - m_Id: 991213905825801
@@ -465,6 +481,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2272599321137153
     m_Key: levelTooltip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16973315541356544
+    m_Key: astroboostRewards.description
     m_Metadata:
       m_Items: []
   m_Metadata:

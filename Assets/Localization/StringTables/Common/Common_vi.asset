@@ -484,6 +484,26 @@ MonoBehaviour:
       S\xE1t th\u01B0\u01A1ng T\u1EA5n c\xF4ng c\u1EE7a h\u1ECD."
     m_Metadata:
       m_Items: []
+  - m_Id: 16468547517599744
+    m_Localized: "Th\u1EED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125696
+    m_Localized: "Luy\u1EC7n t\u1EADp"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125697
+    m_Localized: "Ti\u1EBFp t\u1EE5c"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125698
+    m_Localized: "Tho\xE1t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16973315541356544
+    m_Localized: "Mua {0} v\xE0 nh\u1EADn th\xEAm ph\u1EA7n th\u01B0\u1EDFng."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

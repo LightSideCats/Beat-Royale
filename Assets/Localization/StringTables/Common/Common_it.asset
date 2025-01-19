@@ -475,6 +475,26 @@ MonoBehaviour:
     m_Localized: Potenzia il tuo Eroe! Aumenta la sua Salute, Danno d'Attacco.
     m_Metadata:
       m_Items: []
+  - m_Id: 16468547517599744
+    m_Localized: Prova
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125696
+    m_Localized: Allenamento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125697
+    m_Localized: Continua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125698
+    m_Localized: Esci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16973315541356544
+    m_Localized: "Acquista {0} e ricevi pi\xF9 ricompense."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

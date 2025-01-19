@@ -476,6 +476,26 @@ MonoBehaviour:
     m_Localized: Upgrade je held! Verhoog zijn gezondheid, aanvalsschade.
     m_Metadata:
       m_Items: []
+  - m_Id: 16468547517599744
+    m_Localized: Probeer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125696
+    m_Localized: Trainen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125697
+    m_Localized: Doorgaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125698
+    m_Localized: Sluiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16973315541356544
+    m_Localized: Koop {0} en ontvang meer beloningen.
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

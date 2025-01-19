@@ -476,6 +476,26 @@ MonoBehaviour:
     m_Localized: "Melhore seu Her\xF3i! Aumente sua Vida, Dano de Ataque."
     m_Metadata:
       m_Items: []
+  - m_Id: 16468547517599744
+    m_Localized: Testar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125696
+    m_Localized: Treino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125697
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125698
+    m_Localized: Sair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16973315541356544
+    m_Localized: Compre {0} e receba mais recompensas.
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

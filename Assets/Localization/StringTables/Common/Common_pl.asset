@@ -477,6 +477,26 @@ MonoBehaviour:
       ataku."
     m_Metadata:
       m_Items: []
+  - m_Id: 16468547517599744
+    m_Localized: "Wypr\xF3buj"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125696
+    m_Localized: "\u0106wiczenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125697
+    m_Localized: Dalej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125698
+    m_Localized: "Wyj\u015Bcie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16973315541356544
+    m_Localized: "Kup {0} i odbierz wi\u0119cej nagr\xF3d."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -477,6 +477,26 @@ MonoBehaviour:
       ja hy\xF6kk\xE4ysvahinkoa."
     m_Metadata:
       m_Items: []
+  - m_Id: 16468547517599744
+    m_Localized: Kokeile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125696
+    m_Localized: Harjoitus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125697
+    m_Localized: Jatka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125698
+    m_Localized: Poistu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16973315541356544
+    m_Localized: "Osta {0} ja vastaanota lis\xE4\xE4 palkintoja."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

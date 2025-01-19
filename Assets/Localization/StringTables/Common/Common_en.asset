@@ -475,6 +475,26 @@ MonoBehaviour:
     m_Localized: Upgrade your Hero! Increase their Health, Attack Damage.
     m_Metadata:
       m_Items: []
+  - m_Id: 16468547517599744
+    m_Localized: Try
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125696
+    m_Localized: Practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125697
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125698
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16973315541356544
+    m_Localized: Purchase {0} and receive more rewards.
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
