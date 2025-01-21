@@ -45,12 +45,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   services:
-  - {fileID: 0}
-  - {fileID: 0}
   - {fileID: 2128186274167496386, guid: 06f0c09c2e413fc4ba3bce333d9b45c2, type: 3}
   - {fileID: 3530255473193284629, guid: 302dd17178c9f8848a0a78f5b6703dd6, type: 3}
   - {fileID: 4199017385760436708, guid: a3294447644ddee4da06c029d1050207, type: 3}
   - {fileID: 1585972119723843683, guid: 8cf0581abdfb67348aef1c4ac4af0971, type: 3}
   - {fileID: 7525358757767478935, guid: d71f6af05ff306a45a06fa0a979c7643, type: 3}
-  effectors: {fileID: 11400000, guid: 5fbb249a32b59a74d8f6752fa57c6e94, type: 2}
+  onAwake: []
   raids: {fileID: 11400000, guid: dcc17d57655dde94ebc75b0d17d268cb, type: 2}
+  references:
+    version: 2
+    RefIds: []

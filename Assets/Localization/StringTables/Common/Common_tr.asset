@@ -479,6 +479,26 @@ MonoBehaviour:
       ve Sald\u0131r\u0131 Hasar\u0131n\u0131 art\u0131r."
     m_Metadata:
       m_Items: []
+  - m_Id: 16468547517599744
+    m_Localized: Dene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125696
+    m_Localized: "Al\u0131\u015Ft\u0131rma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125697
+    m_Localized: Devam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125698
+    m_Localized: "\xC7\u0131k\u0131\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16973315541356544
+    m_Localized: "{0} sat\u0131n al\u0131n ve daha fazla \xF6d\xFCl al\u0131n."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

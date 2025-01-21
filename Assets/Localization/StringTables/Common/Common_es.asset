@@ -476,6 +476,26 @@ MonoBehaviour:
     m_Localized: "\xA1Mejora a tu H\xE9roe! Aumenta su Salud, Da\xF1o de Ataque."
     m_Metadata:
       m_Items: []
+  - m_Id: 16468547517599744
+    m_Localized: Probar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125696
+    m_Localized: Practicar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125697
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125698
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16973315541356544
+    m_Localized: "Compra {0} y recibe m\xE1s recompensas."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

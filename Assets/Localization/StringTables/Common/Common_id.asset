@@ -476,6 +476,26 @@ MonoBehaviour:
     m_Localized: Tingkatkan Pahlawan Anda! Tingkatkan Kesehatan dan Serangan mereka.
     m_Metadata:
       m_Items: []
+  - m_Id: 16468547517599744
+    m_Localized: Coba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125696
+    m_Localized: Latihan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125697
+    m_Localized: Lanjutkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125698
+    m_Localized: Keluar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16973315541356544
+    m_Localized: Beli {0} dan terima lebih banyak hadiah.
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

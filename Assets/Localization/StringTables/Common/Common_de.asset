@@ -476,6 +476,26 @@ MonoBehaviour:
     m_Localized: "Verbessere deinen Helden! Erh\xF6he seine Gesundheit, Angriffsschaden."
     m_Metadata:
       m_Items: []
+  - m_Id: 16468547517599744
+    m_Localized: Ausprob.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125696
+    m_Localized: Training
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125697
+    m_Localized: Weiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16468547572125698
+    m_Localized: Verlassen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16973315541356544
+    m_Localized: Kaufen Sie {0} und erhalten Sie mehr Belohnungen.
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
