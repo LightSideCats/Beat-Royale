@@ -303,7 +303,7 @@ MonoBehaviour:
         graphicAnim:
           rid: 1284474248984527004
     - rid: 6306143568870244366
-      type: {class: EaseOption, ns: LSCore.AnimationsModule.Animations.Options, asm: LSCore.AnimationsModule}
+      type: {class: SetEase, ns: LSCore.AnimationsModule.Animations.Options, asm: LSCore.AnimationsModule}
       data:
         useCustom: 0
         curve:

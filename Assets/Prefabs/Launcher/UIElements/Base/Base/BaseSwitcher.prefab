@@ -116,7 +116,7 @@ MonoBehaviour:
             anim:
               rid: 3302317827636854964
     - rid: 3302317827636854960
-      type: {class: EaseOption, ns: LSCore.AnimationsModule.Animations.Options, asm: LSCore.AnimationsModule}
+      type: {class: SetEase, ns: LSCore.AnimationsModule.Animations.Options, asm: LSCore.AnimationsModule}
       data:
         useCustom: 0
         curve:

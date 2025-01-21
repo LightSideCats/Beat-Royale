@@ -7310,7 +7310,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
       propertyPath: 'managedReferences[3302317827636855341]'
-      value: LSCore.AnimationsModule LSCore.AnimationsModule.Animations.Options.EaseOption
+      value: LSCore.AnimationsModule LSCore.AnimationsModule.Animations.Options.SetEase
       objectReference: {fileID: 0}
     - target: {fileID: 1710949144462791051, guid: bd2613e153f00c5408c598d78d28b811, type: 3}
       propertyPath: 'managedReferences[3302317827636855343]'
