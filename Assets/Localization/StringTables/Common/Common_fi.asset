@@ -497,6 +497,18 @@ MonoBehaviour:
     m_Localized: "Osta {0} ja vastaanota lis\xE4\xE4 palkintoja."
     m_Metadata:
       m_Items: []
+  - m_Id: 17190857224540160
+    m_Localized: Jatka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123072
+    m_Localized: Jatka painamalla...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123073
+    m_Localized: Paina saadaksesi palkintoja...
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

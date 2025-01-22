@@ -55,6 +55,10 @@ MonoBehaviour:
     m_Key: enter
     m_Metadata:
       m_Items: []
+  - m_Id: 17190857224540160
+    m_Key: confirmInput
+    m_Metadata:
+      m_Items: []
   - m_Id: 703562212495360
     m_Key: logIn
     m_Metadata:
@@ -485,6 +489,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 16973315541356544
     m_Key: astroboostRewards.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123072
+    m_Key: pressToContinue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123073
+    m_Key: pressToGetRewards
     m_Metadata:
       m_Items: []
   m_Metadata:

@@ -496,6 +496,18 @@ MonoBehaviour:
     m_Localized: Compre {0} e receba mais recompensas.
     m_Metadata:
       m_Items: []
+  - m_Id: 17190857224540160
+    m_Localized: Inserir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123072
+    m_Localized: Pressione para continuar...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123073
+    m_Localized: Pressione para receber recompensas...
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

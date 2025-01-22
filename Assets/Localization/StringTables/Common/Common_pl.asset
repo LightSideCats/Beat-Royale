@@ -497,6 +497,18 @@ MonoBehaviour:
     m_Localized: "Kup {0} i odbierz wi\u0119cej nagr\xF3d."
     m_Metadata:
       m_Items: []
+  - m_Id: 17190857224540160
+    m_Localized: Wpisz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123072
+    m_Localized: "Naci\u015Bnij, aby kontynuowa\u0107..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123073
+    m_Localized: "Naci\u015Bnij, aby odebra\u0107 nagrody..."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

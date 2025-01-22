@@ -496,6 +496,18 @@ MonoBehaviour:
     m_Localized: Kaufen Sie {0} und erhalten Sie mehr Belohnungen.
     m_Metadata:
       m_Items: []
+  - m_Id: 17190857224540160
+    m_Localized: Abschicken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123072
+    m_Localized: "Dr\xFCcken Sie, um fortzufahren..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123073
+    m_Localized: "Dr\xFCcken Sie, um Belohnungen zu erhalten..."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

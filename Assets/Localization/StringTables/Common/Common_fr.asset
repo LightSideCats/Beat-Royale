@@ -498,6 +498,18 @@ MonoBehaviour:
     m_Localized: "Achetez {0} et recevez plus de r\xE9compenses."
     m_Metadata:
       m_Items: []
+  - m_Id: 17190857224540160
+    m_Localized: Valider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123072
+    m_Localized: Appuyez pour continuer...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123073
+    m_Localized: "Appuyez pour obtenir des r\xE9compenses..."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

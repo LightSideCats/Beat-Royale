@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 94fde9c78b32e6d46b7d21d885a72335
+guid: 66ba8868ef5ed2548880b573fabddd8b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1511786548200243846
-    second: tooltip-pointer-up2_0
+      213: -6521192531513303137
+    second: stick-background_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tooltip-pointer-up2_0
+      name: stick-background_0
       rect:
         serializedVersion: 2
-        x: 58
-        y: 218
-        width: 908
-        height: 615
+        x: 10
+        y: 10
+        width: 492
+        height: 492
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68280b51bd1faf410800000000000000
-      internalID: 1511786548200243846
+      spriteID: f9f183f71f11085a0800000000000000
+      internalID: -6521192531513303137
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tooltip-pointer-up2_0: 1511786548200243846
+      stick-background_0: -6521192531513303137
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

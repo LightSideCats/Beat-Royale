@@ -496,6 +496,18 @@ MonoBehaviour:
     m_Localized: "Compra {0} y recibe m\xE1s recompensas."
     m_Metadata:
       m_Items: []
+  - m_Id: 17190857224540160
+    m_Localized: Ayudar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123072
+    m_Localized: Pulsa para continuar...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123073
+    m_Localized: Pulsa para obtener recompensas...
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

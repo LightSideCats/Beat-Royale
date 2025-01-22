@@ -499,6 +499,18 @@ MonoBehaviour:
     m_Localized: "{0} sat\u0131n al\u0131n ve daha fazla \xF6d\xFCl al\u0131n."
     m_Metadata:
       m_Items: []
+  - m_Id: 17190857224540160
+    m_Localized: Gir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123072
+    m_Localized: "Devam etmek i\xE7in bas\u0131n..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123073
+    m_Localized: "\xD6d\xFCl almak i\xE7in bas\u0131n..."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

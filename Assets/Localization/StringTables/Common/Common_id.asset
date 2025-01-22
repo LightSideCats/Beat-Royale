@@ -496,6 +496,18 @@ MonoBehaviour:
     m_Localized: Beli {0} dan terima lebih banyak hadiah.
     m_Metadata:
       m_Items: []
+  - m_Id: 17190857224540160
+    m_Localized: Masukkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123072
+    m_Localized: Tekan untuk melanjutkan...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123073
+    m_Localized: Tekan untuk mendapatkan hadiah...
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

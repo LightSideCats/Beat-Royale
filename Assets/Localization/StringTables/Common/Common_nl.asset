@@ -496,6 +496,18 @@ MonoBehaviour:
     m_Localized: Koop {0} en ontvang meer beloningen.
     m_Metadata:
       m_Items: []
+  - m_Id: 17190857224540160
+    m_Localized: Invoeren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123072
+    m_Localized: Druk om door te gaan...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17190857237123073
+    m_Localized: Druk om beloningen te ontvangen...
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
