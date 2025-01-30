@@ -11,14 +11,11 @@ namespace Battle.Windows
     {
         [SerializeField] private GameObject winState;
         [SerializeField] private GameObject loseState;
-
+ 
         public static void Show(bool isWin)
         {
             DOTween.KillAll();
             Show();
-            PlayerWorld.Stop();
-            OpponentWorld.Stop();
-            Debug.Log("Stopped");
             Instance.Internal_Show(isWin);
         }
 

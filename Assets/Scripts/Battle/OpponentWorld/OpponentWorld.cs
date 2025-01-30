@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Battle.Data;
+using Battle.Windows;
 using LSCore;
 using LSCore.BattleModule;
 using LSCore.Extensions.Unity;
@@ -38,7 +39,14 @@ namespace Battle
         
         protected override void OnBegin()
         {
+            MatchResultWindow.Showing += OnMatchResultShowing;
             AddDebugData();
+        }
+        
+        private void OnMatchResultShowing()
+        {
+            MatchResultWindow.Showing -= OnMatchResultShowing;
+            Stop();
         }
 
         private OnOffPool<Unit> CreatePoolById(Id id)

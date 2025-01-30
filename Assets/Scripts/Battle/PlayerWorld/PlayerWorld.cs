@@ -18,12 +18,19 @@ namespace Battle
 
         protected override void OnBegin()
         {
+            MatchResultWindow.Showing += OnMatchResultShowing;
             var prefab = heroes.GetCurrentLevel<Unit>(PlayerData.Config.SelectedHero.Value);
             var pool = CreatePool(prefab);
             pool.Released += OnHeroDied;
             hero = pool.Get();
             HeroTransform = hero.transform;
             CameraMover.Init(BattleWorld.Camera, HeroTransform, cameraOffset);
+        }
+
+        private void OnMatchResultShowing()
+        {
+            MatchResultWindow.Showing -= OnMatchResultShowing;
+            Stop();
         }
 
         private void OnHeroDied(Unit unit)
