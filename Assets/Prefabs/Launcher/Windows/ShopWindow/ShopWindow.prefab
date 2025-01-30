@@ -60,6 +60,10 @@ PrefabInstance:
       value: LSCore.WindowModule LSCore.SetParentAction
       objectReference: {fileID: 0}
     - target: {fileID: -4816155925899233644, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
+      propertyPath: managedReferences[6254766537536176936].id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -4816155925899233644, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: managedReferences[6254766537536176937].root
       value: 
       objectReference: {fileID: 5839082300874776668}
@@ -77,6 +81,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4816155925899233644, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: managedReferences[6254766537536176937].worldPositionStays
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4816155925899233644, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
+      propertyPath: managedReferences[6254766537536176936].showOnlyWhenCreated
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -4816155925899233644, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
@@ -418,6 +426,10 @@ PrefabInstance:
       value: LSCore.WindowModule LSCore.SetParentAction
       objectReference: {fileID: 0}
     - target: {fileID: -4816155925899233644, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
+      propertyPath: managedReferences[6254766537536176939].id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -4816155925899233644, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: managedReferences[6254766537536176940].root
       value: 
       objectReference: {fileID: 5839082300874776668}
@@ -443,6 +455,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4816155925899233644, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
       propertyPath: managedReferences[6254766537536176940].worldPositionStays
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4816155925899233644, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
+      propertyPath: managedReferences[6254766537536176939].showOnlyWhenCreated
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -4816155925899233644, guid: 2253c6013e911e24f88dfa44a22e9f2c, type: 3}
@@ -660,6 +676,10 @@ PrefabInstance:
       value: LSCore.WindowModule LSCore.SetParentAction
       objectReference: {fileID: 0}
     - target: {fileID: 1603517878395790841, guid: 9705078eaa1fe34468811b845e10b5c5, type: 3}
+      propertyPath: managedReferences[3302317650188173340].id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1603517878395790841, guid: 9705078eaa1fe34468811b845e10b5c5, type: 3}
       propertyPath: managedReferences[3302317650188173341].root
       value: 
       objectReference: {fileID: 5839082300874776668}
@@ -677,6 +697,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1603517878395790841, guid: 9705078eaa1fe34468811b845e10b5c5, type: 3}
       propertyPath: managedReferences[3302317650188173341].worldPositionStays
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1603517878395790841, guid: 9705078eaa1fe34468811b845e10b5c5, type: 3}
+      propertyPath: managedReferences[3302317650188173340].showOnlyWhenCreated
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1603517878395790841, guid: 9705078eaa1fe34468811b845e10b5c5, type: 3}
