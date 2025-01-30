@@ -2687,11 +2687,6 @@ MonoBehaviour:
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
---- !u!4 &1961770896 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2121424196292172920, guid: fd257cc1fb41f914a98e395462b2da7d, type: 3}
-  m_PrefabInstance: {fileID: 1961770888}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1968036811
 GameObject:
   m_ObjectHideFlags: 0
@@ -2741,32 +2736,10 @@ MonoBehaviour:
   loop: 0
   reverse: 0
   updateMode: 1
-  data:
-  - clip: {fileID: 11400000, guid: fb4eb7b53aa8b2b4ca0e13d256d43750, type: 2}
-    handlers:
-    - rid: 2157307301066441045
-    events: []
-  - clip: {fileID: 11400000, guid: 578f60c7455a33644a574e1a684f89c0, type: 2}
-    handlers:
-    - rid: 2157307301066441046
-    events: []
+  data: []
   references:
     version: 2
-    RefIds:
-    - rid: 2157307301066441045
-      type: {class: TransformPosition, ns: LSCore.AnimationsModule, asm: LSCore.BadassAnimation}
-      data:
-        guid: 8ddc940ce3714ecd951d8fba78c596c3
-        transform: {fileID: 1961770896}
-        useWorldSpace: 0
-        add: 0
-    - rid: 2157307301066441046
-      type: {class: TransformPosition, ns: LSCore.AnimationsModule, asm: LSCore.BadassAnimation}
-      data:
-        guid: 7520346cb0ff4119bc45e20c0c294526
-        transform: {fileID: 1961770896}
-        useWorldSpace: 0
-        add: 0
+    RefIds: []
 --- !u!1 &2038583751
 GameObject:
   m_ObjectHideFlags: 0
