@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e75b698575e74573b39e2f30f74b70f0, type: 3}
+  m_Name: Castle_RaidConfig_1
+  m_EditorClassIdentifier: 
+  levelsManager: {fileID: 11400000, guid: 136a6e301aded654eb79e521a73f29fc, type: 2}
+  location: {fileID: 11400000, guid: d11414f9bff75154fbdb11bc06ebe918, type: 2}
+  bossStages: []
+  waves:
+  - actions:
+    - rid: 3519438041181847659
+  isInfinity: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 3519438041181847659
+      type: {class: BattleWorld/RegularWave, ns: LSCore.BattleModule, asm: Battle}
+      data:
+        data:
+        - spawner:
+            rid: 3519438041181847660
+          spawnCount: 1
+          timeRef: 5
+          spawnFrequency:
+            serializedVersion: 2
+            m_Curve:
+            - serializedVersion: 3
+              time: 0
+              value: 1
+              inSlope: 0
+              outSlope: 0
+              tangentMode: 34
+              weightedMode: 0
+              inWeight: 0
+              outWeight: 0
+            - serializedVersion: 3
+              time: 1
+              value: 1
+              inSlope: 0
+              outSlope: 0
+              tangentMode: 34
+              weightedMode: 0
+              inWeight: 0
+              outWeight: 0
+            m_PreInfinity: 2
+            m_PostInfinity: 2
+            m_RotationOrder: 4
+        waitAllUnitsAreKilled: 1
+    - rid: 3519438041181847660
+      type: {class: RaidConfig/SingleSpawner, ns: Battle.Data, asm: Battle}
+      data:
+        id: {fileID: -6750239444755058063, guid: 171f2c58f76e3ee498614d74c54d3af4, type: 3}

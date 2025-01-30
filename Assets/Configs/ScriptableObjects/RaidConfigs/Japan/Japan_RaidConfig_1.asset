@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e75b698575e74573b39e2f30f74b70f0, type: 3}
-  m_Name: JapanRaidConfig_1
+  m_Name: Japan_RaidConfig_1
   m_EditorClassIdentifier: 
   levelsManager: {fileID: 11400000, guid: 1c57c63c1194b0e45ba8552403086881, type: 2}
   location: {fileID: 11400000, guid: d11414f9bff75154fbdb11bc06ebe918, type: 2}

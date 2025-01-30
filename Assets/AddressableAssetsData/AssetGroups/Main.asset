@@ -20,13 +20,13 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9a3484dbb33e4d14394ae8dc1328cfa4
-    m_Address: Launcher
+  - m_GUID: d11414f9bff75154fbdb11bc06ebe918
+    m_Address: Forest
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d11414f9bff75154fbdb11bc06ebe918
-    m_Address: Forest
+  - m_GUID: f5c951e641acb8e4bb73e0936ef5eaaa
+    m_Address: Castle_RaidConfig_1
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

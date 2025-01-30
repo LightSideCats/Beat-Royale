@@ -16,7 +16,12 @@ MonoBehaviour:
   m_GUID: 500dcf14bdc1e354bab6c0fff45a9ef3
   m_SerializeEntries:
   - m_GUID: 509f1950904bcd24d90a89cb80fae392
-    m_Address: JapanRaidConfig_1
+    m_Address: Japan_RaidConfig_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78afcfeac697c9e4e9b764264da7b2c4
+    m_Address: Japan_RaidConfig_2
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

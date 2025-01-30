@@ -73,6 +73,5 @@ Assets/FR2_Cache.asset
 .utmp
 Server
 Addressables
-Assets/AssetsUsages.json
 Assets/AddressableAssetsData/Android/addressables_content_state.bin
 Assets/AddressableAssetsData/link.xml.meta

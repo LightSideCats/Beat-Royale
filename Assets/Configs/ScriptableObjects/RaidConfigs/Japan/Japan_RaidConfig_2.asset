@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e75b698575e74573b39e2f30f74b70f0, type: 3}
-  m_Name: JapanRaidConfig_2
+  m_Name: Japan_RaidConfig_2
   m_EditorClassIdentifier: 
   levelsManager: {fileID: 11400000, guid: 1c57c63c1194b0e45ba8552403086881, type: 2}
   location: {fileID: 11400000, guid: d11414f9bff75154fbdb11bc06ebe918, type: 2}
@@ -19,16 +19,27 @@ MonoBehaviour:
   - {fileID: -6750239444755058063, guid: a9bc2fe74ef6c1a458e4c9f703118724, type: 3}
   waves:
   - actions:
-    - rid: 4688942368621330510
+    - rid: 3519438041181847657
   isInfinity: 0
   references:
     version: 2
     RefIds:
-    - rid: 4688942368621330510
-      type: {class: BattleWorld/BossWave, ns: LSCore.BattleModule, asm: Battle}
+    - rid: 3519438041181847657
+      type: {class: BattleWorld/RegularWave, ns: LSCore.BattleModule, asm: Battle}
       data:
-        bossData:
-          fromTo: {x: 0, y: 1}
-          stageIds:
-          - {fileID: -6750239444755058063, guid: 19e5f85d545cc8645a2460fbcff86dde, type: 3}
-          - {fileID: -6750239444755058063, guid: a9bc2fe74ef6c1a458e4c9f703118724, type: 3}
+        data:
+        - spawner:
+            rid: 3519438041181847658
+          spawnCount: 1
+          timeRef: 5
+          spawnFrequency:
+            serializedVersion: 2
+            m_Curve: []
+            m_PreInfinity: 2
+            m_PostInfinity: 2
+            m_RotationOrder: 4
+        waitAllUnitsAreKilled: 0
+    - rid: 3519438041181847658
+      type: {class: RaidConfig/SingleSpawner, ns: Battle.Data, asm: Battle}
+      data:
+        id: {fileID: 0}
