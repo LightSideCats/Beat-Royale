@@ -10,13 +10,14 @@ using UnityEngine;
 
 namespace Battle
 {
-    public partial class OpponentWorld : BasePlayerWorld<OpponentWorld>
+    public partial class OpponentWorld : BaseTeamWorld<OpponentWorld>
     {
         [Serializable]
         public class MoveBehindCamera : CameraCollider2DTrigger.Handler
         {
-            public override void Invoke(Collider2D value)
+            public override void Invoke()
             {
+                Collider2D value = DataBuffer<Collider2D>.value;
                 value.transform.position = BattleWorld.CameraRect.RandomPointAroundRect(2);
             }
         }

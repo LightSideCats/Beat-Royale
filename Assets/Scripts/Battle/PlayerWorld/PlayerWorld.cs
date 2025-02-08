@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace Battle
 {
-    public class PlayerWorld : BasePlayerWorld<PlayerWorld>
+    public class PlayerWorld : BaseTeamWorld<PlayerWorld>
     {
         [SerializeField] private LevelsManager heroes;
         [SerializeField] private Vector3 cameraOffset;
